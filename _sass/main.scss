@@ -1,0 +1,42 @@
+@import 'variables';
+@import 'bootstrap';
+@import 'header';
+@import 'footer';
+@import 'home';
+// @import 'header';
+
+body {
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+.top-buffer {
+  margin-top: $padding-large-horizontal;
+}
+.wrapper {
+  background: #fff;
+  padding: $padding-large-horizontal 0;
+}
+
+
+a.fa:hover {
+  text-decoration: none;
+}
+
+
+.carousel-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: none!important;
+}
+#home-carousel {
+  .carousel-inner {
+    background: #000;
+    overflow: hidden;
+    height: 400px;
+    img {
+      opacity: .8;
+    }
+  }
+}

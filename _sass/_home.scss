@@ -1,0 +1,21 @@
+.home-tile {
+	position: relative;
+	.tile-heading {
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    bottom: 0;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    transition: background .4s ease;
+	    h3 {
+	    	margin: 0;
+	    	text-decoration: none;
+	    }
+	    &:hover {
+	    	background: rgba(255,255,255, .2);
+	    }
+	}
+}
