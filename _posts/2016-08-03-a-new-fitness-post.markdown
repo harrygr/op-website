@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Great Post About Fitness!"
+title:  "A Fitness Post"
 date:   2016-08-03 21:30:48 +0100
 categories: fitness
 ---

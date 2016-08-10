@@ -17,13 +17,28 @@
 	    align-items: center;
 	    transition: background .4s ease;
 	    color: #fff;
+	    .title-container {
+	    	width: 78%;
+	    	height: 67%;
+	    	align-items: center;
+	    	justify-content: center;
+	    	display: flex;
+	    	transition: background .4s ease;
+	    }
 	    h3 {
 	    	margin: 0;
 	    	text-decoration: none;
+	    	transition: color .4s ease;
 	    }
 	    &:hover {
 	    	background: rgba(255,255,255, .22);
 	    	text-decoration: none;
+	    	.title-container {
+	    		background: rgba(255,255,255, .67);
+	    	}
+	    	h3 {
+	    		color: #000;
+	    	}
 	    }
 	}
 }

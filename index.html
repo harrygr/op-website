@@ -47,7 +47,9 @@ layout: default
   <div class="col-sm-3 col-xs-6 top-buffer">
     <div class="home-tile">
       <a href="{{ tile.url }}" class="tile-heading" {% if tile.new %} target="_blank" {% endif %}>
-        <h3>{{ tile.title }}</h3>
+        <div class="title-container">
+          <h3>{{ tile.title }}</h3>
+        </div>
       </a>
       <img src="{{ tile.image }}" class="img-responsive" alt="">
     </div>
@@ -57,13 +59,13 @@ layout: default
 
 <div class="row">
   <div class="col-sm-3 top-buffer">
+  <h2>Latest Posts</h2>
     <ol class="post-list">
       {% for post in site.posts %}
       <li class="post-item">
         <a class="post-link" href="{{ post.url }}">
           <div class="post-info">
-            <p>Post #1</p>
-            <h2>{{ post.title }}</h2>
+            <h3>{{ post.title }}</h3>
           </div>
         </a>
       </li>
