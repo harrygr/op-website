@@ -33,7 +33,7 @@ carousel:
   - image: /images/carousel/op-carousel.jpg
   - image: /images/carousel/pstyle-carousel.jpg
   - image: /images/carousel/pstyle2-carousel.jpg
-  - image: /images/carousel/samson-carousel.png
+  - image: /images/carousel/samson-carousel.jpg
 
 # The home tile options
 home_tiles:
