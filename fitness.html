@@ -1,0 +1,14 @@
+---
+layout: page
+title: Fitness
+permalink: /fitness/
+---
+<ul>
+{% for post in site.categories.fitness %}
+    <li>
+	<a href="{{ post.url }}">
+    	{{ post.title }}</li>
+	</a>
+{% endfor %}
+	
+</ul>
