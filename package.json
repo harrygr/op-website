@@ -1,0 +1,22 @@
+{
+  "name": "op-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrygr/op-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrygr/op-website/issues"
+  },
+  "homepage": "https://github.com/harrygr/op-website#readme",
+  "devDependencies": {
+    "surge": "^0.18.0"
+  }
+}
