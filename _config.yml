@@ -35,6 +35,14 @@ carousel:
   - image: /images/carousel/pstyle2-carousel.jpg
   - image: /images/carousel/samson-carousel.jpg
 
+style_tiles:
+  - image: /images/style/style1.jpg
+  - image: /images/style/style2.jpg
+  - image: /images/style/style3.jpg
+  - image: /images/style/style4.jpg
+  - image: /images/style/style5.jpg
+  - image: /images/style/style6.jpg
+
 # The home tile options
 home_tiles:
   - title: Serge

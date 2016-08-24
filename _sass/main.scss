@@ -30,6 +30,10 @@ a.fa:hover {
   align-items: center;
   background-image: none!important;
 }
+
+section.post-content img{
+  @extend .img-responsive;
+}
 // #home-carousel {
 //   .carousel-inner {
 //     background: #000;
