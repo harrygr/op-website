@@ -31,16 +31,11 @@ layout: default
   </a>
 </div>
 
-<div class="row" id="style-tiles">
+<hr class="home-divider">
 
-<!--   {% for tile in site.style_tiles %}
-  <div class="col-sm-2 col-xs-4 top-buffer">
-    <div class="home-tile">
-      <img src="{{ tile.image }}" class="img-responsive" alt="">
-    </div>
-  </div>
-  {% endfor %} -->
-</div>  
+<div class="row" id="style-tiles"> </div>
+
+<hr class="home-divider">
 
 <div class="row">
   {% for tile in site.home_tiles %}
@@ -57,20 +52,10 @@ layout: default
   {% endfor %}
 </div>
 
+<hr class="home-divider">
+
 <div class="row">
   <div class="col-sm-3 top-buffer">
-<!--   <h2>Latest Posts</h2>
-    <ol class="post-list">
-      {% for post in site.posts %}
-      <li class="post-item">
-        <a class="post-link" href="{{ post.url }}">
-          <div class="post-info">
-            <h3>{{ post.title }}</h3>
-          </div>
-        </a>
-      </li>
-      {% endfor %}
-    </ol> -->
     <div class="lower-grid" id="personal-tiles"></div>
   </div>
   <div class="col-sm-9 top-buffer">

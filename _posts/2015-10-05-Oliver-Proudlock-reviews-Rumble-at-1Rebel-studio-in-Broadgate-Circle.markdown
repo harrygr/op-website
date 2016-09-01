@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oliver Proudlock reviews Rumble at 1Rebel studio in Broadgate Circle"
-date:   2015-010-05 00:00:00
+date:   2015-10-05 00:00:00
 categories: fitness
 lead: Oliver Proudlock takes on the Rumble class at London's new 1Rebel studio
 ---
@@ -20,4 +20,4 @@ I used to box when I was at Newcastle University and for me, boxing is one of th
 
 **My verdict:** Unfortunately I didn't get to experience the whole 45 minute class, but I can't wait to get back there and do a full session. I found the Rumble class to be on a par with the excellent Reshape class. But 1 Rebel isn't just about working out, it is an experience. If you are into the whole active and healthy lifestyle, or want to become part of it, then this is the perfect place for you. Spacious changing rooms with oversized showers and spacious lockers, dedicated vanity areas and high end skincare products mean the post-workout is as much part of the experience. You can also get a post-grind refuel in the shape of a juice courtesy of Roots & Bulbs.
 
-**Where to try it:** 1Rebel, Broadgate Circle, EC2M 2QS; [1rebel.co.uk](http://1rebel.co.uk)
+**Where to try it:** 1Rebel, Broadgate Circle, EC2M 2QS; [1rebel.co.uk](http://1rebel.co.uk){:target="_blank"}

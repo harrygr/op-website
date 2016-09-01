@@ -23,6 +23,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 permalink: pretty
 url: "http://oliverproudlock.com" # the base hostname & protocol for your site
 twitter_username: oliverproudlock
+instagram_username: proudlock
+youtube_username: proudlock
+tumblr_site: http://www.proudlockstyle.com/
 github_username:  jekyll
 
 # Build settings

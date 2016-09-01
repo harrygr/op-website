@@ -34,12 +34,8 @@ a.fa:hover {
 section.post-content img{
   @extend .img-responsive;
 }
-// #home-carousel {
-//   .carousel-inner {
-//     background: #000;
-//     overflow: hidden;
-//     img {
-//       opacity: .8;
-//     }
-//   }
-// }
+
+article img {
+  max-width: 100%;
+  height: auto;
+}
