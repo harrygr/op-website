@@ -6,10 +6,11 @@ layout: default
 
 
   <!-- Indicators -->
-<!--   <ol class="carousel-indicators">
-    <li data-target="#home-carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#home-carousel" data-slide-to="1"></li>
-  </ol> -->
+  <ol class="carousel-indicators">
+      {% for slide in site.carousel %}
+    <li data-target="#home-carousel" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.index0 == 0 %}active{% endif %}"></li>
+        {% endfor %}
+  </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
@@ -37,14 +38,14 @@ layout: default
 
 <hr class="home-divider">
 
-<div class="row">
+<div class="row categories">
   {% for tile in site.home_tiles %}
   <div class="col-sm-3 col-xs-6 top-buffer">
     <div class="home-tile">
       <a href="{{ tile.url }}" class="tile-heading" {% if tile.new %} target="_blank" {% endif %}>
-        <div class="title-container">
+
           <h3>{{ tile.title }}</h3>
-        </div>
+
       </a>
       <img src="{{ tile.image }}" class="img-responsive" alt="">
     </div>
@@ -78,7 +79,7 @@ layout: default
 (function () {
       var settings = {
         get: 'user',
-        resolution: 'low_resolution',
+        resolution: 'thumbnail',
         limit: 6,
       };
 
