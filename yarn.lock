@@ -4361,6 +4361,14 @@ vue@^2.2.2:
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.2.4.tgz#d0a3a050a80a12356d7950ae5a7b3131048209cc"
 
+vuex:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-2.2.1.tgz#a42d0ce18cb0e0359258f84bfd76835ed468c185"
+
+wallop:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/wallop/-/wallop-2.4.1.tgz#147dad109c51a1a6b940c124be76838ae11ffe73"
+
 watchpack@^1.2.0:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.3.1.tgz#7d8693907b28ce6013e7f3610aa2a1acf07dad87"
