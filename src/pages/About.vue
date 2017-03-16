@@ -1,6 +1,6 @@
 <template>
-  <div class="ph4 mt5">
-        <h1 class="f2 mv0 lh-copy fw3 ttu">About</h1>
+  <div class="ph4 mt5 mw9">
+    <h1 class="f2 mv0 lh-copy fw3 ttu">About</h1>
     <section class="fw2 lh-copy">
         <p>Since a very young age, Ollie has had three passions; Music, Art and Fashion. Creativity is something that is incorporated into his everyday routine, and has become part of the fabric that weaves his projects together. Oliverproudlock.com is the culmination of all Oliver’s current working projects, and will be the destination for a variety of commitments, including Art, Serge DeNimes, Proudlock Style, as well as collaborations and exciting news.</p>
         <p>Since leaving Newcastle University, where Ollie completed a degree in Fine Art, he has continued in his mother’s footsteps making the move into fashion. Moving back to London, Oliver set up Serge DeNimes, a design-led brand that presents an exclusive collection of fashion and accessories. Serge focuses on premium, urban apparel of the highest quality. Their original designs epitomize the urban culture and artistic flair that is the foundation of the Serge lifestyle. We strive to create an artistic community that focuses on producing cutting edge designs. In addition to exciting progression within his own brand, Oliver has collaborated on a number of projects. Oliver has designed an exclusive range of 4 styles of shoe for popular brand Oliver Sweeney. The shoe range was sold online, as well in all Oliver Sweeney stores within the UK and one of London’s largest retailers Harvey Nichols.</p>

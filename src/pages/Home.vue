@@ -9,12 +9,20 @@
           <img class="w-100" src="/static/carousel/pstyle-carousel.jpg" alt="">
         </figure>
       </div>
-      <router-link to="/" class="dib w-60-ns mw-100 mw6-ns absolute carousel-logo">
+      <router-link to="/" class="dib w-60-ns mw-100 mw6-ns absolute absolute-center">
         <img src="/static/op-logo-vector-with-tagline-white.svg" alt="">
       </router-link>
     </div>
 
-    This is the home page
+    <div class="mw9 center ph3-ns">
+      <div class="cf ph2-ns">
+        <router-link v-for="tile in tiles" :to="tile.link" class="db fl w-100 w-25-ns pa2 relative">
+          <img :src="tile.image" alt="">
+          <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
+        </router-link>
+      </div>
+    </div>
+
   </div>
 </template>
 
@@ -25,6 +33,25 @@ export default {
   name: 'home',
   data () {
     return {
+      tiles: [
+        {
+          text: 'Style',
+          link: '/style',
+          image: '/static/home/style.jpg',
+        }, {
+          text: 'Fitness',
+          link: '/fitness',
+          image: '/static/home/fitness.jpg',
+        }, {
+          text: 'Serge',
+          link: '/serge',
+          image: '/static/home/serge.jpg',
+        }, {
+          text: 'Travel',
+          link: '/travel',
+          image: '/static/home/travel.jpg',
+        },
+      ],
     }
   },
 
@@ -56,7 +83,7 @@ export default {
     },
 
     handleNav () {
-      this.$store.commit('setNavInverted', window.pageYOffset > 300)
+      this.$store.commit('setNavInverted', window.pageYOffset > 50)
     },
   },
 }
@@ -66,7 +93,7 @@ export default {
   .Wallop-list img {
     filter: brightness(70%);
   }
-  .carousel-logo {
+  .absolute-center {
     top: 50%;
     left: 50%;
     z-index: 99;

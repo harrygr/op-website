@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    <nav id="navbar" class="fixed z-5 w-100 bb top-0" :class="$store.state.invertNav ? 'b--black bg-white' : 'b--white'">
+  <div id="app" class="flex flex-column min-vh-100">
+    <nav id="navbar" class="fixed z-5 w-100 bb top-0 bg-animate z-999" :class="$store.state.invertNav ? 'b--black bg-white' : 'b--white'">
       <ul class="list pl0 ma0 flex justify-center f4 ttu no-underline">
         <li v-for="item in navItems" class="dib">
           <router-link :to="item.link" class="ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</router-link>
@@ -16,9 +16,13 @@
     </header>
     -->
 
-    <main>
+    <main class="flex-1">
       <router-view></router-view>
     </main>
+
+    <footer class="bg-black-70 mt4 pa4 white-40 f6 fw3">
+      Copyright {{ new Date().getFullYear() }}
+    </footer>
   </div>
 </template>
 
@@ -54,5 +58,9 @@ html {
 }
 figure {
   margin: 0;
+  box-sizing: border-box;
+}
+.flex-1 {
+  flex: 1;
 }
 </style>
