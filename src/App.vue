@@ -17,7 +17,9 @@
     -->
 
     <main class="flex-1">
-      <router-view></router-view>
+      <transition name="fade">
+        <router-view></router-view>
+      </transition>
     </main>
 
     <footer class="bg-black-70 mt4 pa4 white-40 f6 fw3">
@@ -29,6 +31,9 @@
 <script>
 export default {
   name: 'app',
+  mounted () {
+    this.$store.dispatch('getPosts')
+  },
   data () {
     return {
       navItems: [
@@ -39,11 +44,22 @@ export default {
           title: 'About',
           link: '/about',
         }, {
+          title: 'Travel',
+          link: '/posts/travel',
+        }, {
+          title: 'Fitness',
+          link: '/posts/fitness',
+        }, {
           title: 'Shop',
           link: 'http://sergedenimes.com',
         },
       ],
     }
+  },
+  computed: {
+    travelPosts () {
+      return this.$store.getters.postsInCategory('travel')
+    },
   },
 }
 </script>
@@ -62,5 +78,17 @@ figure {
 }
 .flex-1 {
   flex: 1;
+}
+.fade-enter-active, .fade-leave-active {
+  transition-property: opacity;
+  transition-duration: .15s;
+}
+
+.fade-enter-active {
+  transition-delay: .15s;
+}
+
+.fade-enter, .fade-leave-active {
+  opacity: 0
 }
 </style>

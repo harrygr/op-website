@@ -16,7 +16,7 @@
 
     <div class="mw9 center ph3-ns">
       <div class="cf ph2-ns">
-        <router-link v-for="tile in tiles" :to="tile.link" class="db fl w-100 w-25-ns pa2 relative">
+        <router-link v-for="(tile, index) in tiles" :key="index" :to="tile.link" class="db fl w-100 w-25-ns pa2 relative">
           <img :src="tile.image" alt="">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </router-link>
@@ -40,7 +40,7 @@ export default {
           image: '/static/home/style.jpg',
         }, {
           text: 'Fitness',
-          link: '/fitness',
+          link: '/posts/fitness',
           image: '/static/home/fitness.jpg',
         }, {
           text: 'Serge',
@@ -48,7 +48,7 @@ export default {
           image: '/static/home/serge.jpg',
         }, {
           text: 'Travel',
-          link: '/travel',
+          link: '/posts/travel',
           image: '/static/home/travel.jpg',
         },
       ],
