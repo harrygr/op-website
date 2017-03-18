@@ -1,12 +1,18 @@
 <template>
   <div>
-    <div class="Wallop relative" ref="carousel">
+    <div class="Wallop relative mb2" ref="carousel">
       <div class="Wallop-list Wallop--fade">
         <figure class="Wallop-item">
-          <img class="w-100" src="/static/carousel/op-carousel.jpg" alt="">
+          <img class="w-100 db" src="/static/carousel/op-carousel.jpg" alt="">
         </figure>
         <figure class="Wallop-item">
-          <img class="w-100" src="/static/carousel/pstyle-carousel.jpg" alt="">
+          <img class="w-100 db" src="/static/carousel/pstyle-carousel.jpg" alt="">
+        </figure>
+        <figure class="Wallop-item">
+          <img class="w-100 db" src="/static/carousel/pstyle2-carousel.jpg" alt="">
+        </figure>
+        <figure class="Wallop-item">
+          <img class="w-100 db" src="/static/carousel/samson-carousel.jpg" alt="">
         </figure>
       </div>
       <router-link to="/" class="dib w-60-ns mw-100 mw6-ns absolute absolute-center">
@@ -16,10 +22,16 @@
 
     <div class="mw9 center ph3-ns">
       <div class="cf ph2-ns">
-        <router-link v-for="(tile, index) in tiles" :key="index" :to="tile.link" class="db fl w-100 w-25-ns pa2 relative">
-          <img :src="tile.image" alt="">
+      <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns pa2">
+        <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative">
+          <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </router-link>
+        <a v-if="tile.link.slice(0,4) === 'http'" :href="tile.link" class="db relative">
+          <img :src="tile.image" alt="" class="db">
+          <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
+        </a>
+      </div>
       </div>
     </div>
 
@@ -31,7 +43,7 @@
           class="db fl w-100 w-20-ns pa2 relative"
           target="_blank"
         >
-          <img :src="instagram.images.standard_resolution.url" :alt="instagram.caption.text">
+          <img :src="instagram.images.standard_resolution.url" :alt="instagram.caption.text" class="db">
         </a>
       </div>
     </div>
@@ -49,7 +61,7 @@ export default {
       tiles: [
         {
           text: 'Style',
-          link: '/style',
+          link: 'http://proudlockstyle.com',
           image: '/static/home/style.jpg',
         }, {
           text: 'Fitness',
@@ -57,7 +69,7 @@ export default {
           image: '/static/home/fitness.jpg',
         }, {
           text: 'Serge',
-          link: '/serge',
+          link: 'http://sergedenimes.com',
           image: '/static/home/serge.jpg',
         }, {
           text: 'Travel',

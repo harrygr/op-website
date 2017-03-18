@@ -15,20 +15,47 @@
       </transition>
     </main>
 
-    <footer class="bg-black-70 mt4 pa4 white-40 f6 fw3">
-      Copyright {{ new Date().getFullYear() }}
+    <footer class="bg-black-70 mt4 pa4 white-40 f6 fw3 flex justify-between items-center">
+      <div>&copy; Copyright {{ new Date().getFullYear() }}</div>
+      <div class="ml-auto">
+        <a v-for="icon in socialIcons" :href="icon.link" class="link br-pill ba dib white-40 b-white-40 hover-white-60 f5 inline-flex items-center justify-center h2 w2 ml2">
+          <i class="fa fa-fw" :class="`fa-${icon.icon}`"></i>
+        </a>
+      </div>
     </footer>
+
+    <transition name="fade">
+      <div class="aspect-ratio--object flex items-center justify-center loading-overlay" v-show="$store.state.loading">
+        Loading...
+      </div>
+    </transition>
   </div>
 </template>
 
 <script>
 export default {
   name: 'app',
-  mounted () {
-    this.$store.dispatch('getPosts')
-  },
   data () {
     return {
+      socialIcons: [
+        {
+          icon: 'facebook',
+          link: 'http://www.facebook.com/pages/Serge-DeNimes/197436926939967',
+        }, {
+          icon: 'twitter',
+          link: 'http://www.twitter.com/sergedenimes',
+        }, {
+          icon: 'tumblr',
+          link: 'http://soserge.com/',
+        }, {
+          icon: 'youtube',
+          link: 'http://www.youtube.com/sdnimes',
+        }, {
+          icon: 'instagram',
+          link: 'http://instagram.com/sergedenimes',
+        },
+
+      ],
       navItems: [
         {
           title: 'Home',
@@ -83,5 +110,9 @@ figure {
 
 .fade-enter, .fade-leave-active {
   opacity: 0
+}
+
+.loading-overlay {
+  background: rgba(255,255,255, .3);
 }
 </style>

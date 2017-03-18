@@ -3,47 +3,45 @@ import qs from 'qs'
 import content from './content'
 import config from './config'
 
-const contentIds = {
-  posts: '2wKn6yEnZewu2SCCkus4as',
-}
-
 export default {
   state: {
     invertNav: true,
     posts: [],
     instagrams: [],
+    postCategory: null,
+    loading: false,
   },
   mutations: {
     setNavInverted (state, inverted) {
       state.invertNav = inverted
     },
-    setPosts  (state, {posts}) {
+    setLoading (state, {loading}) {
+      state.loading = loading
+    },
+    setPosts (state, {posts, postCategory}) {
       state.posts = posts
+      state.postCategory = postCategory
     },
     setInstagrams (state, {instagrams}) {
       state.instagrams = instagrams
     },
   },
   actions: {
-    getPosts ({commit}) {
-      content.getEntries({
-        content_type: contentIds.posts,
-      }).then(entries => commit('setPosts', {posts: entries.items.map(post => post.fields)}))
+    getPosts ({commit}, {category}) {
+      commit('setLoading', {loading: true})
+      content.getPosts({category}).then(posts => {
+        commit('setPosts', {posts, postCategory: category})
+        commit('setLoading', {loading: false})
+      }).catch(err => {
+        commit('setLoading', {loading: false})
+        return Promise.reject(err)
+      })
     },
     getInstagrams ({commit}) {
       getInstagramPhotos()
         .then(instagrams => commit('setInstagrams', {instagrams}))
     },
   },
-  getters: {
-    postsInCategory: (state) => (category) => {
-      return state.posts.filter(post => getPostCategory(post).toLowerCase() === category.toLowerCase())
-    },
-  },
-}
-
-function getPostCategory (post) {
-  return (post.category && post.category.length) ? post.category[0].fields.title : ''
 }
 
 function getInstagramPhotos () {
