@@ -3,18 +3,11 @@
     <nav id="navbar" class="fixed z-5 w-100 bb top-0 bg-animate z-999" :class="$store.state.invertNav ? 'b--black bg-white' : 'b--white'">
       <ul class="list pl0 ma0 flex justify-center f4 ttu no-underline">
         <li v-for="item in navItems" class="dib">
-          <router-link :to="item.link" class="ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</router-link>
+          <router-link v-if="item.link.slice(0,4) !== 'http'" :to="item.link" class="ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</router-link>
+          <a v-if="item.link.slice(0,4) === 'http'" :href="item.link" class="ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</a>
         </li>
       </ul>
     </nav>
-
-    <!--
-    <header class="tc ph4">
-      <router-link to="/" class="dib w-60-ns mw-100 mw6-ns">
-        <img src="/static/op-logo-vector-with-tagline.svg" alt="">
-      </router-link>
-    </header>
-    -->
 
     <main class="flex-1">
       <transition name="fade">

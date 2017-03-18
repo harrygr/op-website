@@ -23,6 +23,19 @@
       </div>
     </div>
 
+    <div class="mw9 center ph3-ns">
+      <div class="cf ph2-ns">
+        <a
+          v-for="(instagram, index) in $store.state.instagrams"
+          :key="index" :href="instagram.link"
+          class="db fl w-100 w-20-ns pa2 relative"
+          target="_blank"
+        >
+          <img :src="instagram.images.standard_resolution.url" :alt="instagram.caption.text">
+        </a>
+      </div>
+    </div>
+
   </div>
 </template>
 
@@ -58,6 +71,9 @@ export default {
   mounted () {
     this.initCarousel()
     this.initNav()
+    if (!this.$store.state.instagrams.length) {
+      this.$store.dispatch('getInstagrams')
+    }
   },
 
   destroyed () {
@@ -87,6 +103,7 @@ export default {
     },
   },
 }
+
 </script>
 
 <style scoped>
