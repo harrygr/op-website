@@ -1,21 +1,19 @@
 <template>
 <div class="ph4 mt5 mw9">
-  <article>
-    <h1 class="f2 mv0 lh-copy fw3 ttu">{{ post.title }}</h1>
-    <time v-if="post.date" :datetime="post.date" itemprop="datePublished">{{ post.date }}</time>
-    <section class="fw2 lh-copy" v-html="post.content">
-    </section>
-  </article>
+  <post v-if="post" :post="post"></post>
+  <not-found v-if="notFound"></not-found>
 </div>
 </template>
 
 <script>
 import content from '../content'
+import notFound from './404'
 
 export default {
   data () {
     return {
       post: {},
+      notFound: false,
     }
   },
   mounted () {
@@ -30,9 +28,13 @@ export default {
           this.$store.commit('setLoading', {loading: false})
         }).catch(err => {
           this.$store.commit('setLoading', {loading: false})
+          if (err.response.status === 404) {
+            this.notFound = true
+          }
           return Promise.reject(err)
         })
     },
   },
+  components: { notFound },
 }
 </script>

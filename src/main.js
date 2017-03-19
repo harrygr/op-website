@@ -5,10 +5,13 @@ import Vuex from 'vuex'
 import App from './App'
 import router from './router'
 import store from './store'
+import components from './components'
 
 Vue.config.productionTip = false
 
 Vue.use(Vuex)
+
+Object.keys(components).forEach(name => Vue.component(name, components[name]))
 
 /* eslint-disable no-new */
 new Vue({

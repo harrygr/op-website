@@ -26,7 +26,7 @@
 
     <transition name="fade">
       <div class="aspect-ratio--object flex items-center justify-center loading-overlay" v-show="$store.state.loading">
-        Loading...
+        <i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw dark-gray"></i>
       </div>
     </transition>
   </div>

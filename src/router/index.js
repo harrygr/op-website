@@ -4,6 +4,7 @@ import Home from '@/pages/Home'
 import About from '@/pages/About'
 import Posts from '@/pages/Posts'
 import Post from '@/pages/Post'
+import NotFound from '@/pages/404'
 
 Vue.use(Router)
 
@@ -25,6 +26,10 @@ export default new Router({
       path: '/posts/:category/:id',
       name: 'Post',
       component: Post,
+    }, {
+      path: '*',
+      name: '404',
+      component: NotFound,
     },
   ],
 })

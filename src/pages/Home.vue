@@ -23,11 +23,11 @@
     <div class="mw9 center ph3-ns">
       <div class="cf ph2-ns">
       <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns pa2">
-        <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative">
+        <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative dim">
           <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </router-link>
-        <a v-if="tile.link.slice(0,4) === 'http'" :href="tile.link" class="db relative">
+        <a v-if="tile.link.slice(0,4) === 'http'" :href="tile.link" class="db relative dim" target="_blank">
           <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </a>
@@ -40,7 +40,7 @@
         <a
           v-for="(instagram, index) in $store.state.instagrams"
           :key="index" :href="instagram.link"
-          class="db fl w-100 w-20-ns pa2 relative"
+          class="db fl w-100 w-20-ns pa2 relative dim"
           target="_blank"
         >
           <img :src="instagram.images.standard_resolution.url" :alt="instagram.caption.text" class="db">
