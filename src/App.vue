@@ -1,15 +1,43 @@
 <template>
   <div id="app" class="flex flex-column min-vh-100">
-    <nav id="navbar" class="fixed z-5 w-100 bb top-0 bg-animate z-999" :class="$store.state.invertNav ? 'b--black bg-white' : 'b--white'">
-      <ul class="list pl0 ma0 flex justify-center f4 ttu no-underline">
-        <li v-for="item in navItems" class="dib">
-          <router-link v-if="item.link.slice(0,4) !== 'http'" :to="item.link" class="ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</router-link>
-          <a v-if="item.link.slice(0,4) === 'http'" :href="item.link" class="ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</a>
+    <nav
+      id="navbar"
+      class="fixed-ns z-5 w-100 bb top-0 bg-animate z-999 flex items-center justify-between relative"
+      :class="$store.state.invertNav ? 'b--black bg-white' : 'b--white'"
+    >
+      <button
+        class="br1 black dim pv2 ph3 ma3 ba dn-ns b--black outline-0 button-reset"
+        :class="navVisible ? 'bg-black-20' : 'bg-white'"
+        @click="navVisible = !navVisible"
+      >
+        <i class="fa fa-bars"></i>
+      </button>
+
+      <ul
+        class="list pl0 ma0 flex-ns f4 ttu no-underline nav-links db-ns overflow-x-auto"
+        :class="navVisible ? 'db shadow-4' : 'dn'"
+      >
+        <li v-for="item in navItems" class="db dib-ns" @click="navVisible = false">
+          <router-link v-if="item.link.slice(0,4) !== 'http'" :to="item.link" class="ph3-m ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</router-link>
+          <a v-if="item.link.slice(0,4) === 'http'" :href="item.link" class="ph3-m ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</a>
+        </li>
+      </ul>
+
+      <ul class="ml-auto list pr2 dn-m db nav-social-icons">
+        <li>
+          <a
+            v-for="icon in socialIcons"
+            :href="icon.link"
+            class="link br-pill ba dib f6 inline-flex items-center justify-center h1-5 w1-5 mh1 dim"
+            :class="$store.state.invertNav ? 'black' : 'white'"
+          >
+            <i class="fa fa-fw" :class="`fa-${icon.icon}`"></i>
+          </a>
         </li>
       </ul>
     </nav>
 
-    <main class="flex-1">
+    <main class="flex-1 georgia">
       <transition name="fade">
         <router-view></router-view>
       </transition>
@@ -17,11 +45,7 @@
 
     <footer class="bg-black-70 mt4 pa4 white-40 f6 fw3 flex justify-between items-center">
       <div>&copy; Copyright {{ new Date().getFullYear() }}</div>
-      <div class="ml-auto">
-        <a v-for="icon in socialIcons" :href="icon.link" class="link br-pill ba dib white-40 b-white-40 hover-white-60 f5 inline-flex items-center justify-center h2 w2 ml2">
-          <i class="fa fa-fw" :class="`fa-${icon.icon}`"></i>
-        </a>
-      </div>
+
     </footer>
 
     <transition name="fade">
@@ -37,6 +61,7 @@ export default {
   name: 'app',
   data () {
     return {
+      navVisible: false,
       socialIcons: [
         {
           icon: 'facebook',
@@ -85,12 +110,26 @@ export default {
 </script>
 
 <style>
+  @media screen and (max-width: 30em) {
+    .nav-links {
+      background-color: white;
+      position: absolute;
+      top: 100%;
+    }
+    .nav-links a, .nav-social-icons a {
+      color: black;
+    }
+  }
+
 body,
 html {
   background: white;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
+}
+.sans-serif {
+  font-family: "Montserrat", sans-serif;
 }
 figure {
   margin: 0;
@@ -114,5 +153,11 @@ figure {
 
 .loading-overlay {
   background: rgba(255,255,255, .3);
+}
+.h1-5 {
+  height: 24px;
+}
+.w1-5 {
+  width: 24px;
 }
 </style>

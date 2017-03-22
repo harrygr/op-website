@@ -22,7 +22,7 @@
 
     <div class="mw9 center ph3-ns">
       <div class="cf ph2-ns">
-      <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns pa2">
+      <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns pa2 sans-serif">
         <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative dim">
           <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
