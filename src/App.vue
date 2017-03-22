@@ -126,6 +126,7 @@ html {
   background: white;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
+  font-size: 15px;
   -webkit-font-smoothing: antialiased;
 }
 .sans-serif {
