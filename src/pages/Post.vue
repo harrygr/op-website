@@ -25,6 +25,7 @@ export default {
       content.getPost({id: this.$route.params.id})
         .then(post => {
           this.post = post
+          this.$store.commit('setTitle', {title: post.title})
           this.$store.commit('setLoading', {loading: false})
         }).catch(err => {
           this.$store.commit('setLoading', {loading: false})

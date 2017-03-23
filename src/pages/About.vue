@@ -11,3 +11,11 @@
     </section>
   </div>
 </template>
+
+<script>
+  export default {
+    mounted () {
+      this.$store.commit('setTitle', {title: 'About'})
+    },
+  }
+</script>

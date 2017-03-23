@@ -6,3 +6,11 @@
     </p>
   </div>
 </template>
+
+<script>
+  export default {
+    mounted () {
+      this.$store.commit('setTitle', {title: '404 Page Not Found'})
+    },
+  }
+</script>

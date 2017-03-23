@@ -110,6 +110,14 @@ export default {
       const textColor = this.$store.state.invertNav ? 'black' : 'white'
       return `ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100 ${textColor}`
     },
+    pageTitle () {
+      return (this.$store.state.title ? `${this.$store.state.title} | ` : '') + 'Oliver Proudlock'
+    },
+  },
+  watch: {
+    pageTitle (title) {
+      document.title = title
+    },
   },
 }
 </script>

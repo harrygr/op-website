@@ -10,6 +10,7 @@ export default {
     instagrams: [],
     postCategory: null,
     loading: false,
+    title: null,
   },
   mutations: {
     setNavInverted (state, inverted) {
@@ -24,6 +25,9 @@ export default {
     },
     setInstagrams (state, {instagrams}) {
       state.instagrams = instagrams
+    },
+    setTitle (state, {title}) {
+      state.title = title
     },
   },
   actions: {

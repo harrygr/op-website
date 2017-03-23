@@ -13,6 +13,7 @@
   export default {
     mounted () {
       this.fetchPosts()
+      this.setPageTitle()
     },
     computed: {
       category () {
@@ -30,11 +31,19 @@
           this.$store.dispatch('getPosts', {category: this.category})
         }
       },
+      setPageTitle () {
+        this.$store.commit('setTitle', {title: `${capitalizeWords(this.category)} | Posts`})
+      },
     },
     watch: {
       category () {
         this.fetchPosts()
+        this.setPageTitle()
       },
     },
+  }
+
+  function capitalizeWords (words) {
+    return words.split(' ').map(word => word[0].toUpperCase() + word.slice(1)).join(' ')
   }
 </script>

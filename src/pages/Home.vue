@@ -101,6 +101,7 @@ export default {
   },
 
   mounted () {
+    this.$store.commit('setTitle', {title: null})
     this.initCarousel()
     this.initNav()
     if (!this.$store.state.instagrams.length) {
