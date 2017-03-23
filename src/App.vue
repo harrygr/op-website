@@ -14,12 +14,12 @@
       </button>
 
       <ul
-        class="list pl0 ma0 flex-ns f4 ttu no-underline nav-links db-ns overflow-x-auto"
+        class="list pl0 ma0 flex-ns f4 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100"
         :class="navVisible ? 'db shadow-4' : 'dn'"
       >
         <li v-for="item in navItems" class="db dib-ns" @click="navVisible = false">
-          <router-link v-if="item.link.slice(0,4) !== 'http'" :to="item.link" class="ph3-m ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</router-link>
-          <a v-if="item.link.slice(0,4) === 'http'" :href="item.link" class="ph3-m ph4 pv3 no-underline dim dib outline-0" :class="$store.state.invertNav ? 'black' : 'white'">{{ item.title }}</a>
+          <router-link v-if="item.link.slice(0,4) !== 'http'" :to="item.link" :class="navLinkClass">{{ item.title }}</router-link>
+          <a v-if="item.link.slice(0,4) === 'http'" :href="item.link" :class="navLinkClass">{{ item.title }}</a>
         </li>
       </ul>
 
@@ -105,6 +105,11 @@ export default {
     travelPosts () {
       return this.$store.getters.postsInCategory('travel')
     },
+
+    navLinkClass () {
+      const textColor = this.$store.state.invertNav ? 'black' : 'white'
+      return `ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100 ${textColor}`
+    },
   },
 }
 </script>
@@ -160,5 +165,20 @@ figure {
 }
 .w1-5 {
   width: 24px;
+}
+
+.videowrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+  max-width: 100%;
+}
+.videowrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
 </style>
