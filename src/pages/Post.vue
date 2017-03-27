@@ -1,39 +1,25 @@
 <template>
 <div class="ph4 mt5 pt4 mw9">
   <post v-if="post" :post="post"></post>
-  <not-found v-if="notFound"></not-found>
+  <not-found v-if="!post"></not-found>
 </div>
 </template>
 
 <script>
-import content from '../content'
 import notFound from './404'
 
 export default {
+  mounted () {
+    this.$store.commit('setTitle', {title: this.post.title})
+  },
   data () {
     return {
-      post: {},
       notFound: false,
     }
   },
-  mounted () {
-    this.fetchPost()
-  },
-  methods: {
-    fetchPost () {
-      this.$store.commit('setLoading', {loading: true})
-      content.getPost({id: this.$route.params.id})
-        .then(post => {
-          this.post = post
-          this.$store.commit('setTitle', {title: post.title})
-          this.$store.commit('setLoading', {loading: false})
-        }).catch(err => {
-          this.$store.commit('setLoading', {loading: false})
-          if (err.response.status === 404) {
-            this.notFound = true
-          }
-          return Promise.reject(err)
-        })
+  computed: {
+    post () {
+      return this.$store.state.posts.find(post => post.ID === parseInt(this.$route.params.id, 10))
     },
   },
   components: { notFound },

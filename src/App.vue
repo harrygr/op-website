@@ -59,6 +59,9 @@
 <script>
 export default {
   name: 'app',
+  mounted () {
+    this.$store.dispatch('getPosts', {})
+  },
   data () {
     return {
       navVisible: false,

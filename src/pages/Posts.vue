@@ -11,8 +11,12 @@
 
 <script>
   export default {
+    data () {
+      return {
+        number: 10,
+      }
+    },
     mounted () {
-      this.fetchPosts()
       this.setPageTitle()
     },
     computed: {
@@ -20,24 +24,16 @@
         return this.$route.params.category
       },
       posts () {
-        return this.$store.state.posts
+        return this.$store.getters.postsInCategory(this.category).slice(0, this.number)
       },
     },
     methods: {
-      fetchPosts () {
-        if (!this.posts.length || this.category !== this.$store.postCategory) {
-          this.$store.commit('setPosts', {posts: [], category: this.category})
-          this.$store.commit('setLoading', {loading: true})
-          this.$store.dispatch('getPosts', {category: this.category})
-        }
-      },
       setPageTitle () {
         this.$store.commit('setTitle', {title: `${capitalizeWords(this.category)} | Posts`})
       },
     },
     watch: {
       category () {
-        this.fetchPosts()
         this.setPageTitle()
       },
     },

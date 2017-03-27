@@ -70,13 +70,11 @@
 
 <script>
 import Wallop from 'wallop'
-import content from '../content'
 
 export default {
   name: 'home',
   data () {
     return {
-      post: null,
       videoId: '131704926',
       tiles: [
         {
@@ -99,7 +97,11 @@ export default {
       ],
     }
   },
-
+  computed: {
+    post () {
+      return this.$store.getters.latestPost
+    },
+  },
   mounted () {
     this.$store.commit('setTitle', {title: null})
     this.initCarousel()
@@ -107,7 +109,6 @@ export default {
     if (!this.$store.state.instagrams.length) {
       this.$store.dispatch('getInstagrams')
     }
-    this.getLatestPost()
   },
 
   destroyed () {
@@ -134,10 +135,6 @@ export default {
 
     handleNav () {
       this.$store.commit('setNavInverted', window.pageYOffset > 50)
-    },
-
-    getLatestPost () {
-      content.getLatestPost().then(post => { this.post = post })
     },
   },
 }

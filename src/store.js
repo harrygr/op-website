@@ -31,7 +31,7 @@ export default {
     },
   },
   actions: {
-    getPosts ({commit}, {category}) {
+    getPosts ({commit}, {category = null}) {
       commit('setLoading', {loading: true})
       content.getPosts({category}).then(posts => {
         commit('setPosts', {posts, postCategory: category})
@@ -44,6 +44,16 @@ export default {
     getInstagrams ({commit}) {
       getInstagramPhotos()
         .then(instagrams => commit('setInstagrams', {instagrams}))
+    },
+  },
+  getters: {
+    postsInCategory (state) {
+      return category => state.posts.filter(post => {
+        return Object.keys(post.categories).some(key => post.categories[key].slug === category)
+      })
+    },
+    latestPost (state) {
+      return state.posts.slice(0, 1).find(post => post.ID)
     },
   },
 }
