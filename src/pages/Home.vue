@@ -48,7 +48,7 @@
       </div>
     </div>
 
-    <div class="mw9 ph3-ns">
+    <div class="mw9 ph2 ph3-ns">
       <div class="fl w-100 w-50-ns pv2 ph3">
         <post v-if="post" :post="post" :excerpt="true"></post>
       </div>
