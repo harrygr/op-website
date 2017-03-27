@@ -1,5 +1,5 @@
 <template>
-  <div class="ph4 mt5 pt4 mw9">
+  <div class="ph4 mt5-ns pt4 mw9">
     <p v-if="!posts.length && !$store.state.loading">No Posts</p>
 
     <transition-group name="fade">

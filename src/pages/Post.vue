@@ -1,5 +1,5 @@
 <template>
-<div class="ph4 mt5 pt4 mw9">
+<div class="ph4 mt5-ns pt4 mw9">
   <post v-if="post" :post="post"></post>
   <not-found v-if="!post"></not-found>
 </div>

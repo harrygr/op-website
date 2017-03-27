@@ -30,6 +30,7 @@
             :href="icon.link"
             class="link br-pill ba dib f6 inline-flex items-center justify-center h1-5 w1-5 mh1 dim"
             :class="$store.state.invertNav ? 'black' : 'white'"
+            target="_blank"
           >
             <i class="fa fa-fw" :class="`fa-${icon.icon}`"></i>
           </a>
@@ -131,6 +132,7 @@ export default {
       background-color: white;
       position: absolute;
       top: 100%;
+      left: 0;
     }
     .nav-links a, .nav-social-icons a {
       color: black;

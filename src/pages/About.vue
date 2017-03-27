@@ -1,5 +1,5 @@
 <template>
-  <div class="ph4 mt5 pt4 mw9">
+  <div class="ph4 mt5-ns pt4 mw9">
     <h1 class="f2 mv0 lh-copy fw3 ttu">About</h1>
     <section class="fw2 lh-copy">
         <p>Since a very young age, Ollie has had three passions; Music, Art and Fashion. Creativity is something that is incorporated into his everyday routine, and has become part of the fabric that weaves his projects together. Oliverproudlock.com is the culmination of all Oliver’s current working projects, and will be the destination for a variety of commitments, including Art, Serge DeNimes, Proudlock Style, as well as collaborations and exciting news.</p>
