@@ -96,7 +96,11 @@ export default {
     },
     carouselGrams () {
       return this.$store.state.instagrams.map(gram => {
-        return gram.images.standard_resolution.url
+        return {
+          image: gram.images.standard_resolution.url,
+          link: gram.link,
+          caption: gram.caption.text,
+        }
       })
     },
   },
