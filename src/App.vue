@@ -194,4 +194,13 @@ figure {
 	width: 100%;
 	height: 100%;
 }
+
+.grayscale {
+  filter: grayscale(1);
+  transition: filter .5s ease;
+}
+
+.saturate-hover:hover {
+  filter: grayscale(0);
+}
 </style>

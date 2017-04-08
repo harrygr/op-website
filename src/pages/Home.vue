@@ -20,14 +20,14 @@
       </router-link>
     </div>
 
-    <div class="mw9 center ph3-ns">
+    <div class="home-column center center ph3-ns">
       <div class="cf ph2-ns ph3">
       <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns pa2 sans-serif">
-        <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative dim">
+        <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative saturate-hover grayscale">
           <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </router-link>
-        <a v-if="tile.link.slice(0,4) === 'http'" :href="tile.link" class="db relative dim" target="_blank">
+        <a v-if="tile.link.slice(0,4) === 'http'" :href="tile.link" class="db relative saturate-hover grayscale" target="_blank">
           <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </a>
@@ -35,20 +35,13 @@
       </div>
     </div>
 
-    <div class="mw9 center ph3-ns">
-      <div class="cf ph2-ns ph3">
-        <a
-          v-for="(instagram, index) in $store.state.instagrams"
-          :key="index" :href="instagram.link"
-          class="db fl w-100 w-20-ns pa2 relative dim"
-          target="_blank"
-        >
-          <img :src="instagram.images.standard_resolution.url" :alt="instagram.caption.text" class="db">
-        </a>
+    <div class="home-column center ph3-ns overflow-hidden" v-if='carouselGrams.length'>
+      <div class="ph3">
+        <carousel :images="carouselGrams"></carousel>
       </div>
     </div>
 
-    <div class="mw9 ph2 ph3-ns">
+    <div class="home-column center ph2 ph3-ns">
       <div class="fl w-100 w-50-ns pv2 ph3">
         <post v-if="post" :post="post" :excerpt="true"></post>
       </div>
@@ -75,7 +68,7 @@ export default {
   name: 'home',
   data () {
     return {
-      videoId: '131704926',
+      videoId: '209747057',
       tiles: [
         {
           text: 'Style',
@@ -100,6 +93,11 @@ export default {
   computed: {
     post () {
       return this.$store.getters.latestPost
+    },
+    carouselGrams () {
+      return this.$store.state.instagrams.map(gram => {
+        return gram.images.standard_resolution.url
+      })
     },
   },
   mounted () {
@@ -150,6 +148,9 @@ export default {
     left: 50%;
     z-index: 99;
     transform: translate(-50%, -50%);
+  }
+  .home-column {
+    max-width: 1060px;
   }
 </style>
 <style src="../../node_modules/wallop/css/wallop.css"></style>

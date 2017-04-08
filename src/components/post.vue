@@ -6,9 +6,9 @@
     </router-link>
 
     <router-link v-if="excerpt" :to="`/posts/${category}/${post.ID}`" class="link black">
-      <h1 class="f3 mv0 lh-copy fw3 tracked-tight" :class="excerpt ? 'dim' : ''">{{ post.title }}</h1>
+      <h1 class="f4 mv0 lh-copy fw3 tracked-tight" :class="excerpt ? 'dim' : ''">{{ post.title }}</h1>
     </router-link>
-    <h1 v-if="!excerpt" class="f3 mv0 lh-copy fw3 ttu">{{ post.title }}</h1>
+    <h1 v-if="!excerpt" class="f4 mv0 lh-copy fw3 ttu">{{ post.title }}</h1>
 
     <time v-if="post.date" :datetime="post.date" itemprop="datePublished" class="sans-serif f6 gray">{{ date }}</time>
     <section class="fw2 lh-copy" v-html="excerpt ? post.excerpt : post.content"></section>

@@ -62,7 +62,7 @@ function getInstagramPhotos () {
   const userId = config.instagram.userId
   const params = qs.stringify({
     access_token: config.instagram.accessToken,
-    count: 5,
+    count: 10,
   })
   return new Promise((resolve, reject) => {
     jsonp(`https://api.instagram.com/v1/users/${userId}/media/recent/?${params}`, null, (err, response) => {

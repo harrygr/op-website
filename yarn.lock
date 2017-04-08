@@ -1355,6 +1355,10 @@ des.js@^1.0.0:
     inherits "^2.0.1"
     minimalistic-assert "^1.0.0"
 
+desandro-matches-selector@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/desandro-matches-selector/-/desandro-matches-selector-2.0.2.tgz#717beed4dc13e7d8f3762f707a6d58a6774218e1"
+
 destroy@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
@@ -1701,6 +1705,10 @@ etag@~1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.0.tgz#6f631aef336d6c46362b51764044ce216be3c051"
 
+ev-emitter@^1.0.1, ev-emitter@^1.0.2, ev-emitter@~1.0.0, ev-emitter@~1.0.1:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ev-emitter/-/ev-emitter-1.0.3.tgz#ee5ef74b6ed28d911b32ddcbfc97867f580937bc"
+
 event-emitter@~0.3.5:
   version "0.3.5"
   resolved "https://registry.yarnpkg.com/event-emitter/-/event-emitter-0.3.5.tgz#df8c69eef1647923c7157b9ce83840610b02cc39"
@@ -1871,6 +1879,12 @@ find-up@^1.0.0:
     path-exists "^2.0.0"
     pinkie-promise "^2.0.0"
 
+fizzy-ui-utils@^2.0.0:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/fizzy-ui-utils/-/fizzy-ui-utils-2.0.4.tgz#35dab07177ce530b5380c8ce05f7c1e361daedd5"
+  dependencies:
+    desandro-matches-selector "^2.0.0"
+
 flat-cache@^1.2.1:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-1.2.2.tgz#fa86714e72c21db88601761ecf2f555d1abc6b96"
@@ -1883,6 +1897,24 @@ flat-cache@^1.2.1:
 flatten@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
+
+flickity-imagesloaded@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/flickity-imagesloaded/-/flickity-imagesloaded-2.0.0.tgz#a2d1d6aae6c26369ef2fa44f3eb948ea474e976b"
+  dependencies:
+    flickity "^2.0.0"
+    imagesloaded "^4.1.0"
+
+flickity@^2.0.0, flickity@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/flickity/-/flickity-2.0.5.tgz#e338c1b9a66a9c9a5e6948f9dfa48501b4603b6d"
+  dependencies:
+    desandro-matches-selector "^2.0.0"
+    ev-emitter "^1.0.2"
+    fizzy-ui-utils "^2.0.0"
+    get-size "^2.0.0"
+    tap-listener "^2.0.0"
+    unidragger "^2.1.0"
 
 follow-redirects@1.0.0:
   version "1.0.0"
@@ -1996,6 +2028,10 @@ generate-object-property@^1.1.0:
 get-caller-file@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/get-caller-file/-/get-caller-file-1.0.2.tgz#f702e63127e7e231c160a80c1554acb70d5047e5"
+
+get-size@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/get-size/-/get-size-2.0.2.tgz#555ea98ab8732e0c021e9e23e2219adcbe398e98"
 
 getpass@^0.1.1:
   version "0.1.6"
@@ -2243,6 +2279,12 @@ ieee754@^1.1.4:
 ignore@^3.2.0:
   version "3.2.6"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.2.6.tgz#26e8da0644be0bb4cb39516f6c79f0e0f4ffe48c"
+
+imagesloaded@^4.1.0:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/imagesloaded/-/imagesloaded-4.1.1.tgz#53b5b66615360850a5a264b1293e7f4d06d3bd51"
+  dependencies:
+    ev-emitter "~1.0.0"
 
 imurmurhash@^0.1.4:
   version "0.1.4"
@@ -4038,6 +4080,12 @@ table@^3.7.8:
     slice-ansi "0.0.4"
     string-width "^2.0.0"
 
+tap-listener@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/tap-listener/-/tap-listener-2.0.0.tgz#d2e11d0d8e7c92b26a56ae4f35538a248b44ad63"
+  dependencies:
+    unipointer "^2.1.0"
+
 tapable@^0.2.5, tapable@~0.2.5:
   version "0.2.6"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.6.tgz#206be8e188860b514425375e6f1ae89bfb01fd8d"
@@ -4153,6 +4201,24 @@ uid-number@~0.0.6:
 underscore@^1.8.3:
   version "1.8.3"
   resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.8.3.tgz#4f3fb53b106e6097fcf9cb4109f2a5e9bdfa5022"
+
+unidragger@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/unidragger/-/unidragger-2.1.0.tgz#e4c23f5fab8188c637e776d0b3810c7d989e5561"
+  dependencies:
+    unipointer "~2.1.0"
+
+unipointer@^2.1.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/unipointer/-/unipointer-2.2.0.tgz#3f6cf997f7d7dc78f75385106a5527efc5d71b61"
+  dependencies:
+    ev-emitter "^1.0.1"
+
+unipointer@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/unipointer/-/unipointer-2.1.0.tgz#b1e9fa2986c1306d97330587ba434d285ccfe37f"
+  dependencies:
+    ev-emitter "~1.0.1"
 
 uniq@^1.0.1:
   version "1.0.1"

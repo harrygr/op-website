@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "axios": "^0.15.3",
+    "flickity": "^2.0.5",
+    "flickity-imagesloaded": "^2.0.0",
     "instafeed.js": "^1.4.1",
     "jsonp": "^0.2.1",
     "qs": "^6.4.0",
