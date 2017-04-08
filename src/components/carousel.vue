@@ -1,6 +1,6 @@
 <template>
   <div ref="container" class="main-carousel">
-    <div class="carousel-cell pa2" v-for="image in images">
+    <div class="carousel-cell pa2 w-33 w-20-m" v-for="image in images">
       <a :href="image.link" target="_blank" class="db saturate-hover grayscale">
         <img :src="image.image" :alt="image.caption">
       </a>
@@ -43,8 +43,10 @@
 </script>
 
 <style>
-  .carousel-cell {
-    width: 16.67%;
+  @media screen and (min-width: 60em) {
+    .carousel-cell {
+      width: 16.67%;
+    }
   }
   .carousel-cell img {
     display: block;
