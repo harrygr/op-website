@@ -1,7 +1,7 @@
 <template>
   <div ref="container" class="main-carousel">
     <div class="carousel-cell pa2 w-33 w-20-m" v-for="image in images">
-      <a :href="image.link" target="_blank" class="db saturate-hover grayscale">
+      <a :href="image.link" target="_blank" class="db">
         <img :src="image.image" :alt="image.caption">
       </a>
     </div>

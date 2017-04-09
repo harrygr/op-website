@@ -14,7 +14,7 @@
       </button>
 
       <ul
-        class="list pl0 ma0 flex-ns f4 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100"
+        class="list pl0 ma0 flex-ns f6 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100"
         :class="navVisible ? 'db shadow-4' : 'dn'"
       >
         <li v-for="item in navItems" class="db dib-ns" @click="navVisible = false">
@@ -44,7 +44,7 @@
       </transition>
     </main>
 
-    <footer class="bg-black-70 mt4 pa4 white-40 f6 fw3 flex justify-between items-center">
+    <footer class="bg-black mt4 ph4 pv3 white f6 fw3 flex justify-between items-center">
       <div>&copy; Copyright {{ new Date().getFullYear() }}</div>
 
     </footer>
@@ -68,40 +68,27 @@ export default {
       navVisible: false,
       socialIcons: [
         {
-          icon: 'facebook',
-          link: 'http://www.facebook.com/pages/Serge-DeNimes/197436926939967',
-        }, {
           icon: 'twitter',
-          link: 'http://www.twitter.com/sergedenimes',
+          link: 'http://www.twitter.com/oliverproudlock',
         }, {
           icon: 'tumblr',
           link: 'http://soserge.com/',
         }, {
           icon: 'youtube',
-          link: 'http://www.youtube.com/sdnimes',
+          link: 'http://www.youtube.com/oliverproudlock',
         }, {
           icon: 'instagram',
-          link: 'http://instagram.com/sergedenimes',
+          link: 'http://instagram.com/proudlock',
         },
 
       ],
       navItems: [
-        {
-          title: 'Home',
-          link: '/',
-        }, {
-          title: 'About',
-          link: '/about',
-        }, {
-          title: 'Travel',
-          link: '/posts/travel',
-        }, {
-          title: 'Fitness',
-          link: '/posts/fitness',
-        }, {
-          title: 'Shop',
-          link: 'http://sergedenimes.com',
-        },
+        { title: 'Home', link: '/' },
+        { title: 'About', link: '/about' },
+        { title: 'Style', link: 'http://proudlockstyle.com' },
+        { title: 'Fitness', link: '/posts/fitness' },
+        { title: 'Shop', link: 'http://sergedenimes.com' },
+        { title: 'Travel', link: '/posts/travel' },
       ],
     }
   },

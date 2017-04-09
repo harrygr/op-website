@@ -42,12 +42,14 @@
     </div>
 
     <div class="home-column center ph2 ph3-ns">
-      <div class="fl w-100 w-50-ns pv2 ph3">
+      <div class="fl w-100 w-60-ns w-50-m pv2 ph3">
         <post v-if="post" :post="post" :excerpt="true"></post>
       </div>
-      <div class="fl w-100 w-50-ns pv2 ph3">
+      <div class="fl w-100 w-40-ns w-50-m pv2 ph3">
         <div class="videowrapper">
         <iframe
+          width="640"
+          height="801"
           :src="`https://player.vimeo.com/video/${videoId}?title=0&byline=0&portrait=0`"
           frameborder="0"
           webkitallowfullscreen
