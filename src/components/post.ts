@@ -1,4 +1,4 @@
-import Vue, { ComponentOptions }  from 'vue'
+import Vue, { ComponentOptions } from 'vue'
 
 import {Post} from '../content'
 import template from './post.template.html'
@@ -23,12 +23,12 @@ export default {
   },
 
   computed: {
-    category() {
+    category () {
       const categories = Object.keys(this.post.categories)
       return categories.length ? this.post.categories[categories[0]].slug : 'uncategorized'
     },
 
-    date() {
+    date () {
       return new Date(this.post.date).toLocaleDateString()
     },
   },

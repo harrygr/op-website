@@ -2,8 +2,7 @@ import template from './about.template.html'
 
 export default {
   template,
-  mounted() {
+  mounted () {
     this.$store.commit('setTitle', { title: 'About' })
   },
 }
-

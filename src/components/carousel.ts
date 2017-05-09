@@ -6,21 +6,21 @@ import './carousel.css'
 export default {
   template,
   props: ['images'],
-  data() {
+  data () {
     return {
       carousel: null,
     }
   },
-  updated() {
+  updated () {
     this.initCarousel()
   },
 
-  mounted() {
+  mounted () {
     this.initCarousel()
   },
 
   methods: {
-    initCarousel() {
+    initCarousel () {
       this.carousel = new Flickity(this.$refs.container, {
         imagesLoaded: true,
         percentPosition: false,

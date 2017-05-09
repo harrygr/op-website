@@ -5,7 +5,7 @@ import './home.css'
 export default {
   template,
   name: 'home',
-  data() {
+  data () {
     return {
       videoId: '209747057',
       tiles: [
@@ -30,10 +30,10 @@ export default {
     }
   },
   computed: {
-    post() {
+    post () {
       return this.$store.getters.latestPost
     },
-    carouselGrams() {
+    carouselGrams () {
       return this.$store.state.instagrams.map(gram => {
         return {
           image: gram.images.standard_resolution.url,
@@ -43,7 +43,7 @@ export default {
       })
     },
   },
-  mounted() {
+  mounted () {
     this.$store.commit('setTitle', null)
     this.initCarousel()
     this.initNav()
@@ -52,29 +52,29 @@ export default {
     }
   },
 
-  destroyed() {
+  destroyed () {
     this.uninitNav()
   },
 
   methods: {
-    initCarousel() {
+    initCarousel () {
       const carousel = new Wallop(this.$refs.carousel)
       setInterval(() => {
         carousel.next()
       }, 7000)
     },
 
-    initNav() {
+    initNav () {
       this.handleNav()
       window.addEventListener('scroll', this.handleNav)
     },
 
-    uninitNav() {
+    uninitNav () {
       this.$store.commit('setNavInverted', true)
       window.removeEventListener('scroll', this.handleNav)
     },
 
-    handleNav() {
+    handleNav () {
       this.$store.commit('setNavInverted', window.pageYOffset > 50)
     },
   },

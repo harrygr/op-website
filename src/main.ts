@@ -13,7 +13,7 @@ Vue.use(Vuex)
 
 Object.keys(components).forEach(name => Vue.component(name, components[name]))
 
-/* eslint-disable no-new */
+// tslint:disable-next-line:no-unused-expression
 new Vue({
   el: '#app',
   router,
