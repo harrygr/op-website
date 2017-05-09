@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/pages/Home'
 import About from '@/pages/About'
+import Contact from '@/pages/Contact'
 import Posts from '@/pages/Posts'
 import Post from '@/pages/Post'
 import NotFound from '@/pages/404'
@@ -18,6 +19,10 @@ export default new Router({
       path: '/about',
       name: 'About',
       component: About,
+    }, {
+      path: '/contact',
+      name: 'Contact',
+      component: Contact,
     }, {
       path: '/posts/:category',
       name: 'Posts',

@@ -89,6 +89,7 @@ export default {
         { title: 'Fitness', link: '/posts/fitness' },
         { title: 'Shop', link: 'http://sergedenimes.com' },
         { title: 'Travel', link: '/posts/travel' },
+        { title: 'Contact', link: '/contact' },
       ],
     }
   },

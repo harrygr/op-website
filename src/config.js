@@ -11,6 +11,3 @@ export default {
     siteUrl: 'oliverproudlock.wordpress.com',
   },
 }
-
-// https://instagram.com/oauth/authorize/?client_id=6fe8f23e8be249c8896307b6580174b0&redirect_uri=harryg.me&response_type=token
-
