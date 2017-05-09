@@ -20,7 +20,7 @@ export default {
   },
   methods: {
     setPageTitle () {
-      this.$store.commit('setTitle', { title: `${capitalizeWords(this.category)} | Posts` })
+      this.$store.commit('setTitle', `${capitalizeWords(this.category)} | Posts`)
     },
   },
   watch: {
