@@ -2,9 +2,9 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import Vuex from 'vuex'
-import App from './App'
+import app from './app'
 import router from './router'
-import store from './store'
+import store, {State} from './store'
 import components from './components'
 
 Vue.config.productionTip = false
@@ -13,11 +13,11 @@ Vue.use(Vuex)
 
 Object.keys(components).forEach(name => Vue.component(name, components[name]))
 
-/* eslint-disable no-new */
+// tslint:disable-next-line:no-unused-expression
 new Vue({
   el: '#app',
   router,
-  store: new Vuex.Store(store),
-  template: '<App/>',
-  components: { App },
+  store: new Vuex.Store<State>(store),
+  template: '<app/>',
+  components: { app },
 })

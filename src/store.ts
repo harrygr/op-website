@@ -1,9 +1,18 @@
 import jsonp from 'jsonp'
 import qs from 'qs'
-import content from './content'
+import content, {Post} from './content'
 import config from './config'
 
-export default {
+export interface State {
+  invertNav: boolean
+  posts: Post[]
+  instagrams: any[]
+  postCategory: string
+  loading: boolean
+  title: string | null
+}
+
+const store = {
   state: {
     invertNav: true,
     posts: [],
@@ -16,34 +25,33 @@ export default {
     setNavInverted (state, inverted) {
       state.invertNav = inverted
     },
-    setLoading (state, {loading}) {
+    setLoading (state, loading) {
       state.loading = loading
     },
-    setPosts (state, {posts, postCategory}) {
+    setPosts (state, posts) {
       state.posts = posts
-      state.postCategory = postCategory
     },
-    setInstagrams (state, {instagrams}) {
+    setInstagrams (state, instagrams) {
       state.instagrams = instagrams
     },
-    setTitle (state, {title}) {
+    setTitle (state, title) {
       state.title = title
     },
   },
   actions: {
     getPosts ({commit}, {category = null}) {
-      commit('setLoading', {loading: true})
-      content.getPosts({category}).then(posts => {
-        commit('setPosts', {posts, postCategory: category})
-        commit('setLoading', {loading: false})
+      commit('setLoading', true)
+      content.getPosts(category).then(posts => {
+        commit('setPosts', posts)
+        commit('setLoading', false)
       }).catch(err => {
-        commit('setLoading', {loading: false})
+        commit('setLoading', false)
         return Promise.reject(err)
       })
     },
     getInstagrams ({commit}) {
       getInstagramPhotos()
-        .then(instagrams => commit('setInstagrams', {instagrams}))
+        .then(instagrams => commit('setInstagrams', instagrams))
     },
   },
   getters: {
@@ -73,3 +81,5 @@ function getInstagramPhotos () {
     })
   })
 }
+
+export default store

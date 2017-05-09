@@ -1,16 +1,10 @@
-<template>
-<div class="ph4 mt5-ns pt4 mw9">
-  <post v-if="post" :post="post"></post>
-  <not-found v-if="!post"></not-found>
-</div>
-</template>
-
-<script>
 import notFound from './404'
+import template from './post.template.html'
 
 export default {
+  template,
   mounted () {
-    this.$store.commit('setTitle', {title: this.post.title})
+    this.$store.commit('setTitle', this.post.title)
   },
   data () {
     return {
@@ -24,4 +18,3 @@ export default {
   },
   components: { notFound },
 }
-</script>
