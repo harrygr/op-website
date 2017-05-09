@@ -3,6 +3,15 @@ import qs from 'qs'
 import content from './content'
 import config from './config'
 
+interface State {
+  invertNav: boolean
+  posts: any[]
+  instagrams: any[]
+  postCategory: string
+  loading: boolean
+  title: string | null
+}
+
 export default {
   state: {
     invertNav: true,

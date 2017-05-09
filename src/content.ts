@@ -7,7 +7,7 @@ export default {
   getPosts ({category}) {
     const defaultOptions = {number: 100}
     const options = category
-      ? Object.assign({}, defaultOptions, {params: {category}})
+      ? {...defaultOptions, params: {category}}
       : defaultOptions
 
     return axios.get(`${api}/${config.content.siteUrl}/posts`, options)

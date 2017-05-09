@@ -9,7 +9,7 @@ function resolve (dir) {
 
 module.exports = {
   entry: {
-    app: './src/main.js',
+    app: './src/main.ts',
   },
   output: {
     path: config.build.assetsRoot,
@@ -46,11 +46,20 @@ module.exports = {
         loader: 'babel-loader',
         include: [resolve('src'), resolve('test')],
       },
-      { test: /\.tsx?$/, loader: 'ts-loader' },
+      {
+        test: /\.tsx?$/,
+        loader: 'ts-loader',
+        exclude: /node_modules/,
+        include: [resolve('src'), resolve('test')],
+      },
       {
         test: /\.html$/,
-        loader: 'html-loader',
+        loader: 'html-loader?exportAsEs6Default',
       },
+      // {
+      //   test: /\.css$/,
+      //   use: ['css-loader', 'style-loader'],
+      // },
       {
         test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
         loader: 'url-loader',

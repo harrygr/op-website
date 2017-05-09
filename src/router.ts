@@ -1,11 +1,11 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from '@/pages/Home'
-import About from '@/pages/About'
-import Contact from '@/pages/Contact'
-import Posts from '@/pages/Posts'
-import Post from '@/pages/Post'
-import NotFound from '@/pages/404'
+import home from './pages/Home'
+import about from './pages/About'
+import contact from './pages/Contact'
+import posts from './pages/Posts'
+import post from './pages/Post'
+import notfound from './pages/404'
 
 Vue.use(Router)
 
@@ -14,27 +14,27 @@ export default new Router({
     {
       path: '/',
       name: 'Home',
-      component: Home,
+      component: home,
     }, {
       path: '/about',
       name: 'About',
-      component: About,
+      component: about,
     }, {
       path: '/contact',
       name: 'Contact',
-      component: Contact,
+      component: contact,
     }, {
       path: '/posts/:category',
       name: 'Posts',
-      component: Posts,
+      component: posts,
     }, {
       path: '/posts/:category/:id',
       name: 'Post',
-      component: Post,
+      component: post,
     }, {
       path: '*',
       name: '404',
-      component: NotFound,
+      component: notfound,
     },
   ],
   scrollBehavior (to, from, savedPosition) {
