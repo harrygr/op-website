@@ -5,7 +5,7 @@ export default {
   },
   instagram: {
     userId: '1793053169',
-    accessToken: '1793053169.1677ed0.317738711366400cae7e0cc65f857fa3',
+    accessToken: '1793053169.1677ed0.53d593f7deab47c8980aec2a4da080ab',
   },
   content: {
     siteUrl: 'oliverproudlock.wordpress.com',
