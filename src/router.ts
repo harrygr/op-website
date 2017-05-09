@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import home from './pages/Home'
-import about from './pages/About'
-import contact from './pages/Contact'
-import posts from './pages/Posts'
-import post from './pages/Post'
+import home from './pages/home'
+import about from './pages/about'
+import contact from './pages/contact'
+import posts from './pages/posts'
+import post from './pages/post'
 import notfound from './pages/404'
 
 Vue.use(Router)
