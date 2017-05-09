@@ -1,3 +1,5 @@
+import Vue, { ComponentOptions } from 'vue'
+
 import template from './app.template.html'
 import './app.css'
 
@@ -55,4 +57,4 @@ export default {
       document.title = title
     },
   },
-}
+} as ComponentOptions<Vue>

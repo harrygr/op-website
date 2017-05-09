@@ -1,5 +1,13 @@
+import Vue, { ComponentOptions }  from 'vue'
+
+import {Post} from '../content'
 import template from './post.template.html'
 import './post.css'
+
+interface PostComponent extends Vue {
+  post: Post
+  excerpt: boolean
+}
 
 export default {
   template,
@@ -24,4 +32,4 @@ export default {
       return new Date(this.post.date).toLocaleDateString()
     },
   },
-}
+} as ComponentOptions<PostComponent>

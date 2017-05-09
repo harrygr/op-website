@@ -4,7 +4,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import app from './app'
 import router from './router'
-import store from './store'
+import store, {State} from './store'
 import components from './components'
 
 Vue.config.productionTip = false
@@ -17,7 +17,7 @@ Object.keys(components).forEach(name => Vue.component(name, components[name]))
 new Vue({
   el: '#app',
   router,
-  store: new Vuex.Store(store),
+  store: new Vuex.Store<State>(store),
   template: '<app/>',
   components: { app },
 })

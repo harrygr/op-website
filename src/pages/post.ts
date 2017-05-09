@@ -4,7 +4,7 @@ import template from './post.template.html'
 export default {
   template,
   mounted () {
-    this.$store.commit('setTitle', {title: this.post.title})
+    this.$store.commit('setTitle', this.post.title)
   },
   data () {
     return {
@@ -18,4 +18,3 @@ export default {
   },
   components: { notFound },
 }
-
