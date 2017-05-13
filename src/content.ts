@@ -31,7 +31,7 @@ export interface Post {
 const api = 'https://public-api.wordpress.com/rest/v1.1/sites'
 
 export default {
-  getPosts (category: string) {
+  getPosts (category: string | null) {
     const defaultOptions = {number: 100}
     const options = category
       ? {...defaultOptions, params: {category}}

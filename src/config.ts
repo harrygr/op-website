@@ -1,13 +1,22 @@
-export default {
-  contentful: {
-    space: 'cw0rgybbnhqi',
-    accessToken: '69df005fbb61a5a51e35c614d65932d8595b65467ea17849411bc4fb895a5ac8',
-  },
+interface Config {
+  instagram: Record<string, {userId: string, accessToken: string}>
+  content: {siteUrl: string}
+}
+
+const config: Config = {
   instagram: {
-    userId: '1793053169',
-    accessToken: '1793053169.1677ed0.53d593f7deab47c8980aec2a4da080ab',
+    op: {
+      userId: '21686064',
+      accessToken: '21686064.1677ed0.7157aa5ab77e47809b1b2d3753005e71',
+    },
+    ps: {
+      userId: '1793053169',
+      accessToken: '1793053169.1677ed0.53d593f7deab47c8980aec2a4da080ab',
+    },
   },
   content: {
     siteUrl: 'oliverproudlock.wordpress.com',
   },
 }
+
+export default config

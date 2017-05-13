@@ -34,13 +34,7 @@ export default {
       return this.$store.getters.latestPost
     },
     carouselGrams () {
-      return this.$store.state.instagrams.map(gram => {
-        return {
-          image: gram.images.standard_resolution.url,
-          link: gram.link,
-          caption: gram.caption.text,
-        }
-      })
+      return this.$store.state.instagrams
     },
   },
   mounted () {

@@ -34,9 +34,9 @@
     </div>
   </div>
 
-  <div class="home-column center ph3-ns overflow-hidden" v-if='carouselGrams.length'>
+  <div class="home-column center ph3-ns overflow-hidden" v-if='carouselGrams.ps && carouselGrams.ps.length'>
     <div class="ph3">
-      <carousel :images="carouselGrams"></carousel>
+      <carousel :images="carouselGrams.ps"></carousel>
     </div>
   </div>
 
@@ -50,6 +50,12 @@
           webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
     </div>
+    <div class="cf"></div>
   </div>
 
+  <div class="home-column center ph3-ns overflow-hidden cf" v-if='carouselGrams.op && carouselGrams.op.length'>
+    <div class="ph3">
+      <carousel :images="carouselGrams.op"></carousel>
+    </div>
+  </div>
 </div>
