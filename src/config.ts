@@ -11,7 +11,7 @@ const config: Config = {
     },
     ps: {
       userId: '1793053169',
-      accessToken: '1793053169.1677ed0.53d593f7deab47c8980aec2a4da080ab',
+      accessToken: '1793053169.1677ed0.355f2352a70541f4aac229b746b637ad',
     },
   },
   content: {

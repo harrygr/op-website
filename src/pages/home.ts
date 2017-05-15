@@ -33,7 +33,7 @@ export default {
     post () {
       return this.$store.getters.latestPost
     },
-    carouselGrams () {
+    grams () {
       return this.$store.state.instagrams
     },
   },
@@ -41,9 +41,6 @@ export default {
     this.$store.commit('setTitle', null)
     this.initCarousel()
     this.initNav()
-    if (!this.$store.state.instagrams.length) {
-      this.$store.dispatch('getInstagrams')
-    }
   },
 
   destroyed () {

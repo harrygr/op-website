@@ -34,9 +34,9 @@
     </div>
   </div>
 
-  <div class="home-column center ph3-ns overflow-hidden" v-if='carouselGrams.ps && carouselGrams.ps.length'>
+  <div class="home-column center ph3-ns overflow-hidden" v-if='grams.ps && grams.ps.length'>
     <div class="ph3">
-      <carousel :images="carouselGrams.ps"></carousel>
+      <carousel :images="grams.ps"></carousel>
     </div>
   </div>
 
@@ -51,11 +51,5 @@
       </div>
     </div>
     <div class="cf"></div>
-  </div>
-
-  <div class="home-column center ph3-ns overflow-hidden cf" v-if='carouselGrams.op && carouselGrams.op.length'>
-    <div class="ph3">
-      <carousel :images="carouselGrams.op"></carousel>
-    </div>
   </div>
 </div>

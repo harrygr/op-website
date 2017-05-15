@@ -17,7 +17,7 @@ Object.keys(components).forEach(name => Vue.component(name, components[name]))
 new Vue({
   el: '#app',
   router,
-  store: new Vuex.Store<State>(store),
+  store: new Vuex.Store(store),
   template: '<app/>',
   components: { app },
 })

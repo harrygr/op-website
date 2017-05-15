@@ -28,9 +28,19 @@
     </transition>
   </main>
 
-  <footer class="bg-black mt4 ph4 pv3 white f6 fw3 flex justify-between items-center">
-    <div>&copy; Copyright {{ new Date().getFullYear() }}</div>
 
+  <footer class="bg-black mt4">
+    <div class="cf" v-if='$store.state.instagrams.op && $store.state.instagrams.op.length'>
+      <div class="flex ">
+        <div v-for="gram in $store.state.instagrams.op">
+          <img :src="gram.image" :alt="gram.caption" class="w-100 h-100 overflow-hidden">
+        </div>
+      </div>
+    </div>
+
+    <div class="ph4 pv3 flex justify-between items-center white f6 fw3">
+      <div>&copy; Copyright {{ new Date().getFullYear() }}</div>
+    </div>
   </footer>
 
   <transition name="fade">

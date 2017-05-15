@@ -8,6 +8,7 @@ export default {
   name: 'app',
   mounted () {
     this.$store.dispatch('getPosts', {})
+    this.$store.dispatch('getInstagrams')
   },
   data () {
     return {
