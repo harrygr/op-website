@@ -1,8 +1,8 @@
-<div class="ph4 mt5-ns pt4 mw8-5 center">
+<page>
   <p v-if="!posts.length && !$store.state.loading">No Posts</p>
 
   <transition-group name="fade">
     <post v-for="post in posts" :post="post" :excerpt="true" :key="post.slug" class="cb pv4 bb"></post>
   </transition-group>
 
-</div>
+</page>
