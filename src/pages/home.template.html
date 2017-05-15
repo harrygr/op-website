@@ -19,7 +19,7 @@
     </router-link>
   </div>
 
-  <div class="home-column center center ph3-ns">
+  <div class="mw8-5 center center ph3-ns">
     <div class="cf ph2-ns ph3">
       <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns pa2 sans-serif">
         <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative saturate-hover grayscale">
@@ -34,13 +34,13 @@
     </div>
   </div>
 
-  <div class="home-column center ph3-ns overflow-hidden" v-if='grams.ps && grams.ps.length'>
+  <div class="mw8-5 center ph3-ns overflow-hidden" v-if='grams.ps && grams.ps.length'>
     <div class="ph3">
       <carousel :images="grams.ps"></carousel>
     </div>
   </div>
 
-  <div class="home-column center ph2 ph3-ns">
+  <div class="mw8-5 center ph2 ph3-ns">
     <div class="fl w-100 w-60-ns w-50-m pv2 ph3">
       <post v-if="post" :post="post" :excerpt="true"></post>
     </div>

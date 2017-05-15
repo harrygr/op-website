@@ -11,7 +11,3 @@
     z-index: 99;
     transform: translate(-50%, -50%);
   }
-
-  .home-column {
-    max-width: 1060px;
-  }
