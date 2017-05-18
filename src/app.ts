@@ -51,7 +51,7 @@ export default {
     },
     pageTitle () {
       return (this.$store.state.title ? `${this.$store.state.title} | ` : '') + 'Oliver Proudlock'
-    }
+    },
   },
   watch: {
     pageTitle (title) {

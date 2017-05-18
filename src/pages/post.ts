@@ -6,6 +6,7 @@ export default {
   template,
   mounted () {
     this.$store.commit('setTitle', this.post.title)
+    window.scrollTo(0, 0)
   },
   data () {
     return {

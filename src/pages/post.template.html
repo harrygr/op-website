@@ -1,4 +1,4 @@
 <page>
   <post v-if="post" :post="post"></post>
-  <not-found v-if="!post"></not-found>
+  <not-found v-if="!post && !$store.state.loading"></not-found>
 </page>
