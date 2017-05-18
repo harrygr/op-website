@@ -41,14 +41,28 @@
   </div>
 
   <div class="mw8-5 center ph2 ph3-ns">
-    <div class="fl w-100 w-60-ns w-50-m pv2 ph3">
-      <post v-if="post" :post="post" :excerpt="true"></post>
+    <div class="fl w-100 w-50-ns pv2 ph3">
+
+      <router-link v-for="(post, key) in latestPosts" :key="key" :to="`/posts/${post.category}/${post.slug}`" class="flex db link black outline-0">
+        <div class="db w-30-ns w-20 mw4 pr3 pb3">
+          <img :src="post.post_thumbnail.URL" alt="" class="w-100 h-auto">
+        </div>
+        <div class="flex-1">
+          <h1 class="f4 mv0 fw3 tracked-tight">{{ post.title }}</h1>
+          <p class="mv0"><time v-if="post.date" :datetime="post.date" itemprop="datePublished" class="sans-serif f7 gray mb3">
+            {{ post.date.slice(0,10) }}
+          </time></p>
+        </div>
+      </router-link>
+
     </div>
-    <div class="fl w-100 w-40-ns w-50-m pv2 ph3">
-      <div class="videowrapper">
-        <iframe width="640" height="801" :src="`https://player.vimeo.com/video/${videoId}?title=0&byline=0&portrait=0`" frameborder="0"
-          webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+    <div class="fl w-100 w-50-ns pv2 ph3">
+      <div style="position:relative;height:0;padding-bottom:56.25%">
+        <iframe src="https://www.youtube.com/embed/fZn_klBsKLY?rel=0&amp;controls=0&amp;showinfo=0?ecver=2" width="640" height="360"
+          frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
       </div>
+
     </div>
     <div class="cf"></div>
   </div>

@@ -1,6 +1,7 @@
 import Wallop from 'wallop'
 import template from './home.template.html'
 import './home.css'
+import {Post} from '../content'
 
 export default {
   template,
@@ -32,6 +33,10 @@ export default {
   computed: {
     post () {
       return this.$store.getters.latestPost
+    },
+    latestPosts () {
+      const posts: Post[] = this.$store.state.posts
+      return posts.slice(0, 3)
     },
     grams () {
       return this.$store.state.instagrams
