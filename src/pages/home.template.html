@@ -1,5 +1,5 @@
 <div>
-  <div class="Wallop relative mb2" ref="carousel">
+  <div class="Wallop relative mb3" ref="carousel">
     <div class="Wallop-list Wallop--fade">
       <figure class="Wallop-item">
         <img class="w-100 db" src="/static/carousel/op-carousel.jpg" alt="">
@@ -19,14 +19,14 @@
     </router-link>
   </div>
 
-  <div class="mw8-5 center center ph3-ns">
-    <div class="cf ph2-ns ph3">
-      <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns pa2 sans-serif">
-        <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative saturate-hover grayscale">
+  <div class="mw8-5 center center ph3-ns ph2">
+    <div class="cf ph2">
+      <div v-for="(tile, index) in tiles" :key="index" class="fl w-100 w-25-ns ph2 sans-serif">
+        <router-link v-if="tile.link.slice(0,4) !== 'http'" :to="tile.link" class="db relative saturate-hover grayscale mb3">
           <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </router-link>
-        <a v-if="tile.link.slice(0,4) === 'http'" :href="tile.link" class="db relative saturate-hover grayscale" target="_blank">
+        <a v-if="tile.link.slice(0,4) === 'http'" :href="tile.link" class="db relative saturate-hover grayscale mb3" target="_blank">
           <img :src="tile.image" alt="" class="db">
           <span class="absolute absolute-center db white ttu f4">{{ tile.text }}</span>
         </a>
@@ -34,14 +34,14 @@
     </div>
   </div>
 
-  <div class="mw8-5 center ph3-ns overflow-hidden" v-if='grams.ps && grams.ps.length'>
+  <div class="mw8-5 center ph3-ns ph2 overflow-hidden mb3" v-if='grams.ps && grams.ps.length'>
     <div class="ph3">
       <carousel :images="grams.ps"></carousel>
     </div>
   </div>
 
   <div class="mw8-5 center ph2 ph3-ns">
-    <div class="fl w-100 w-50-ns pv2 ph3">
+    <div class="fl w-100 w-50-ns ph3">
 
       <router-link v-for="(post, key) in latestPosts" :key="key" :to="`/posts/${post.category}/${post.slug}`" class="flex db link black outline-0">
         <div class="db w-30-ns w-20 mw4 pr3 pb3">
@@ -57,7 +57,7 @@
 
     </div>
 
-    <div class="fl w-100 w-50-ns pv2 ph3">
+    <div class="fl w-100 w-50-ns ph3">
       <div style="position:relative;height:0;padding-bottom:56.25%">
         <iframe src="https://www.youtube.com/embed/fZn_klBsKLY?rel=0&amp;controls=0&amp;showinfo=0?ecver=2" width="640" height="360"
           frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
