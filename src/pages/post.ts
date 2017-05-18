@@ -1,5 +1,6 @@
 import notFound from './404'
 import template from './post.template.html'
+import {Post} from '../content'
 
 export default {
   template,
@@ -13,7 +14,7 @@ export default {
   },
   computed: {
     post () {
-      return this.$store.state.posts.find(post => post.ID === parseInt(this.$route.params.id, 10))
+      return this.$store.state.posts.find((post: Post) => post.slug === this.$route.params.slug, 10)
     },
   },
   components: { notFound },

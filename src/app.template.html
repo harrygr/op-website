@@ -31,10 +31,16 @@
 
   <footer class="bg-black mt4">
     <div class="cf" v-if='$store.state.instagrams.op && $store.state.instagrams.op.length'>
-      <div class="flex ">
-        <div v-for="gram in $store.state.instagrams.op">
-          <img :src="gram.image" :alt="gram.caption" class="w-100 h-100 overflow-hidden">
-        </div>
+      <div class="flex">
+        <a
+          v-for="gram in $store.state.instagrams.op"
+          class="db cover bg-center dim"
+          :href="gram.link"
+          target="_blank"
+          :style="{backgroundImage: `url(${gram.image})`}"
+        >
+          <img src="/static/square.png" :alt="gram.caption" class="w-100 h-auth overflow-hidden">
+        </a>
       </div>
     </div>
 

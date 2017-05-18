@@ -1,7 +1,12 @@
 <div ref="container" class="main-carousel">
   <div class="carousel-cell pa2 w4" v-for="image in images">
-    <a :href="image.link" target="_blank" class="db">
-      <img :src="image.image" :alt="image.caption">
+    <a
+      :href="image.link"
+      class="db cover bg-center dim"
+      target="_blank"
+      :style="{backgroundImage: `url(${image.image})`}"
+    >
+      <img src="/static/square.png" :alt="image.caption">
     </a>
   </div>
 </div>

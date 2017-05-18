@@ -1,10 +1,10 @@
 <article class="post">
 
-  <router-link :to="`/posts/${category}/${post.ID}`" v-if="excerpt && post.post_thumbnail" class="db fl-ns w-30-ns w-50-l mw6 pr3-ns pb3">
+  <router-link :to="`/posts/${category}/${post.slug}`" v-if="excerpt && post.post_thumbnail" class="db fl-ns w-30-ns w-50-l mw6 pr3-ns pb3">
     <img :src="post.post_thumbnail.URL" alt="">
   </router-link>
 
-  <router-link v-if="excerpt" :to="`/posts/${category}/${post.ID}`" class="link black">
+  <router-link v-if="excerpt" :to="`/posts/${category}/${post.slug}`" class="link black">
     <h1 class="f4 mv0 lh-copy fw3 tracked-tight" :class="excerpt ? 'dim' : ''">{{ post.title }}</h1>
   </router-link>
   <h1 v-if="!excerpt" class="f4 mv0 lh-copy fw3 ttu">{{ post.title }}</h1>

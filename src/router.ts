@@ -28,7 +28,7 @@ export default new Router({
       name: 'Posts',
       component: posts,
     }, {
-      path: '/posts/:category/:id',
+      path: '/posts/:category/:slug',
       name: 'Post',
       component: post,
     }, {

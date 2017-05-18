@@ -26,6 +26,7 @@ export interface Post {
   modified: string
   post_thumbnail: PostAttachment
   categories: {[key: string]: PostCategory}
+  slug: string
 }
 
 const api = 'https://public-api.wordpress.com/rest/v1.1/sites'
