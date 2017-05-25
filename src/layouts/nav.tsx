@@ -1,0 +1,56 @@
+import * as React from 'react'
+
+interface Link {
+  url: string
+  text: string
+  newWindow?: boolean
+}
+
+export default function nav() {
+
+  const links: Link[] = [
+    { url: '/', text: 'Home' },
+    { url: '/about', text: 'About' },
+  ]
+
+  return (
+    <nav
+      id="navbar"
+      className={`fixed-ns z-5 w-100 bb top-0 bg-animate z-999
+      flex items-center justify-between relative b--black bg-white`}
+    >
+      <button className="br1 black dim pv2 ph3 ma3 ba dn-ns b--black outline-0 button-reset">
+        <i className="fa fa-bars" />
+      </button>
+
+      <ul className="list pl0 ma0 flex-ns f6 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100">
+        {links.map((link, index) => (
+          <li className="db dib-ns" key={index}>
+            {navLink(link)}
+          </li>
+        ))}
+      </ul>
+
+      <ul className="ml-auto list pr2 dn-m db nav-social-icons">
+        <li>
+          <a
+            href="icon.link"
+            className="link br-pill ba dib f6 inline-flex items-center justify-center h1-5 w1-5 mh1 dim"
+            target="_blank"
+          >
+            <i className="fa fa-fw" />
+          </a>
+        </li>
+      </ul>
+    </nav>
+  )
+}
+
+function navLink({ text, url, newWindow = false }: Link) {
+  return (
+    <a
+      href={url}
+      className="black ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100"
+    >{text}</a>
+  )
+}

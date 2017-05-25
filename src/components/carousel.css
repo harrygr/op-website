@@ -1,9 +1,0 @@
-  @media screen and (min-width: 60em) {
-    .carousel-cell {
-      width: 16.67%;
-    }
-  }
-
-  .carousel-cell img {
-    display: block;
-  }
