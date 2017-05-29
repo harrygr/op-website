@@ -1,5 +1,7 @@
 import axios from 'axios'
 
+import config from '../config'
+
 interface PostAttachment {
   ID: number
   URL: string
@@ -29,11 +31,10 @@ export interface Post {
 }
 
 const api = 'https://public-api.wordpress.com/rest/v1.1/sites'
-const siteUrl = 'oliverproudlock.wordpress.com'
 
 export function getPosts() {
   const options = { number: 100 }
-  return axios.get(`${api}/${siteUrl}/posts`, options)
+  return axios.get(`${api}/${config.posts.url}/posts`, options)
     .then<Post[]>(response => response.data.posts)
 }
 

@@ -1,7 +1,8 @@
 import { Models } from './'
 import { Instagram, getInstagramPhotos } from '../services/instagram'
+import config from '../config'
 
-type ImageCollection = 'homePage' | 'footer'
+export type ImageCollection = 'homePage' | 'footer'
 
 export interface State {
   images: Record<ImageCollection, Instagram.Media[]>
@@ -36,7 +37,7 @@ export function model(): Helix.ModelImpl<Models, State, Reducers, Effects> {
     },
     effects: {
       fetchImages(state, send, collection) {
-        return getInstagramPhotos('1793053169', '1793053169.1677ed0.355f2352a70541f4aac229b746b637ad')
+        return getInstagramPhotos(config.instagram[collection].userId, config.instagram[collection].token)
           .then(images => send.instagram.setImages({ images, collection }))
       },
     },
