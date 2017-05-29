@@ -3,6 +3,7 @@ import * as React from 'react';
 import { Models } from '../models'
 import Carousel from '../components/carousel'
 import { getCategorySlug } from '../services/posts'
+const logo = require('./home/op-logo-vector-with-tagline-white.svg')
 
 const tiles = [
   { imageUrl: require('./home/serge.jpg'), text: 'Serge', url: 'https://sergedenimes.com' },
@@ -23,7 +24,14 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
 
   return (
     <div className="Home">
-      <Carousel images={images} className="mb3" childClassName="w-100" />
+      <div className="relative">
+        <div
+          className="flex justify-center items-center aspect-ratio--object"
+        >
+          <img src={logo} alt="" className="w-80 w-60-ns mw6-ns" />
+        </div>
+        <Carousel images={images} className="mb3" childClassName="w-100" />
+      </div>
 
       <div className="mw8-5 center ph3-ns ph2">
         {state.instagram.images.homePage.length ? (
