@@ -19,6 +19,14 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
   send.app.setPageTitle(post.title)
   return (
     <Page>
+      <h1 className="f4 mv0 lh-copy fw3 ttu" dangerouslySetInnerHTML={{ __html: post.title }} />
+      <time
+        dateTime={post.date}
+        itemProp="datePublished"
+        className="sans-serif f6 gray mb3 db"
+      >
+        {post.date.slice(0, 10)}
+      </time>
       <section className="fw2 lh-copy post-content" dangerouslySetInnerHTML={{ __html: post.content }} />
     </Page>
   )
