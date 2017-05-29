@@ -3,8 +3,16 @@ import * as CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup'
 
 import { Models } from '../models'
 import { State } from '../models/grams'
-import Nav from './nav'
+import Nav from '../components/nav'
 import Footer from './footer'
+
+const links = [
+  { url: '/', text: 'Home' },
+  { url: '/about', text: 'About' },
+  { url: '/posts/fitness', text: 'Fitness' },
+  { url: '/posts/travel', text: 'Travel' },
+  { url: 'http://sergedenimes.com/', text: 'Shop' },
+]
 
 const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
   return {
@@ -24,7 +32,10 @@ const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
     view(state, prev, send) {
       return (
         <div className="flex flex-column min-vh-100">
-          <Nav />
+          <Nav
+            links={links}
+            invertOnScroll={state.location.pathname === '/'}
+          />
           <CSSTransitionGroup
             className="flex-auto"
             transitionName="fade"

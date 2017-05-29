@@ -18,7 +18,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
   send.app.setPageTitle(post.title)
   return (
     <Page>
-      <section className="fw2 lh-copy" dangerouslySetInnerHTML={{ __html: post.content }} />
+      <section className="fw2 lh-copy post-content" dangerouslySetInnerHTML={{ __html: post.content }} />
     </Page>
   )
 }

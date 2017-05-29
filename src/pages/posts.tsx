@@ -39,7 +39,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
           >
             {post.date.slice(0, 10)}
           </time>
-          <section className="fw2 lh-copy" dangerouslySetInnerHTML={{ __html: post.excerpt }} />
+          <section className="fw2 lh-copy post-content" dangerouslySetInnerHTML={{ __html: post.excerpt }} />
           <div className="cb" />
         </article>
       ))}

@@ -58,3 +58,25 @@ body {
   .flex-1 {
     flex: 1;
   }
+
+  .post-content section a {
+    color: #357edd;
+  }
+
+  .post-content img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media screen and (max-width: 30em) {
+    .nav-links {
+        background-color:#fff;
+        position: absolute;
+        top: 100%;
+        left: 0
+    }
+
+    .nav-links a,.nav-social-icons a {
+        color: #000
+    }
+}
