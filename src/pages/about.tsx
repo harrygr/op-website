@@ -5,6 +5,8 @@ import Page from '../components/page'
 import { Models } from '../models'
 
 const page: Helix.Page<Models>['view'] = (state, prev, send) => {
+  send.app.setPageTitle('About')
+
   return (
     <Page>
       <section className="fw2 lh-copy">

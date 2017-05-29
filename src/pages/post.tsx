@@ -12,6 +12,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
 
   const post = state.posts.posts.find(p => p.slug === state.location.params.slug)
   if (!post) {
+    send.app.setPageTitle('Not Found')
     return NotFound()
   }
 

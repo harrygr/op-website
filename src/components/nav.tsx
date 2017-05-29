@@ -41,7 +41,7 @@ export default class Carousel extends React.Component<Props, State> {
       { icon: 'twitter', link: 'http://www.twitter.com/oliverproudlock' },
       { icon: 'tumblr', link: 'http://soserge.com/' },
       { icon: 'youtube', link: 'http://www.youtube.com/oliverproudlock' },
-      { icon: 'instagram', link: 'http://instagram.com/proudlock' }
+      { icon: 'instagram', link: 'http://instagram.com/proudlock' },
     ]
     return (
       <nav
@@ -68,7 +68,8 @@ export default class Carousel extends React.Component<Props, State> {
               <a
                 onClick={() => this.setState({ open: false })}
                 href={link.url}
-                className="ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100 link color-inherit"
+                style={{ outline: 'none' }}
+                className="ph3-m ph4 pv3 no-underline dim dib w-auto-ns w-100 link color-inherit"
               >{link.text}</a>
             </li>
           ))}
@@ -80,7 +81,7 @@ export default class Carousel extends React.Component<Props, State> {
               <a
                 href={icon.link}
                 className="link br-pill ba dib f6 inline-flex items-center justify-center mh1 dim color-inherit"
-                style={{ height: '27px', width: '27px' }}
+                style={{ height: '27px', width: '27px', outline: 'none' }}
                 target="_blank"
               >
                 <i className={`fa fa-fw fa-${icon.icon}`} />

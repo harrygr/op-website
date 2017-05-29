@@ -12,6 +12,7 @@ const tiles = [
 ]
 
 const home: Helix.Page<Models>['view'] = (state, prev, send) => {
+  send.app.setPageTitle('')
 
   const images = [
     '/carousel/pstyle-carousel.jpg',

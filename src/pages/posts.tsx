@@ -11,7 +11,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
   const category = state.location.params.category
   const posts = filterPostsByCategory(state.posts.posts, category)
 
-  send.app.setPageTitle(category)
+  send.app.setPageTitle(`${category} | Posts`)
   return (
     <Page>
 
