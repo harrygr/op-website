@@ -67,13 +67,21 @@ body {
     flex: 1;
 }
 
-.post-content section a {
+.post-content a {
     color: #357edd;
 }
 
 .post-content img {
     max-width: 100%;
     height: auto;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+    font-family: Montserrat, sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width: 30em) {
