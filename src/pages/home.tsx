@@ -24,17 +24,17 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
     <div className="Home">
       <Carousel images={images} className="mb3" childClassName="w-100" />
 
-      <div className="mw8-5 ph3-ns ph2">
+      <div className="mw8-5 center ph3-ns ph2">
         {state.instagram.images.homePage.length ? (
           <Carousel
             images={state.instagram.images.homePage.map(i => i.images.standard_resolution.url)}
-            childClassName="w4 ph2"
+            childClassName="w4-5 ph2"
             className="mb3 ph2"
           />
         ) : null}
       </div>
 
-      <div className="mw8-5 center center ph3-ns ph2">
+      <div className="mw8-5 center ph3-ns ph2">
         <div className="cf">
           {tiles.map((t, index) => (
             <div className={`fl w-100 w-25-ns sans-serif ph2`} key={index}>

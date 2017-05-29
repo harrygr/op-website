@@ -3,6 +3,13 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+  .w4-5 {
+    width: 12rem;
+  }
+
+ .mw8-5 {
+    max-width: 76rem;
+  }
 
 .fade-enter {
   opacity: 0.01;

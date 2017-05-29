@@ -37,7 +37,12 @@ export default class Carousel extends React.Component<Props, State> {
 
   render() {
     const inverted = this.props.invertOnScroll && window.pageYOffset < 50
-
+    const socialIcons = [
+      { icon: 'twitter', link: 'http://www.twitter.com/oliverproudlock' },
+      { icon: 'tumblr', link: 'http://soserge.com/' },
+      { icon: 'youtube', link: 'http://www.youtube.com/oliverproudlock' },
+      { icon: 'instagram', link: 'http://instagram.com/proudlock' }
+    ]
     return (
       <nav
         id="navbar"
@@ -69,16 +74,19 @@ export default class Carousel extends React.Component<Props, State> {
           ))}
         </ul>
 
-        <ul className="ml-auto list pr2 dn-m db nav-social-icons">
-          <li>
-            <a
-              href="icon.link"
-              className="link br-pill ba dib f6 inline-flex items-center justify-center h1-5 w1-5 mh1 dim"
-              target="_blank"
-            >
-              <i className="fa fa-fw" />
-            </a>
-          </li>
+        <ul className="ml-auto list pr2 dn-m db nav-social-icons flex">
+          {socialIcons.map(icon => (
+            <li>
+              <a
+                href={icon.link}
+                className="link br-pill ba dib f6 inline-flex items-center justify-center mh1 dim color-inherit"
+                style={{ height: '27px', width: '27px' }}
+                target="_blank"
+              >
+                <i className={`fa fa-fw fa-${icon.icon}`} />
+              </a>
+            </li>
+          ))}
         </ul>
       </nav>
     )
