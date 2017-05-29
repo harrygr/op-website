@@ -1,16 +1,18 @@
 import { Models } from './'
-import {Instagram, getInstagramPhotos} from '../services/instagram'
+import { Instagram, getInstagramPhotos } from '../services/instagram'
 
-interface State {
-  images: Instagram.Media[]
+type ImageCollection = 'homePage' | 'footer'
+
+export interface State {
+  images: Record<ImageCollection, Instagram.Media[]>
 }
 
 interface Reducers {
-  setImages: Helix.Reducer<Models, State, Instagram.Media[]>
- }
+  setImages: Helix.Reducer<Models, State, { collection: ImageCollection, images: Instagram.Media[] }>
+}
 
 interface Effects {
-  fetchImages: Helix.Effect0<Models>
+  fetchImages: Helix.Effect<Models, ImageCollection>
 }
 type Actions = Helix.Actions<Reducers, Effects>
 
@@ -22,17 +24,20 @@ export type ModelApi = Helix.ModelApi<State, Actions>
 export function model(): Helix.ModelImpl<Models, State, Reducers, Effects> {
   return {
     state: {
-      images: [],
+      images: {
+        homePage: [],
+        footer: [],
+      },
     },
     reducers: {
-      setImages(_state, images) {
-        return {images}
+      setImages(state, { collection, images }) {
+        return { images: { ...state.images, [collection]: images } }
       },
     },
     effects: {
-      fetchImages(state, send) {
+      fetchImages(state, send, collection) {
         return getInstagramPhotos('1793053169', '1793053169.1677ed0.355f2352a70541f4aac229b746b637ad')
-          .then(send.instagram.setImages)
+          .then(images => send.instagram.setImages({ images, collection }))
       },
     },
   }

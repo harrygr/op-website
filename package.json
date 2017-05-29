@@ -15,6 +15,7 @@
     "fetch-jsonp": "^1.0.6",
     "flickity": "^2.0.6",
     "flickity-imagesloaded": "^2.0.0",
+    "font-awesome": "^4.7.0",
     "helix-react": "git://github.com/josephluck/helix-react",
     "qs": "^6.4.0",
     "react": "^15.5.4",

@@ -2,15 +2,19 @@ import * as React from 'react'
 import * as CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup'
 
 import { Models } from '../models'
+import { State } from '../models/grams'
 import Nav from './nav'
 import Footer from './footer'
 
 const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
   return {
     onEnter(state, _prev, send) {
-      if (!state.instagram.images.length) {
-        send.instagram.fetchImages()
-      }
+      Object.keys(state.instagram.images).forEach((collection: keyof State['images']) => {
+        if (!state.instagram.images[collection].length) {
+          send.instagram.fetchImages(collection)
+        }
+      })
+
       if (!state.posts.posts.length) {
         send.posts.fetchPosts()
       }
@@ -24,11 +28,11 @@ const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
             transitionName="fade"
             transitionEnterTimeout={500}
             transitionLeaveTimeout={300}>
-            <div key={state.location.pathname}>
+            <div key={state.location.pathname} className="georgia">
               {page(state, prev, send)}
             </div>
           </CSSTransitionGroup>
-          <Footer grams={state.instagram.images} />
+          <Footer grams={state.instagram.images.footer} />
         </div>
       )
     },
