@@ -2,6 +2,7 @@ import * as React from 'react';
 
 import { Models } from '../models'
 import Carousel from '../components/carousel'
+import { getCategorySlug } from '../services/posts'
 
 const tiles = [
   { imageUrl: require('./home/serge.jpg'), text: 'Serge', url: 'https://sergedenimes.com' },
@@ -49,7 +50,11 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
         <div className="fl w-100 w-50-ns ph2">
           {state.posts.posts.slice(0, 3).map((post, index) => (
 
-            <a key={index} href={`/posts/${post.slug}`} className="flex db link black outline-0">
+            <a
+              key={index}
+              href={`/posts/${getCategorySlug(post)}/${post.slug}`}
+              className="flex db link black outline-0"
+            >
               <div className="db w-30-ns w-20 mw4 pr3 pb3">
                 <img src={post.post_thumbnail.URL} alt="" className="w-100 h-auto" />
               </div>

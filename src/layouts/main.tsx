@@ -9,6 +9,8 @@ import Footer from './footer'
 const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
   return {
     onEnter(state, _prev, send) {
+      window.scrollTo(0, 0)
+
       Object.keys(state.instagram.images).forEach((collection: keyof State['images']) => {
         if (!state.instagram.images[collection].length) {
           send.instagram.fetchImages(collection)

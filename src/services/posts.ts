@@ -36,3 +36,16 @@ export function getPosts() {
   return axios.get(`${api}/${siteUrl}/posts`, options)
     .then<Post[]>(response => response.data.posts)
 }
+
+export function getCategorySlug(post: Post) {
+  const categories = Object.keys(post.categories)
+    .map(key => post.categories[key])
+    .map(cat => cat.slug)
+  return categories.length ? categories[0] : 'uncategorised'
+}
+
+export function filterPostsByCategory(posts: Post[], category: string) {
+  return posts.filter(post => {
+    return Object.keys(post.categories).some(key => post.categories[key].slug === category)
+  })
+}

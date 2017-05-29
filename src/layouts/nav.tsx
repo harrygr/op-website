@@ -11,6 +11,9 @@ export default function nav() {
   const links: Link[] = [
     { url: '/', text: 'Home' },
     { url: '/about', text: 'About' },
+    { url: '/posts/fitness', text: 'Fitness' },
+    { url: '/posts/travel', text: 'Travel' },
+    { url: 'http://sergedenimes.com/', text: 'Shop' },
   ]
 
   return (
