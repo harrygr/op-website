@@ -6,12 +6,14 @@ interface InstagramCreds {
 }
 
 interface Config {
+  mode: 'development' | 'production'
   instagram: Record<ImageCollection, InstagramCreds>
   posts: { url: string }
   contact: { email: string }
 }
 
 const config: Config = {
+  mode: process.env.NODE_ENV,
   contact: {
     email: 'harry@example.com',
   },
