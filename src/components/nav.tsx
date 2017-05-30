@@ -76,8 +76,8 @@ export default class Carousel extends React.Component<Props, State> {
         </ul>
 
         <ul className="ml-auto list pr2 dn-m db nav-social-icons flex">
-          {socialIcons.map(icon => (
-            <li>
+          {socialIcons.map((icon, index) => (
+            <li key={index}>
               <a
                 href={icon.link}
                 className="link br-pill ba dib f6 inline-flex items-center justify-center mh1 dim color-inherit"

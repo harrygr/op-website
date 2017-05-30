@@ -8,9 +8,13 @@ interface InstagramCreds {
 interface Config {
   instagram: Record<ImageCollection, InstagramCreds>
   posts: { url: string }
+  contact: { email: string }
 }
 
 const config: Config = {
+  contact: {
+    email: 'harry@example.com',
+  },
   posts: {
     url: 'oliverproudlock.wordpress.com',
   },
