@@ -15,7 +15,7 @@ interface Config {
 const config: Config = {
   mode: process.env.NODE_ENV,
   contact: {
-    email: 'harry@example.com',
+    email: process.env.REACT_APP_CONTACT_EMAIL || 'email@example.com',
   },
   posts: {
     url: 'oliverproudlock.wordpress.com',

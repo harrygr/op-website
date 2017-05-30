@@ -96,3 +96,12 @@ body {
         color: #000
     }
 }
+
+.fade {
+    opacity: 0;
+    transition: opacity 300ms ease;
+}
+
+.fade.active {
+    opacity: 1;
+}

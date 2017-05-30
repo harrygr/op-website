@@ -51,7 +51,9 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
           />
 
           <button type="submit" className="pv3 ph4 bg-black white bw0 hover-bg-dark-gray pointer">Send Message</button>
+          <p className={`pa3 fade dib ${state.contact.messageSent ? 'active' : ''}`}><i className="fa fa-check" /> Message Sent</p>
         </form>
+
       </section>
     </Page >
   )

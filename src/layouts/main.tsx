@@ -12,6 +12,7 @@ const links = [
   { url: '/posts/fitness', text: 'Fitness' },
   { url: '/posts/travel', text: 'Travel' },
   { url: 'http://sergedenimes.com/', text: 'Shop' },
+  { url: '/contact', text: 'Contact' },
 ]
 
 const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
