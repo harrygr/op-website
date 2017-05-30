@@ -30,7 +30,9 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
         >
           <img src={logo} alt="" className="w-80 w-60-ns mw6-ns" />
         </div>
-        <Carousel images={images} className="mb3" childClassName="w-100" />
+        <Carousel images={images} className="mb3" childClassName="w-100" options={{
+          autoPlay: 5000,
+        }} />
       </div>
 
       <div className="mw8-5 center ph3-ns ph2">
