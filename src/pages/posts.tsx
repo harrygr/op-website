@@ -5,16 +5,16 @@ import { Models } from '../models'
 import { filterPostsByCategory } from '../services/posts'
 
 const page: Helix.Page<Models>['view'] = (state, prev, send) => {
-  if (!state.posts.posts.length) {
-    return <Page><span>No Posts Here</span></Page>
-  }
   const category = state.location.params.category
   const posts = filterPostsByCategory(state.posts.posts, category)
+
+  if (!posts.length) {
+    return <Page><span>No Posts Here</span></Page>
+  }
 
   send.app.setPageTitle(`${category} | Posts`)
   return (
     <Page>
-
       {posts.map((post, index) => (
         <article className={`cb pv4 ${index > 0 ? ' bt' : ''}`} key={index}>
           <a
