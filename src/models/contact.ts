@@ -18,7 +18,6 @@ export interface Namespace { 'contact': ModelApi }
 
 export type ModelApi = Helix.ModelApi<State, Actions>
 
-
 export function model(): Helix.ModelImpl<Models, State, Reducers, Effects> {
   return {
     state: {},
