@@ -1,4 +1,5 @@
 import * as React from 'react'
+import {unsluggify} from '../utils'
 
 import Page from '../components/page'
 import { Models } from '../models'
@@ -12,7 +13,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
     return <Page><span>No Posts Here</span></Page>
   }
 
-  send.app.setPageTitle(`${category} | Posts`)
+  send.app.setPageTitle(`${unsluggify(category)} | Posts`)
   return (
     <Page>
       {posts.map((post, index) => (

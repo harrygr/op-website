@@ -39,10 +39,20 @@ export function getPosts() {
 }
 
 export function getCategorySlug(post: Post) {
-  const categories = Object.keys(post.categories)
-    .map(key => post.categories[key])
+  const categories = extractPostCategories(post.categories)
     .map(cat => cat.slug)
   return categories.length ? categories[0] : 'uncategorised'
+}
+
+export function getCategoryName(post: Post) {
+  const categories = extractPostCategories(post.categories)
+    .map(cat => cat.name)
+  return categories.length ? categories[0] : 'Uncategorised'
+}
+
+function extractPostCategories(categories: Record<string, PostCategory>) {
+  return Object.keys(categories)
+    .map(key => categories[key])
 }
 
 export function filterPostsByCategory(posts: Post[], category: string) {
