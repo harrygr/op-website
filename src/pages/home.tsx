@@ -3,6 +3,8 @@ import * as React from 'react';
 import { Models } from '../models'
 import Carousel from '../components/carousel'
 import { getCategorySlug } from '../services/posts'
+import config from '../config'
+
 const logo = require('./home/op-logo-vector-with-tagline-white.svg')
 
 const tiles = [
@@ -31,7 +33,7 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
           <img src={logo} alt="" className="w-80 w-60-ns mw6-ns" />
         </div>
         <Carousel images={images} className="mb3" childClassName="w-100" options={{
-          autoPlay: 5000,
+          autoPlay: 6000,
         }} />
       </div>
 
@@ -41,6 +43,7 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
             images={state.instagram.images.homePage.map(i => i.images.standard_resolution.url)}
             childClassName="w4-5 ph2"
             className="mb3 ph2"
+            options={{autoPlay: 3000}}
           />
         ) : null}
       </div>
@@ -58,36 +61,49 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
         </div>
       </div>
 
-      <div className="mw8-5 center ph3-ns ph2">
-        <div className="fl w-100 w-50-ns ph2">
-          {state.posts.posts.slice(0, 3).map((post, index) => (
-
-            <a
-              key={index}
-              href={`/posts/${getCategorySlug(post)}/${post.slug}`}
-              className="flex db link black outline-0"
+      <div className="mw8-5 center ph3-ns ph2 sans-serif">
+        {state.posts.posts.slice(0, 2).map((post, index) => (
+          <a
+            key={index}
+            href={`/posts/${getCategorySlug(post)}/${post.slug}`}
+            className="db fl w-100 w-50-ns ph2 mb3 outline-0 link"
+          >
+            <div
+              className="w-100 h5-5 cover bg-center flex items-center justify-center tc ph3"
+              style={{
+                backgroundImage: `url(${post.post_thumbnail.URL})`,
+              }}
             >
-              <div className="db w-30-ns w-20 mw4 pr3 pb3">
-                <img src={post.post_thumbnail.URL} alt="" className="w-100 h-auto" />
+              <div>
+                <h2 className="white ttu f5 f4-ns mb2 normal" dangerouslySetInnerHTML={{ __html: post.title }} />
+                <time dateTime={post.date} itemProp="datePublished" className="sans-serif f7 near-white">
+                  {post.date.slice(0, 10)}
+                </time>
               </div>
-              <div className="flex-1">
-                <h1 className="f4 mv0 fw3 tracked-tight" dangerouslySetInnerHTML={{ __html: post.title }} />
-                <p className="mv0">
-                  <time dateTime={post.date} itemProp="datePublished" className="sans-serif f7 gray mb3">
-                    {post.date.slice(0, 10)}
-                  </time></p>
-              </div>
-            </a>
-          ))}
+            </div>
+          </a>
+        ))}
+      </div>
 
-        </div>
-
-        <div className="fl w-100 w-50-ns ph2">
+      <div className="mw8-5 center ph3-ns ph2">
+        <div className="fl w-100 w-50-ns ph2 mb3">
           <div className="videowrapper">
             <iframe
               width="640"
               height="801"
-              src="https://player.vimeo.com/video/217851950?title=0&byline=0&portrait=0"
+              src={`https://player.vimeo.com/video/${config.videos.video1}?title=0&byline=0&portrait=0`}
+              frameBorder="0"
+              allowFullScreen={true}
+            />
+          </div>
+        </div>
+
+        <div className="fl w-100 w-50-ns ph2 mb3">
+          <div className="videowrapper">
+            <iframe
+              width="640"
+              height="801"
+              src={`https://player.vimeo.com/video/${config.videos.video2}?title=0&byline=0&portrait=0`}
               frameBorder="0"
               allowFullScreen={true}
             />

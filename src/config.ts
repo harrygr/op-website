@@ -10,6 +10,7 @@ interface Config {
   instagram: Record<ImageCollection, InstagramCreds>
   posts: { url: string }
   contact: { email: string }
+  videos: {video1: string, video2: string}
 }
 
 const config: Config = {
@@ -29,6 +30,10 @@ const config: Config = {
       userId: '1793053169',
       token: '1793053169.1677ed0.355f2352a70541f4aac229b746b637ad',
     },
+  },
+  videos: {
+    video1: '220491288',
+    video2: '220490345',
   },
 }
 export default config

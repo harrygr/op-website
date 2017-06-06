@@ -41,7 +41,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
 
           <input type="hidden" name="_gotcha" style={{ display: 'none' }} />
 
-          <label htmlFor="message">Message</label>
+          <label htmlFor="message" className="db mb1">Message</label>
           <textarea
             id="message"
             className="input-reset ba pa2 db w-100 mb3"

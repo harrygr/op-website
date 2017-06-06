@@ -10,7 +10,7 @@ interface Props {
 
 export default function ({grams}: Props) {
   return (
-    <footer className="bg-black mt4">
+    <footer className="bg-black mt2">
       {grams.length ? (
 
       <div className="cf">
