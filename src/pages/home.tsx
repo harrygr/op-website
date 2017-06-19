@@ -2,6 +2,7 @@ import * as React from 'react';
 
 import { Models } from '../models'
 import Carousel from '../components/carousel'
+import ButtonLink from '../components/button-link'
 import { getCategorySlug } from '../services/posts'
 import config from '../config'
 
@@ -43,7 +44,7 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
             images={state.instagram.images.homePage.map(i => i.images.standard_resolution.url)}
             childClassName="w4-5 ph2"
             className="mb3 ph2"
-            options={{autoPlay: 3000}}
+            options={{ autoPlay: 3000 }}
           />
         ) : null}
       </div>
@@ -61,8 +62,26 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
         </div>
       </div>
 
-      <div className="mw8-5 center ph3-ns ph2 sans-serif">
-        {state.posts.posts.slice(0, 2).map((post, index) => (
+      <div className="mw8-5 center ph3-ns ph2 lh-copy serif ">
+        {state.posts.posts.slice(0, 2).map((post, index) => {
+          const link = `/posts/${getCategorySlug(post)}/${post.slug}`
+          return (
+            <div className="cf ph2 flex-ns mb3" key={index}>
+              <div
+                className={`w-33 h5 w-33-ns w-100 cover bg-center ${index % 2 ? 'order-5-ns' : ''}`}
+                style={{ backgroundImage: `url(${post.post_thumbnail.URL})` }}
+              />
+              <div className={`flex-1 v-center ${index % 2 ? 'pr3-ns pr4-l' : 'pl3-ns pl4-l'}`}>
+                <a href={link} className="link black">
+                  <h2 className="f4 mb2 normal" dangerouslySetInnerHTML={{ __html: post.title }} />
+                </a>
+                <div dangerouslySetInnerHTML={{ __html: post.excerpt }} />
+                <ButtonLink href={link}>Read More</ButtonLink>
+              </div>
+            </div>
+          )
+        })}
+        {/*
           <a
             key={index}
             href={`/posts/${getCategorySlug(post)}/${post.slug}`}
@@ -81,8 +100,8 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
                 </time>
               </div>
             </div>
-          </a>
-        ))}
+          </a>*/}
+
       </div>
 
       <div className="mw8-5 center ph3-ns ph2">
