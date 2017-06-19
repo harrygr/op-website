@@ -32,6 +32,7 @@ export default function ({grams}: Props) {
 
       <div className="ph4 pv3 flex justify-between items-center white f6 fw3">
         <div>&copy; Copyright {new Date().getFullYear()}</div>
+        <div className="ttu tr">Don't just love it, live it</div>
       </div>
     </footer>
   )
