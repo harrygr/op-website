@@ -81,27 +81,6 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
             </div>
           )
         })}
-        {/*
-          <a
-            key={index}
-            href={`/posts/${getCategorySlug(post)}/${post.slug}`}
-            className="db fl w-100 w-50-ns ph2 mb3 outline-0 link"
-          >
-            <div
-              className="w-100 h5-5 cover bg-center flex items-center justify-center tc ph3"
-              style={{
-                backgroundImage: `url(${post.post_thumbnail.URL})`,
-              }}
-            >
-              <div>
-                <h2 className="white ttu f5 f4-ns mb2 normal" dangerouslySetInnerHTML={{ __html: post.title }} />
-                <time dateTime={post.date} itemProp="datePublished" className="sans-serif f7 near-white">
-                  {post.date.slice(0, 10)}
-                </time>
-              </div>
-            </div>
-          </a>*/}
-
       </div>
 
       <div className="mw8-5 center ph3-ns ph2">
