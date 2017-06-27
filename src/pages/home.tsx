@@ -21,8 +21,10 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
   send.app.setPageTitle('')
 
   const images = [
+    '/carousel/ps-2.jpg',
     '/carousel/pstyle-carousel.jpg',
     '/carousel/op-carousel.jpg',
+    '/carousel/ps-1.jpg',
     '/carousel/pstyle2-carousel.jpg',
     '/carousel/samson-carousel.jpg',
   ]
