@@ -32,8 +32,8 @@ const config: Config = {
     },
   },
   videos: {
-    video1: process.env.REACT_APP_VIDEO1 || '220491288',
-    video2: process.env.REACT_APP_VIDEO2 || '220680101',
+    video1: process.env.REACT_APP_VIDEO1 || 'iK14HYxHNvI',
+    video2: process.env.REACT_APP_VIDEO2 || '2JRyZd9U-zk',
   },
 }
 

@@ -1,10 +1,11 @@
-import * as React from 'react';
+import * as React from 'react'
 
 import { Models } from '../models'
 import Carousel from '../components/carousel'
 import ButtonLink from '../components/button-link'
 import { getCategorySlug } from '../services/posts'
 import config from '../config'
+import {YoutubeVideo} from '../components/video'
 
 const logo = require('./home/op-logo-vector-with-tagline-white.svg')
 
@@ -85,27 +86,11 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
 
       <div className="mw8-5 center ph3-ns ph2">
         <div className="fl w-100 w-50-ns ph2 mb3">
-          <div className="videowrapper">
-            <iframe
-              width="640"
-              height="801"
-              src={`https://player.vimeo.com/video/${config.videos.video1}?title=0&byline=0&portrait=0`}
-              frameBorder="0"
-              allowFullScreen={true}
-            />
-          </div>
+          <YoutubeVideo id={config.videos.video1} />
         </div>
 
         <div className="fl w-100 w-50-ns ph2 mb3">
-          <div className="videowrapper">
-            <iframe
-              width="640"
-              height="801"
-              src={`https://player.vimeo.com/video/${config.videos.video2}?title=0&byline=0&portrait=0`}
-              frameBorder="0"
-              allowFullScreen={true}
-            />
-          </div>
+          <YoutubeVideo id={config.videos.video2} />
         </div>
         <div className="cf" />
       </div>
@@ -113,4 +98,4 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
   )
 }
 
-export default home;
+export default home
