@@ -6,6 +6,7 @@ import ButtonLink from '../components/button-link'
 import { getCategorySlug } from '../services/posts'
 import config from '../config'
 import {YoutubeVideo} from '../components/video'
+import Divider from '../components/divider'
 
 const logo = require('./home/op-logo-vector-with-tagline-white.svg')
 
@@ -63,6 +64,10 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
         </div>
       </div>
 
+      <div className="mw8-5 center mb3 ph3-ns ph2">
+        <Divider title="Recent Posts" className="mh2" />
+      </div>
+
       <div className="mw8-5 center ph3-ns ph2 lh-copy serif ">
         {state.posts.posts.slice(0, 2).map((post, index) => {
           const link = `/posts/${getCategorySlug(post)}/${post.slug}`
@@ -74,7 +79,7 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
               />
               <div className={`flex-1 v-center ${index % 2 ? 'pr3-ns pr4-l' : 'pl3-ns pl4-l'}`}>
                 <a href={link} className="link black">
-                  <h2 className="f3 mb2 fw3 tracked-tight dim" dangerouslySetInnerHTML={{ __html: post.title }} />
+                  <h2 className="f3 mb2 mt0 fw4 tracked-tight dim" dangerouslySetInnerHTML={{ __html: post.title }} />
                 </a>
                 <div dangerouslySetInnerHTML={{ __html: post.excerpt }} />
                 <ButtonLink href={link}>Read More</ButtonLink>
