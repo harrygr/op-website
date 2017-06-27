@@ -79,7 +79,7 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
                 className={`w-33 h5 w-33-ns w-100 cover bg-center ${index % 2 ? 'order-5-ns' : ''}`}
                 style={{ backgroundImage: `url(${post.post_thumbnail.URL})` }}
               />
-              <div className={`flex-1 v-center ${index % 2 ? 'pr3-ns pr4-l' : 'pl3-ns pl4-l'}`}>
+              <div className={`flex-1 xv-center ${index % 2 ? 'pr3-ns pr4-l' : 'pl3-ns pl4-l'}`}>
                 <a href={link} className="link black">
                   <h2 className="f3 mb2 mt0 fw4 tracked-tight dim" dangerouslySetInnerHTML={{ __html: post.title }} />
                 </a>
