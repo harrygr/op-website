@@ -1,4 +1,3 @@
-// tslint:disable:max-line-length
 import * as React from 'react'
 
 import Page from '../components/page'
@@ -19,7 +18,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
   send.app.setPageTitle(post.title)
   return (
     <Page>
-      <h1 className="f4 mv0 lh-copy fw3 ttu" dangerouslySetInnerHTML={{ __html: post.title }} />
+      <h1 className="f3 mv0 lh-copy fw3 tracked-tight" dangerouslySetInnerHTML={{ __html: post.title }} />
       <time
         dateTime={post.date}
         itemProp="datePublished"

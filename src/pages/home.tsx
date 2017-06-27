@@ -74,7 +74,7 @@ const home: Helix.Page<Models>['view'] = (state, prev, send) => {
               />
               <div className={`flex-1 v-center ${index % 2 ? 'pr3-ns pr4-l' : 'pl3-ns pl4-l'}`}>
                 <a href={link} className="link black">
-                  <h2 className="f4 mb2 normal" dangerouslySetInnerHTML={{ __html: post.title }} />
+                  <h2 className="f3 mb2 fw3 tracked-tight dim" dangerouslySetInnerHTML={{ __html: post.title }} />
                 </a>
                 <div dangerouslySetInnerHTML={{ __html: post.excerpt }} />
                 <ButtonLink href={link}>Read More</ButtonLink>

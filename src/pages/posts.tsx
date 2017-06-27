@@ -29,7 +29,7 @@ const page: Helix.Page<Models>['view'] = (state, prev, send) => {
             className="black link"
           >
             <h1
-              className="f4 mv0 lh-copy fw3 tracked-tight dim"
+              className="f3 mv0 lh-copy fw3 tracked-tight dim"
               dangerouslySetInnerHTML={{ __html: post.title }}
             />
           </a>
