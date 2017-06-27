@@ -55,19 +55,19 @@ body {
     filter: grayscale(0);
 }
 
-.videowrapper {
+.videowrapper, .embed-youtube {
     position: relative;
-    padding-bottom: 51.25%;
+    padding-bottom: 56.25%;
     /* 16:9 */
-    padding-top: 25px;
     height: 0;
     max-width: 100%;
 }
 
-.videowrapper iframe {
+.videowrapper iframe, .embed-youtube iframe {
     position: absolute;
     top: 0;
     left: 0;
+    right: 0;
     width: 100%;
     height: 100%;
 }
