@@ -1,5 +1,6 @@
 import { Models } from './'
 import config from '../config'
+import axios from 'axios'
 
 export interface State {
   messageSent: boolean
@@ -45,15 +46,10 @@ export function model(): Helix.ModelImpl<Models, State, Reducers, Effects> {
       submitForm(state, send, form) {
         const body = new FormData(form)
         const url = `https://formspree.io/${config.contact.email}`
-        fetch(url, {
-          method: 'POST',
-          headers: { Accept: 'application/json' },
-          body,
-        })
-          .then(() => form.reset())
-          .then(send.contact.confirmSubmission)
 
-        return Promise.resolve(state)
+        return axios.post(url, body)
+          .then(form.reset)
+          .then(send.contact.confirmSubmission)
       },
     },
   }
