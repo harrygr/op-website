@@ -38,7 +38,12 @@ export function model(): Helix.ModelImpl<Models, State, Reducers, Effects> {
     effects: {
       fetchImages(state, send, collection) {
         return getInstagramPhotos(config.instagram[collection].userId, config.instagram[collection].token)
-          .then(images => send.instagram.setImages({ images, collection }))
+          .then(response => {
+            return response.fold(
+              err => console.warn(err.message, err.info),
+              images => send.instagram.setImages({ images, collection }),
+            )
+          })
       },
     },
   }

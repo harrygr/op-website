@@ -1882,6 +1882,10 @@ imagesloaded@^4.1.0:
   dependencies:
     ev-emitter "~1.0.0"
 
+immupdate@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/immupdate/-/immupdate-1.1.0.tgz#e465e60320762dbd48533b984731de5d85fefc99"
+
 imurmurhash@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/imurmurhash/-/imurmurhash-0.1.4.tgz#9218b9b2b928a238b13dc4fb6b6d576f231453ea"
@@ -4025,6 +4029,12 @@ source-map@~0.2.0:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.2.0.tgz#dab73fbcfc2ba819b4de03bd6f6eaa48164b3f9d"
   dependencies:
     amdefine ">=0.0.4"
+
+space-lift@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/space-lift/-/space-lift-0.3.1.tgz#1e3d260e2957015f7e547d162ff93de8ea04bdb7"
+  dependencies:
+    immupdate "1.1.0"
 
 spdx-correct@~1.0.0:
   version "1.0.2"
