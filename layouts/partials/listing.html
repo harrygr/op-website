@@ -1,0 +1,18 @@
+  <article class="cb pv4 bt">
+    <a href="{{ .URL }}" class="db fl-ns w-30-ns w-50-l mw6 pr3-ns pb0-ns pb3">
+      <!-- <img src={post.post_thumbnail.URL} alt={post.title} class="db" /> -->
+    </a>
+
+    <a href="{{ .URL }}" class="black link">
+      <h1 class="f3 mv0 lh-copy fw3 tracked-tight dim">
+        {{ .Title }}
+      </h1>
+    </a>
+    <time dateTime="{{ .Date }}" itemProp="datePublished" class="sans-serif f6 gray mb3 db">
+      {{ .Date.Format "02 Jan 2006" }}
+    </time>
+    <section class="fw2 lh-copy post-content">
+      {{ .Summary }}
+    </section>
+    <div class="cb" />
+  </article>

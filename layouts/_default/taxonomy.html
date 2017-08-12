@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="ph4 pt2 mt5-ns mw8-5 center">
+  <h1>{{ .Title }}</h1>
+
+  {{ $section := .Data.Pages }} {{ range $section }}
+  {{ partial "listing.html" . }}
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="ph4 pt2 mt5-ns mw8-5 center">
+  {{ $section := where .Data.Pages "Section" .Section }} {{ range $section }}
+  {{ partial "listing.html" . }}
+
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

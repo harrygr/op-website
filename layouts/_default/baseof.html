@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <link rel="shortcut icon" href="{{ "favicon.png" | absURL }}">
+  <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" />
+
+</head>
+
+<body class="min-vh-100">
+  <div id="root" class="min-vh-100 flex flex-column">
+  {{ partial "nav.html" . }}
+  <main class="flex-1">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+  </div>
+</body>
+<script src="{{ "dist/app.bundle.js" | absURL }}" async></script>
+</html>

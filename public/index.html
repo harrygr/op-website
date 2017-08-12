@@ -1,35 +1,148 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.png">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500" rel="stylesheet">
-  <!--
-      Notice the use of %PUBLIC_URL% in the tag above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+	<meta name="generator" content="Hugo 0.26" />
+  <meta charset="UTF-8">
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-  <title>Oliver Proudlock</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <title>Oliver Proudlock </title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <link rel="shortcut icon" href="http://oliverproudlock.com/favicon.png">
+  <link href='http://oliverproudlock.com/dist/main.css' rel='stylesheet' type="text/css" />
+
 </head>
 
 <body>
-  <div id="root"></div>
-  <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+  <div id="root">
+  <nav class="fixed-ns z-5 w-100 bb top-0 bg-animate z-999 flex items-center justify-between relative b--black bg-white" role="navigation">
+  
+  <ul class="list pl0 ma0 flex-ns f6 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100">
+    
+    <li class="db dib-ns">
+      <a class="black ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100" href="/" title="Home page">
+        Home
+      </a>
+    </li>
+    
+    <li class="db dib-ns">
+      <a class="black ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100" href="/about/" title="About page">
+        About
+      </a>
+    </li>
+    
+    <li class="db dib-ns">
+      <a class="black ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100" href="/posts/" title="Posts page">
+        Posts
+      </a>
+    </li>
+    
+  </ul>
+  
+</nav>
+  <main>
+    
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+<div class="relative">
+  <div
+    class="flex justify-center items-center aspect-ratio--object"
+  >
+    <img src="/media/op-logo-vector-with-tagline-white.svg" alt="" class="w-80 w-60-ns mw6-ns" />
+  </div>
 
-      To begin the development, run `npm start`.
-      To create a production bundle, use `npm run build`.
-    -->
+  <op-carousel
+    :images="[&#34;/media/carousel/ps-1.jpg&#34;,&#34;/media/carousel/merc2.jpg&#34;,&#34;/media/carousel/ps-2.jpg&#34;,&#34;/media/carousel/pstyle2-carousel.jpg&#34;,&#34;/media/carousel/exiting-car.jpg&#34;,&#34;/media/carousel/pstyle-carousel.jpg&#34;]"
+    child-class-name="w-100"
+    class-name="mb3"
+    :options="{autoPlay: 6000}"
+  ></op-carousel>
+</div>
+
+<div class="mw8-5 center ph3-ns ph2">
+   <op-insta-carousel
+  token="1793053169.1677ed0.7f7706318947448b82a0e184bda1918b"
+  user="1793053169"
+  ></op-insta-carousel>
+</div>
+
+<div class="mw8-5 center ph3-ns ph2">
+  <div class="cf">
+    
+      <div class="fl w-100 w-25-ns sans-serif ph2">
+        <a href="https://sergedenimes.com" class="db relative saturate-hover grayscale mb3" target="_blank">
+          <img src="/media/home/serge.jpg" alt="" class="db" />
+          <span class="absolute absolute-center db white ttu f4">Serge</span>
+        </a>
+      </div>
+    
+      <div class="fl w-100 w-25-ns sans-serif ph2">
+        <a href="/categories/fitness" class="db relative saturate-hover grayscale mb3" target="_blank">
+          <img src="/media/home/fitness.jpg" alt="" class="db" />
+          <span class="absolute absolute-center db white ttu f4">Fitness</span>
+        </a>
+      </div>
+    
+      <div class="fl w-100 w-25-ns sans-serif ph2">
+        <a href="http://proudlockstyle.com" class="db relative saturate-hover grayscale mb3" target="_blank">
+          <img src="/media/home/style.jpg" alt="" class="db" />
+          <span class="absolute absolute-center db white ttu f4">Style</span>
+        </a>
+      </div>
+    
+      <div class="fl w-100 w-25-ns sans-serif ph2">
+        <a href="/categories/travel" class="db relative saturate-hover grayscale mb3" target="_blank">
+          <img src="/media/home/travel.jpg" alt="" class="db" />
+          <span class="absolute absolute-center db white ttu f4">Travel</span>
+        </a>
+      </div>
+    
+  </div>
+</div>
+
+<div class="mw8-5 center ph3-ns ph2">
+  <div class="fl w-100 w-50-ns ph2 mb3">
+    <div class="videowrapper">
+      <iframe
+      src="https://www.youtube.com/embed/Dc8lpBE2vcE?rel=0&controls=0&showinfo=0?ecver=2"
+      frameborder="0"
+      allowfullscreen="true"
+      /></iframe>
+    </div>
+  </div>
+
+  <div class="fl w-100 w-50-ns ph2 mb3">
+    <div class="videowrapper">
+      <iframe
+      src="https://www.youtube.com/embed/2JRyZd9U-zk?rel=0&controls=0&showinfo=0?ecver=2"
+      frameborder="0"
+      allowfullscreen="true"
+      ></iframe>
+    </div>
+  </div>
+  <div class="cf"></div>
+</div>
+
+
+  </main>
+
+  <footer class="bg-black mt2">
+
+
+   <op-insta-row
+  token="1793053169.1677ed0.7f7706318947448b82a0e184bda1918b"
+  user="1793053169"
+  ></op-insta-row>
+
+
+      <div class="ph4 pv3 flex justify-between items-center white f6 fw3">
+        <div>&copy; 2017 Oliver Proudlock</div>
+        <div class="ttu tr">Don't just love it, live it</div>
+      </div>
+    </footer>
+  </div>
 </body>
-
+<script src="http://oliverproudlock.com/dist/app.bundle.js" async></script>
 </html>

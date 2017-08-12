@@ -1,0 +1,19 @@
+baseURL = "http://oliverproudlock.com/"
+title = "Oliver Proudlock"
+
+languageCode = "en-gb"
+theme = ""
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    url = "/"
+    weight = 100
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+    weight = 110

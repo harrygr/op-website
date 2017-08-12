@@ -1,17 +1,28 @@
 import {Result, Ok, Err} from 'space-lift'
 import * as jsonp from 'fetch-jsonp'
+import * as cache from 'lscache'
+import md5 from 'blueimp-md5'
 const qs = require('qs')
 
-import {AppError} from '../types'
+interface Error {
+  message: string
+  info: string
+}
 
-type Response = Result<AppError, Instagram.Media[]>
+type Response = Result<Error, Instagram.Media[]>
 
-export function getInstagramPhotos(userId: string, accessToken: string): Promise<Response> {
+export const getInstagramPhotos = (userId: string, accessToken: string): Promise<Response> => {
   const params = qs.stringify({
     access_token: accessToken,
     count: 10,
   })
   const url = `https://api.instagram.com/v1/users/${userId}/media/recent/?${params}`
+
+  const key = `grams_${userId}_${md5(params)}`
+  const result = cache.get(key)
+  if (cache.get(key)) {
+    return Promise.resolve(Ok(result))
+  }
 
   return jsonp(url)
     .then(response => response.json())
@@ -22,8 +33,10 @@ export function getInstagramPhotos(userId: string, accessToken: string): Promise
           info: `URL: ${url}`,
         })
       }
+      cache.set(key, response.data, 22)
       return Ok(response.data)
     })
+    .catch(err => Err(err))
 }
 
 export namespace Instagram {
