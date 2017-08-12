@@ -13,6 +13,7 @@ interface Reducers {
 }
 
 interface Effects {
+  fetchAllImages: Helix.Effect0<Models>
   fetchImages: Helix.Effect<Models, ImageCollection>
 }
 type Actions = Helix.Actions<Reducers, Effects>
@@ -36,14 +37,23 @@ export function model(): Helix.ModelImpl<Models, State, Reducers, Effects> {
       },
     },
     effects: {
+      fetchAllImages(state, send) {
+        Object.keys(state.instagram.images).forEach((collection: ImageCollection) => {
+          if (!state.instagram.images[collection].length) {
+            send.instagram.fetchImages(collection)
+          }
+        })
+        return Promise.resolve(state)
+      },
       fetchImages(state, send, collection) {
-        return getInstagramPhotos(config.instagram[collection].userId, config.instagram[collection].token)
+        getInstagramPhotos(config.instagram[collection].userId, config.instagram[collection].token)
           .then(response => {
             return response.fold(
               err => console.warn(err.message, err.info),
               images => send.instagram.setImages({ images, collection }),
             )
           })
+        return Promise.resolve(state)
       },
     },
   }

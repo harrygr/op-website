@@ -24,6 +24,7 @@ export function getInstagramPhotos(userId: string, accessToken: string): Promise
       }
       return Ok(response.data)
     })
+    .catch(err => Err(err))
 }
 
 export namespace Instagram {

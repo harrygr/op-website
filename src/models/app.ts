@@ -9,6 +9,7 @@ interface Reducers {
 }
 
 interface Effects {
+  onAppBoot: Helix.Effect0<Models>
   setPageTitle: Helix.Effect<Models, string>
   watchNav: Helix.Effect0<Models>
 }
@@ -31,6 +32,14 @@ export function model(): Helix.ModelImpl<Models, State, Reducers, Effects> {
       },
     },
     effects: {
+      onAppBoot(state, send) {
+        window.scrollTo(0, 0)
+        send.instagram.fetchAllImages()
+        if (!state.posts.blogPosts.length) {
+          send.posts.fetchBlogPosts()
+        }
+        return Promise.resolve(state)
+      },
       watchNav(state, send) {
         window.addEventListener('scroll', () => send.app.setNavInverted(window.pageYOffset > 50))
         return Promise.resolve(state)

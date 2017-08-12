@@ -1,12 +1,16 @@
-import axios from 'axios'
+import axios, { AxiosRequestConfig } from 'axios'
 
 import config from '../config'
 
-interface PostAttachment {
+interface PostThumbnail {
   ID: number
   URL: string
   height: number
   width: number
+}
+
+interface PostAttachment extends PostThumbnail {
+  thumbnails: { large: string, medium: string, thumbnail: string }
 }
 
 interface PostCategory {
@@ -25,17 +29,33 @@ export interface Post {
   excerpt: string
   date: string
   modified: string
-  post_thumbnail: PostAttachment
+  post_thumbnail: PostThumbnail
   categories: { [key: string]: PostCategory }
   slug: string
+  attachments: Record<string, PostAttachment>
+}
+
+export interface GetPostsOptions {
+  category?: string
+  number?: number
 }
 
 const api = 'https://public-api.wordpress.com/rest/v1.1/sites'
 
-export function getPosts() {
-  const options = { number: 100 }
-  return axios.get(`${api}/${config.posts.url}/posts`, options)
+export function getPosts(options: GetPostsOptions = {}) {
+  const requestConfig: AxiosRequestConfig = { params: { number: 100, ...options } }
+  return axios.get(`${api}/${config.posts.url}/posts`, requestConfig)
     .then<Post[]>(response => response.data.posts)
+}
+
+export function getPostBySlug(slug: string) {
+  return axios.get(`${api}/${config.posts.url}/posts/slug:${slug}`)
+    .then(response => {
+      if (!response.data || response.data.error) {
+        return null
+      }
+      return response.data as Post
+    })
 }
 
 export function getCategorySlug(post: Post) {

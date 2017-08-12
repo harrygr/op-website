@@ -2,7 +2,7 @@ import * as React from 'react'
 import * as CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup'
 
 import { Models } from '../models'
-import { State } from '../models/grams'
+// import { State } from '../models/grams'
 import Nav from '../components/nav'
 import Footer from './footer'
 
@@ -15,19 +15,12 @@ const links = [
   { url: '/contact', text: 'Contact' },
 ]
 
-const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
+const layout = (page: Helix.Page<Models>): Helix.Page<Models> => {
   return {
-    onEnter(state, _prev, send) {
-      window.scrollTo(0, 0)
-
-      Object.keys(state.instagram.images).forEach((collection: keyof State['images']) => {
-        if (!state.instagram.images[collection].length) {
-          send.instagram.fetchImages(collection)
-        }
-      })
-
-      if (!state.posts.posts.length) {
-        send.posts.fetchPosts()
+    onEnter(state, prev, send) {
+      send.app.onAppBoot()
+      if (page.onEnter) {
+        page.onEnter(state, prev, send)
       }
     },
     view(state, prev, send) {
@@ -43,7 +36,7 @@ const layout = (page: Helix.Page<Models>['view']): Helix.Page<Models> => {
             transitionEnterTimeout={500}
             transitionLeaveTimeout={300}>
             <div key={state.location.pathname} className="georgia">
-              {page(state, prev, send)}
+              {page.view(state, prev, send)}
             </div>
           </CSSTransitionGroup>
           <Footer grams={state.instagram.images.footer} />

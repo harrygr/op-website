@@ -2,7 +2,7 @@ import * as React from 'react'
 
 import Page from '../components/page'
 
-const page = () => {
+const view = () => {
   return (
     <Page>
       <section className="fw2 lh-copy">
@@ -13,4 +13,4 @@ const page = () => {
   )
 }
 
-export default page
+export default {view}
