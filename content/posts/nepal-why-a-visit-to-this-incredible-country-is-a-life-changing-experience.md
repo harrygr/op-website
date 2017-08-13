@@ -5,6 +5,7 @@ tags: ["camp hope","made in chelsea","nepal","proudlock"]
 date: "2016-01-29 18:00:04"
 categories: ["Travel"]
 slug: "nepal-why-a-visit-to-this-incredible-country-is-a-life-changing-experience"
+thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/img_63001.jpg"
 ---
 
 <figure class="featured-media medium-width">![nepal1.jpg](https://static.standard.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2016/01/29/10/nepal1.jpg "nepal1.jpg")

@@ -5,6 +5,7 @@ tags: ["bowery hotel","east village","made in chelsea","new york","proudlock","p
 date: "2015-05-15 17:13:34"
 categories: ["Travel"]
 slug: "oliver-proudlocks-weekend-in-new-york-the-bowery-hotel-and-la-santina"
+thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/img_7324.jpg"
 ---
 
 <figure class="featured-media medium-width">![16Handles.png](https://static.standard.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2015/05/15/14/16Handles.png "16Handles.png")

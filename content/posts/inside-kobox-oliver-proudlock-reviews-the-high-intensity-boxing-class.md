@@ -5,6 +5,7 @@ tags: ["boxing","hiit","kobox","london","made in chelsea","mens fitness","proudl
 date: "2016-12-07 14:47:32"
 categories: ["Fitness"]
 slug: "inside-kobox-oliver-proudlock-reviews-the-high-intensity-boxing-class"
+thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/op2.jpg"
 ---
 
 [//players.brightcove.net/1348423965/r1xJxdDneb_default/index.html?videoId=5214104473001](//players.brightcove.net/1348423965/r1xJxdDneb_default/index.html?videoId=5214104473001) Welcome to #PROUDFITNESS. I'm trying out some of London's hottest gyms to see why people can't get enough, speaking to the head trainers and experiencing their classes and giving you the low-down. **Where:** For my second instalment of #PROUDFITNESS, I headed to Chelsea to try out KOBOX, a boutique boxing studio that offers high intensity classes in a bespoke studio setting. **Which class?**Its class combines heavy bag boxing routines with functional strength training in a 'Fight Club meets nightclub' environment. Your bag combinations are projected onto the wall, so that you have a constant reference to the change in punch combos. Then in between the bag sessions,you are up against the wall doing squat jumps, push ups, throwing medicine balls at a target. It sounds exhausting, and it really is, but it’s all for a good cause and at the end of your session you feel re-energized, and ready to take on anything. People talk about the importance of releasing endorphins, and after one of these classes you'll know what they're talking about.

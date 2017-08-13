@@ -1,7 +1,9 @@
   <article class="cb pv4 bt">
+    {{ if (.Params.thumbnail )}}
     <a href="{{ .URL }}" class="db fl-ns w-30-ns w-50-l mw6 pr3-ns pb0-ns pb3">
-      <!-- <img src={post.post_thumbnail.URL} alt={post.title} class="db" /> -->
+      <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" class="db" />
     </a>
+    {{ end }}
 
     <a href="{{ .URL }}" class="black link">
       <h1 class="f3 mv0 lh-copy fw3 tracked-tight dim">

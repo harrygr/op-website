@@ -5,6 +5,7 @@ tags: ["australia","fashion week","made in chelsea","melbourne","proudlock","pro
 date: "2016-03-31 17:06:59"
 categories: ["Travel"]
 slug: "10-reasons-why-you-should-visit-melbourne"
+thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/img_0245.jpg"
 ---
 
 <header id="gigya-share-btns-1_gig_containerParent">

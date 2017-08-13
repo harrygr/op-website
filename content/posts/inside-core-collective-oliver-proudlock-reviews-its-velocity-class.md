@@ -5,6 +5,7 @@ tags: ["core collective","london","made in chelsea","proudlock","reebok","veloci
 date: "2016-09-13 17:10:42"
 categories: ["Fitness"]
 slug: "inside-core-collective-oliver-proudlock-reviews-its-velocity-class"
+thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/op-core-collective.jpg"
 ---
 
 Welcome to the first instalment of #PROUDFITNESS. Over the next 6 months I'm going to be visiting some of London hottest gyms to find out why people can't get enough. I'll be speaking to the head trainers, as well as trying out the classes myself.

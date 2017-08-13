@@ -5,6 +5,7 @@ tags: ["island life","jumeirah","made in chelsea","maldives","paradise","proudlo
 date: "2016-11-16 15:10:58"
 categories: ["Travel"]
 slug: "jumeirah-dhevanafushi-maldives-hotel-review"
+thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/op-maldives.jpg"
 ---
 
 <div class="db mw7">https://www.youtube.com/watch?v=e7H-itFlIbs</div>

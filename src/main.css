@@ -5,6 +5,10 @@ body {
     font-family: Montserrat, sans-serif;
 }
 
+body * {
+    box-sizing: border-box;
+}
+
 .sans-serif {
     font-family: Montserrat, sans-serif!important;
     font-weight: 200;
