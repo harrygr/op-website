@@ -1,9 +1,9 @@
 {{ define "main" }}
-<div class="ph4 pt2 mt5-ns mw8-5 center">
+<div class="ph4 pt2 mt5-ns mw8-5 center serif">
   {{ $section := where .Data.Pages "Section" .Section }} {{ range $section }}
   {{ partial "listing.html" . }}
 
   {{ end }}
-  {{ template "_internal/pagination.html" . }}
+  {{ partial "pagination.html" . }}
 </div>
 {{ end }}

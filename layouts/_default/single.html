@@ -1,15 +1,13 @@
 {{ define "main" }}
   <div class="ph4 pt2 mt5-ns mw8-5 center">
-    <article>
+    <article class="serif">
       <header>
         <h1 class="f3 mv0 lh-copy fw3 tracked-tight">
           {{ .Title }}
         </h1>
-                <time
-          dateTime=""
-          itemProp="datePublished"
-          class="sans-serif f6 gray mb3 db"
-        >date</time>
+        <time dateTime="{{ .Date }}" itemProp="datePublished" class="sans-serif f6 gray mb3 db">
+            {{ .Date.Format "02 Jan 2006" }}
+          </time>
       </header>
       <section class="fw2 lh-copy post-content">
         {{ .Content }}
