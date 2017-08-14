@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="ph4 pt2 mt5-ns mw8-5 center serif">
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "style") }}
+  {{ range $index, $section := $paginator.Pages }}
+  {{ $title := .Title}}
+  <div class="cb pv4 {{ if ne 0 $index }}bt{{ end }}">
+  <a href="{{ .URL }}" class="black link">
+    <h1 class="f3 mv0 lh-copy fw3 tracked-tight dim link">
+    {{ $title }}
+    </h1>
+  </a>
+  <time dateTime="{{ .Date }}" itemProp="datePublished" class="sans-serif f6 gray mb3 db">
+      {{ .Date.Format "02 Jan 2006" }}
+  </time>
+    {{ range first 1 .Params.attachments }}
+    {{ if . }}
+      <img src="{{ . }}" alt="{{ $title }}">
+    {{ end }}
+    {{ end }}
+</div>
+
+  {{ end }}
+  {{ partial "pagination.html" . }}
+</div>
+{{ end }}
