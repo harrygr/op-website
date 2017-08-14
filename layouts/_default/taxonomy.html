@@ -3,7 +3,6 @@
   <h1>{{ .Title }}</h1>
   {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
   {{ range $index, $section := $paginator.Pages }}
-  {{ range $section }}
   <div {{ if ne 0 $index }}class="bt"{{ end }}>
   {{ partial "listing.html" . }}
   </div>
