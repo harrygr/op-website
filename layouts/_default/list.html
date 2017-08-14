@@ -1,7 +1,10 @@
 {{ define "main" }}
 <div class="ph4 pt2 mt5-ns mw8-5 center serif">
-  {{ $section := where .Data.Pages "Section" .Section }} {{ range $section }}
-  {{ partial "listing.html" . }}
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  {{ range $index, $section := $paginator.Pages }}
+  <div {{ if ne 0 $index }}class="bt"{{ end }}>
+    {{ partial "listing.html" . }}
+  </div>
 
   {{ end }}
   {{ partial "pagination.html" . }}

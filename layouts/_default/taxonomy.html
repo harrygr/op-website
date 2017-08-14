@@ -1,9 +1,12 @@
 {{ define "main" }}
 <div class="ph4 pt2 mt5-ns mw8-5 center">
   <h1>{{ .Title }}</h1>
-
-  {{ $section := .Data.Pages }} {{ range $section }}
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  {{ range $index, $section := $paginator.Pages }}
+  {{ range $section }}
+  <div {{ if ne 0 $index }}class="bt"{{ end }}>
   {{ partial "listing.html" . }}
+  </div>
   {{ end }}
   {{ template "_internal/pagination.html" . }}
 </div>

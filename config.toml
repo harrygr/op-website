@@ -4,7 +4,11 @@ title = "Oliver Proudlock"
 languageCode = "en-gb"
 theme = ""
 
-SectionPagesMenu = "main"
+SectionPagesMenu = ""
+
+[params]
+    instaUser = "21686064"
+    instaToken = "21686064.1677ed0.7157aa5ab77e47809b1b2d3753005e71"
 
 [[menu.main]]
     name = "Home"
@@ -16,10 +20,22 @@ SectionPagesMenu = "main"
     name = "About"
     identifier = "about"
     url = "/about/"
-    weight = 110
+    weight = 130
+
+[[menu.main]]
+    name = "Travel"
+    identifier = "travel"
+    url = "/categories/travel/"
+    weight = 160
+
+[[menu.main]]
+    name = "Fitness"
+    identifier = "fitness"
+    url = "/categories/fitness/"
+    weight = 170
 
 [[menu.main]]
     name = "Contact"
     identifier = "contact"
     url = "/contact/"
-    weight = 110
+    weight = 180

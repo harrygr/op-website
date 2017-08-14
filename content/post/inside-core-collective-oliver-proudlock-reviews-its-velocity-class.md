@@ -18,17 +18,9 @@ I headed to High Street Kensington to check out the recently-opened Core Collec
 
 For my first session, I thought it only right to opt for their signature class: Velocity. It's 45 minutes of high intensity circuit training that works the full body. Combining cardio exercises with weights, the class will have you using various workout apparatus from battle ropes, to TRX straps and a hideous thing called ‘The Prowler’. A large, weighted sleigh like object stacked with more weights and designed to be dragged across the floor by the unlucky trainee. That being said, it is an exercise combining cardio (the dragging) with weights and will be sure to give you a pretty nasty burn across most of your body. In a good way.
 
-<div class="dnd-widget-wrapper context-sdl_editor_representation type-image">
+![op-core-collective.jpg](https://static.standard.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2016/09/13/17/op-core-collective.jpg "Oliver on the TRX ropes")
 
-<div class="dnd-atom-rendered">
 
-<div class="image">![op-core-collective.jpg](https://static.standard.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2016/09/13/17/op-core-collective.jpg "op-core-collective.jpg")</div>
-
-</div>
-
-<div class="dnd-caption-wrapper">Oliver on the TRX ropes</div>
-
-</div>
 
 Depending on your strengths you'll find certain exercises harder than others, but as with all classes; the harder you push yourself the better the results. I struggled most with ‘The Prowler’, as well as the hop press-ups - both of which will have you puffing and panting, and your heart rate going at a speedy pace. I felt the burn, but despite wanting to stop, the energy in the room really helps you push through the barrier and give your everything.
 
