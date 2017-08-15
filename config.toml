@@ -9,6 +9,7 @@ SectionPagesMenu = ""
 [params]
     instaUser = "21686064"
     instaToken = "21686064.1677ed0.7157aa5ab77e47809b1b2d3753005e71"
+    contactEmail = "ollie@oliverproudlock.com"
 
 [[menu.main]]
     name = "Home"
