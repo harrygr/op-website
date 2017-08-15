@@ -9,8 +9,6 @@ title: 'London Marathon man: Oliver Proudlock reviews Reshape at London''s 1Rebe
   gym'
 
 ---
-
-
 ![](/uploads/2017/08/15/Ollie-Proudlock-3.png)
 
 In training: Oliver Proudlock is running the London marathon for the British Heart Foundation

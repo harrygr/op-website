@@ -1,13 +1,13 @@
-
 ---
-title: "Paris with Paco Rabanne"
+title: Paris with Paco Rabanne
 tags: []
-date: "2017-07-13 16:31:12"
-categories: ["Travel"]
-slug: "paris-with-paco-rabanne"
-thumbnail: "https://oliverproudlock.files.wordpress.com/2017/07/1249258-primary_images.jpg"
----
+date: 2017-07-13 16:31:12 +0000
+categories:
+- Travel
+slug: paris-with-paco-rabanne
+thumbnail: https://oliverproudlock.files.wordpress.com/2017/07/1249258-primary_images.jpg
 
+---
 Last week, I had the pleasure of travelling to Paris for 24 hours to celebrate the global launch of Paco Rabannes new fragrance for men; PURE XS. Paco Rabanne, a globally known brand, have been leading within men’s fragrance since 2008 with the iconic ‘1 Million’. With sales rocketing above the rest, they recently released the hero fragrance Invictus, which too, has been a great success with it’s strong and powerful characteristics. Let's not forget the XS saga that started in 1993, claiming sexual desire free of any taboos. The advert, and the fragrance, is truly iconic and later led onto the rock star fantasy Black XS. Now in 2017 we see the release of Pure XS, tapping back into the foundations of what XS was originally about; sex and eroticism. Before I delve further into the fragrance, let me set the scene for our 24 hour Parisian adventure. Having arrived in Paris after a very pleasant, quick and easy journey on the Eurostar, we were driven to what can only be described as the perfect hotel epitomising the message behind Pure XS, The St James Paris. Now this hotel, being the only Chateau-hotel in Paris, embodies strong history combined with luxurious interiors that are most definitely unique. As you can see from the shots below, the interiors are lavish and excessive, dark and mysterious, historic and modern with an amazing outdoor space, and rooms which ooze that certain je ne sais quoi.
 
 ![IMG_4127](https://oliverproudlock.files.wordpress.com/2017/07/img_4127.jpg)Hot air balloon features outside

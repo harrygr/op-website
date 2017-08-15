@@ -1,14 +1,20 @@
+---
+title: 10 reasons why you should visit Melbourne
+tags:
+- australia
+- fashion week
+- made in chelsea
+- melbourne
+- proudlock
+- proudlockstyle
+- vamff
+date: 2016-03-31 17:06:59 +0000
+categories:
+- Travel
+slug: 10-reasons-why-you-should-visit-melbourne
+thumbnail: https://oliverproudlock.files.wordpress.com/2017/05/img_0245.jpg
 
 ---
-title: "10 reasons why you should visit Melbourne"
-tags: ["australia","fashion week","made in chelsea","melbourne","proudlock","proudlockstyle","vamff"]
-date: "2016-03-31 17:06:59"
-categories: ["Travel"]
-slug: "10-reasons-why-you-should-visit-melbourne"
-thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/img_0245.jpg"
----
-
-
 # 10 reasons why you should visit Melbourne
 
 The brunch, the coffee and the arts scene just for starters..  

@@ -1,13 +1,19 @@
+---
+title: Jumeirah Dhevanafushi, Maldives - hotel review
+tags:
+- island life
+- jumeirah
+- made in chelsea
+- maldives
+- paradise
+- proudlock
+date: 2016-11-16 15:10:58 +0000
+categories:
+- Travel
+slug: jumeirah-dhevanafushi-maldives-hotel-review
+thumbnail: https://oliverproudlock.files.wordpress.com/2017/05/op-maldives.jpg
 
 ---
-title: "Jumeirah Dhevanafushi, Maldives - hotel review"
-tags: ["island life","jumeirah","made in chelsea","maldives","paradise","proudlock"]
-date: "2016-11-16 15:10:58"
-categories: ["Travel"]
-slug: "jumeirah-dhevanafushi-maldives-hotel-review"
-thumbnail: "https://oliverproudlock.files.wordpress.com/2017/05/op-maldives.jpg"
----
-
 {{< youtube e7H-itFlIbs >}}
 
 When you think of the Maldives, a few things come to mind: crystal clear turquoise water, wooden huts balancing on stilts in the middle of the ocean, and honeymoons.

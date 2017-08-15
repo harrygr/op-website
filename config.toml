@@ -1,42 +1,38 @@
+SectionPagesMenu = ""
 baseURL = "http://oliverproudlock.com/"
-title = "Oliver Proudlock"
-
 languageCode = "en-gb"
 theme = ""
-
-SectionPagesMenu = ""
-
+title = "Oliver Proudlock"
+[[menu.main]]
+name = "Shop"
+url = "http://sergedenimes.com"
+weight = 181
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 6
+[[menu.main]]
+identifier = "fitness"
+name = "Fitness"
+url = "/categories/fitness/"
+weight = 4
+[[menu.main]]
+identifier = "travel"
+name = "Travel"
+url = "/categories/travel/"
+weight = 3
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
 [params]
-    instaUser = "21686064"
-    instaToken = "21686064.1677ed0.7157aa5ab77e47809b1b2d3753005e71"
-    contactEmail = "ollie@oliverproudlock.com"
-
-[[menu.main]]
-    name = "Home"
-    identifier = "home"
-    url = "/"
-    weight = 100
-
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    url = "/about/"
-    weight = 130
-
-[[menu.main]]
-    name = "Travel"
-    identifier = "travel"
-    url = "/categories/travel/"
-    weight = 160
-
-[[menu.main]]
-    name = "Fitness"
-    identifier = "fitness"
-    url = "/categories/fitness/"
-    weight = 170
-
-[[menu.main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact/"
-    weight = 180
+contactemail = "ollie@oliverproudlock.com"
+instatoken = "21686064.1677ed0.7157aa5ab77e47809b1b2d3753005e71"
+instauser = "21686064"

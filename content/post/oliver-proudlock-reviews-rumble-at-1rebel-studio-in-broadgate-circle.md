@@ -1,11 +1,11 @@
-
 ---
-title: "Oliver Proudlock reviews Rumble at 1Rebel studio in Broadgate Circle"
+title: Oliver Proudlock reviews Rumble at 1Rebel studio in Broadgate Circle
 tags: []
-date: "2015-09-04 20:53:10"
-categories: ["Fitness"]
-slug: "oliver-proudlock-reviews-rumble-at-1rebel-studio-in-broadgate-circle"
-thumbnail: "https://oliverproudlock.files.wordpress.com/2017/03/ollie1rebel_0.jpg"
----
+date: 2015-09-04 20:53:10 +0000
+categories:
+- Fitness
+slug: oliver-proudlock-reviews-rumble-at-1rebel-studio-in-broadgate-circle
+thumbnail: https://oliverproudlock.files.wordpress.com/2017/03/ollie1rebel_0.jpg
 
+---
 ![ollie1rebel_0](https://oliverproudlock.files.wordpress.com/2017/03/ollie1rebel_0.jpg) I have been a huge fan of the original 1 Rebel gym in St Mary Axe since I first experienced their [Rebel Reshape class](http://www.standard.co.uk/lifestyle/health/london-marathon-man-oliver-proudlock-reviews-reshape-at-londons-1rebel-gym-10106610.html) back in January this year - a combination of high intensity cardio, on the super high tech running machines, combined with bench work. As soon as I heard they were launching their second studio in Broadgate Circle, I couldn't wait to check it out. This site offers the Rebel Reshape, as well as their new boxing concept coined 'Rumble'. Like Reshape, this is a high intensity workout but revolves around boxing combinations and kicks. Each rebel is assigned their own bag and as with all things at 1 Rebel, the equipment is high end and nothing is spared when it comes to the space itself. I used to box when I was at Newcastle University and for me, boxing is one of the hardest sorts of training I have experienced that uses all parts of your body. You're concentrating so hard on creating power in your punch that sometimes you forget to breathe... **This week’s fitness class:** Rumble at 1Rebel **What it involves:** The session is made up of chunks of time - ususally 1 minute - or different actions like left jabs, which are broken up with press ups or sit ups and the like. There is no rest time. This is for me what training is about: high intensity strength and cardio, which leaves you feeling like you've given it your all - but simultaneously rejuvenated. Unfortunately I didn't get to experience the whole 45 minute class, but I can't wait to get back there and do a full session. **My verdict:** Unfortunately I didn't get to experience the whole 45 minute class, but I can't wait to get back there and do a full session. I found the Rumble class to be on a par with the excellent Reshape class. But 1 Rebel isn't just about working out, it is an experience. If you are into the whole active and healthy lifestyle, or want to become part of it, then this is the perfect place for you. Spacious changing rooms with oversized showers and spacious lockers, dedicated vanity areas and high end skincare products mean the post-workout is as much part of the experience. You can also get a post-grind refuel in the shape of a juice courtesy of Roots & Bulbs. **Where to try it:** 1Rebel, Broadgate Circle, EC2M 2QS; [1rebel.co.uk](http://1rebel.co.uk/)

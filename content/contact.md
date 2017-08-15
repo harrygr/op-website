@@ -1,7 +1,7 @@
 ---
-title: "Contact"
-date: 2017-08-11T19:02:00+01:00
-draft: false
-layout: "contact"
----
+title: Contact
+date: 2017-08-11 19:02:00 +0100
+layout: contact
+type: page
 
+---

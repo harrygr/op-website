@@ -14,8 +14,6 @@ slug: oliver-proudlocks-weekend-in-new-york-the-bowery-hotel-and-la-santina
 thumbnail: https://oliverproudlock.files.wordpress.com/2017/05/img_7324.jpg
 
 ---
-
-
 <img src="https://static.standard.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2015/05/15/14/16Handles.png" alt="16Handles.png" title="Oliver Proudlock and his girlfriend in New York">
 
 To celebrate completing the London Marathon I wanted to treat myself and my girlfriend Emma to a break from the gruelling fitness training of the past three months.
