@@ -118,6 +118,10 @@ body * {
     height: auto;
 }
 
+.post-content strong {
+    font-weight: 700;
+}
+
 .post-content h1,
 .post-content h2,
 .post-content h3 {
