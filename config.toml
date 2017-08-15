@@ -4,14 +4,14 @@ languageCode = "en-gb"
 theme = ""
 title = "Oliver Proudlock"
 [[menu.main]]
-name = "Shop"
-url = "http://sergedenimes.com"
-weight = 181
-[[menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "/contact/"
 weight = 6
+[[menu.main]]
+name = "Shop"
+url = "http://sergedenimes.com"
+weight = 5
 [[menu.main]]
 identifier = "fitness"
 name = "Fitness"
