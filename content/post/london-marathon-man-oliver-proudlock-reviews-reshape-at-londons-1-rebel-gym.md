@@ -1,13 +1,17 @@
 ---
-title: "London Marathon man: Oliver Proudlock reviews Reshape at London's 1Rebel gym"
+categories:
+- Fitness
+date: {}
+slug: london-marathon-man-oliver-proudlock-reviews-reshape-at-londons-1-rebel-gym
 tags: []
-date: "2017-05-25 16:35:27"
-categories: ["Fitness"]
-slug: "london-marathon-man-oliver-proudlock-reviews-reshape-at-londons-1-rebel-gym"
-thumbnail: ""
+thumbnail: "/uploads/2017/08/15/Ollie-Proudlock-3.png"
+title: 'London Marathon man: Oliver Proudlock reviews Reshape at London''s 1Rebel
+  gym'
+
 ---
 
-![Ollie-Proudlock-3.png](https://static.standard.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2015/03/13/14/Ollie-Proudlock-3.png "Ollie-Proudlock-3.png")
+
+![](/uploads/2017/08/15/Ollie-Proudlock-3.png)
 
 In training: Oliver Proudlock is running the London marathon for the British Heart Foundation
 
@@ -28,3 +32,4 @@ So you think all gyms are pretty much the same right? White walls, harsh strip l
 **What:** Forza LipoWhey protein in vanilla - it's extremely important to take in protein 30 minutes after an exercise session.
 
 **Why:** it contains a fat-free blend of plant strerols to actively lower cholesterol. I like to mix it with coconut water, but if you have the time make my miracle protein smoothie: 1 avocado, 1 banana, a handful of spinach, 1 scoop of Green Good Stuff and flaxseed, coconut water and 3 scoops for Forza LipoWhey.
+
