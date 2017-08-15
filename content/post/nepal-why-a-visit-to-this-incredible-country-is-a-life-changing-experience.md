@@ -1,4 +1,3 @@
-
 ---
 title: "Nepal: why a visit to this incredible country is a life-changing experience"
 tags: ["camp hope","made in chelsea","nepal","proudlock"]
