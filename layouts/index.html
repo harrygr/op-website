@@ -1,0 +1,93 @@
+{{ define "main" }}
+
+<div class="relative">
+  <div
+    class="flex justify-center items-center aspect-ratio--object"
+  >
+    <img src="{{ .Params.logo }}" alt="" class="w-80 w-60-ns mw6-ns" />
+  </div>
+
+  <op-carousel
+    :images="{{ apply .Params.carousel "replace" "/media/carousel/path" "path" "." | jsonify}}"
+    child-class-name="w-100"
+    class-name="mb3"
+    :options="{autoPlay: 6000}"
+  ></op-carousel>
+</div>
+
+<div class="mw8-5 center ph3-ns ph2">
+   <op-insta-carousel
+  token="{{ .Params.instaToken }}"
+  user="{{ .Params.instaUser }}"
+  ></op-insta-carousel>
+</div>
+
+<div class="mw8-5 center ph3-ns ph2">
+  <div class="cf">
+    {{ range .Params.tiles }}
+      <div class="fl w-100 w-25-ns sans-serif ph2">
+        <a href="{{ .url }}" class="db relative saturate-hover grayscale mb3" target="_blank">
+          <img src="{{ .imageUrl }}" alt="" class="db" />
+          <span class="absolute absolute-center db white ttu f4">{{ .text }}</span>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+<div class="mw8-5 center mb3 ph3-ns ph2">
+    <div class="relative tc mh2" style="height: 1px;">
+        <hr class="bb br-0 bl-0 bt-0 b--black absolute ma0 w-100" />
+        <span
+          class="center bg-white ph3 absolute ttu sans-serif fw4 tracked-mega f7"
+          style="transform: translate(-50%, -50%);"
+        >Recent Posts</span>
+      </div>
+  </div>
+
+<div class="mw8-5 center ph3-ns ph2 lh-copy serif">
+{{ range $index, $element := first 2 (where .Data.Pages "Section" "post") }}
+  <div class="cf ph2 flex-ns mb3">
+      <div
+        class="w-33 h5 w-33-ns w-100 cover bg-center {{ if eq  (mod $index 2) 0 }}order-5-ns{{ end }}"
+        style="background-image: url('{{ .Params.thumbnail }}')"
+      >
+    </div>
+      <div class="flex-1 xv-center {{ if eq  (mod $index 2) 0 }}pr3-ns pr4-l{{ else }}pl3-ns pl4-l{{ end }}">
+        <a href="{{ .URL }}" class="link black">
+          <h2 class="f3 mb2 mt0 fw4 tracked-tight dim">
+            {{ .Title }}
+          </h2>
+        </a>
+        <p class="mv3">{{ .Summary }}</p>
+        <a href="{{ .URL }}" class="dib link pv2 ph3 b--moon-gray dark-gray br1 ba
+        serif f7 ttu sans-serif bg-white hover-bg-light-gray bg-animate">Read More</a>
+      </div>
+    </div>
+{{ end }}
+</div>
+
+<div class="mw8-5 center ph3-ns ph2">
+  <div class="fl w-100 w-50-ns ph2 mb3">
+    <div class="videowrapper">
+      <iframe
+      src="https://www.youtube.com/embed/{{ .Params.video1 }}?rel=0&controls=0&showinfo=0?ecver=2"
+      frameborder="0"
+      allowfullscreen="true"
+      /></iframe>
+    </div>
+  </div>
+
+  <div class="fl w-100 w-50-ns ph2 mb3">
+    <div class="videowrapper">
+      <iframe
+      src="https://www.youtube.com/embed/{{ .Params.video2 }}?rel=0&controls=0&showinfo=0?ecver=2"
+      frameborder="0"
+      allowfullscreen="true"
+      ></iframe>
+    </div>
+  </div>
+  <div class="cf"></div>
+</div>
+
+{{ end }}

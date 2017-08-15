@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="ph4 pt2 mt5-ns mw8-5 center">
+  <article class="serif">
+    <section class="fw2 lh-copy post-content">
+      {{ .Content }}
+      <op-contact-form contact-email="{{ .Site.Params.contactEmail }}"></op-contact-form>
+    </section>
+  </article>
+</div>
+{{ end }}

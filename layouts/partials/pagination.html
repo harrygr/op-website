@@ -1,0 +1,45 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<ul class="list pl0 flex justify-center sans-serif b f6">
+    <li
+    class="{{ if not $pag.HasPrev }}disabled{{ end }}"
+    >
+    <a
+      href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}"
+      aria-label="Previous"
+      class="link pa2 bt bb bl b--moon-gray dark-gray bg-white hover-bg-light-gray"
+      ><span aria-hidden="true">&laquo;</span>
+    </a>
+    </li>
+    {{ $.Scratch.Set "__paginator.ellipsed" false }}
+    {{ range $pag.Pagers }}
+    {{ $right := sub .TotalPages .PageNumber }}
+    {{ $showNumber := or (le .PageNumber 3) (eq $right 0) }}
+    {{ $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 2)) (lt .PageNumber (add $pag.PageNumber 2)))  }}
+    {{ if $showNumber }}
+        {{ $.Scratch.Set "__paginator.ellipsed" false }}
+        {{ $.Scratch.Set "__paginator.shouldEllipse" false }}
+    {{ else }}
+        {{ $.Scratch.Set "__paginator.shouldEllipse" (not ($.Scratch.Get "__paginator.ellipsed") ) }}
+        {{ $.Scratch.Set "__paginator.ellipsed" true }}
+    {{ end }}
+    {{ if $showNumber }}
+    <li
+    {{ if eq . $pag }}class="active"{{ end }}
+    ><a href="{{ .URL }}" class="link pa2 bt bb bl b--moon-gray dark-gray bg-white hover-bg-light-gray">{{ .PageNumber }}</a>
+  </li>
+    {{ else if ($.Scratch.Get "__paginator.shouldEllipse") }}
+    <li class="disabled pa2 bt bb bl b--moon-gray dark-gray bg-white hover-bg-light-gray"><span aria-hidden="true">&hellip;</span></li>
+    {{ end }}
+    {{ end }}
+    <li
+    {{ if not $pag.HasNext }}class="disabled"{{ end }}>
+    <a
+      href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}"
+      aria-label="Next"
+      class="link pa2 ba b--moon-gray dark-gray bg-white hover-bg-light-gray"
+      ><span aria-hidden="true">&raquo;</span>
+    </a>
+    </li>
+</ul>
+{{ end }}

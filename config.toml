@@ -1,0 +1,38 @@
+SectionPagesMenu = ""
+baseURL = "http://oliverproudlock.com/"
+languageCode = "en-gb"
+theme = ""
+title = "Oliver Proudlock"
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 6
+[[menu.main]]
+name = "Shop"
+url = "http://sergedenimes.com"
+weight = 5
+[[menu.main]]
+identifier = "fitness"
+name = "Fitness"
+url = "/categories/fitness/"
+weight = 4
+[[menu.main]]
+identifier = "travel"
+name = "Travel"
+url = "/categories/travel/"
+weight = 3
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[params]
+contactemail = "ollie@oliverproudlock.com"
+instatoken = "21686064.1677ed0.7157aa5ab77e47809b1b2d3753005e71"
+instauser = "21686064"
