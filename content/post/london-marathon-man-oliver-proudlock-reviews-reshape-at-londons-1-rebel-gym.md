@@ -1,7 +1,7 @@
 ---
 categories:
 - Fitness
-date: {}
+date: 2017-05-25 00:00:00 +0100
 slug: london-marathon-man-oliver-proudlock-reviews-reshape-at-londons-1-rebel-gym
 tags: []
 thumbnail: "/uploads/2017/08/15/Ollie-Proudlock-3.png"
