@@ -36,3 +36,12 @@ weight = 1
 contactemail = "ollie@oliverproudlock.com"
 instatoken = "21686064.1677ed0.7157aa5ab77e47809b1b2d3753005e71"
 instauser = "21686064"
+[[params.socialIcons]]
+icon = "instagram"
+url = "https://www.instagram.com/proudlock/"
+[[params.socialIcons]]
+icon = "youtube"
+url = "https://www.youtube.com/channel/UCeDi_2LhhvSIPI9DO7jNFNA"
+[[params.socialIcons]]
+icon = "twitter"
+url = "https://twitter.com/oliverproudlock"

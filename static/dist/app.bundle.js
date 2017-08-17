@@ -18372,12 +18372,15 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_flickity_css_flickity_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_flickity_css_flickity_css__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__main_css__ = __webpack_require__(23);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__main_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__main_css__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_vue__ = __webpack_require__(27);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_vue__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_carousel__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_insta_carousel__ = __webpack_require__(25);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_insta_row__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_contact_form__ = __webpack_require__(24);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__icons_css__ = __webpack_require__(83);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__icons_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__icons_css__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_vue__ = __webpack_require__(27);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_vue__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_carousel__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_insta_carousel__ = __webpack_require__(25);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_insta_row__ = __webpack_require__(26);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_contact_form__ = __webpack_require__(24);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_collapsable_nav__ = __webpack_require__(82);
 
 
 
@@ -18386,11 +18389,14 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 
-__WEBPACK_IMPORTED_MODULE_3_vue___default.a.component('op-carousel', __WEBPACK_IMPORTED_MODULE_4__components_carousel__["a" /* default */]);
-__WEBPACK_IMPORTED_MODULE_3_vue___default.a.component('op-insta-carousel', __WEBPACK_IMPORTED_MODULE_5__components_insta_carousel__["a" /* default */]);
-__WEBPACK_IMPORTED_MODULE_3_vue___default.a.component('op-insta-row', __WEBPACK_IMPORTED_MODULE_6__components_insta_row__["a" /* default */]);
-__WEBPACK_IMPORTED_MODULE_3_vue___default.a.component('op-contact-form', __WEBPACK_IMPORTED_MODULE_7__components_contact_form__["a" /* default */]);
-new __WEBPACK_IMPORTED_MODULE_3_vue___default.a({
+
+
+__WEBPACK_IMPORTED_MODULE_4_vue___default.a.component('op-carousel', __WEBPACK_IMPORTED_MODULE_5__components_carousel__["a" /* default */]);
+__WEBPACK_IMPORTED_MODULE_4_vue___default.a.component('op-insta-carousel', __WEBPACK_IMPORTED_MODULE_6__components_insta_carousel__["a" /* default */]);
+__WEBPACK_IMPORTED_MODULE_4_vue___default.a.component('op-insta-row', __WEBPACK_IMPORTED_MODULE_7__components_insta_row__["a" /* default */]);
+__WEBPACK_IMPORTED_MODULE_4_vue___default.a.component('op-contact-form', __WEBPACK_IMPORTED_MODULE_8__components_contact_form__["a" /* default */]);
+__WEBPACK_IMPORTED_MODULE_4_vue___default.a.component('op-nav', __WEBPACK_IMPORTED_MODULE_9__components_collapsable_nav__["a" /* default */]);
+new __WEBPACK_IMPORTED_MODULE_4_vue___default.a({
     el: '#root'
 });
 
@@ -18699,6 +18705,37 @@ try {
 
 module.exports = g;
 
+
+/***/ }),
+/* 76 */,
+/* 77 */,
+/* 78 */,
+/* 79 */,
+/* 80 */,
+/* 81 */,
+/* 82 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+var template = "<nav\nid=\"navbar\"\nclass=\"fixed-ns z-5 w-100 bb top-0 bg-animate z-999 flex items-center justify-between relative b--black bg-white\"\n>\n<button\n  class=\"br1 black dim pv2 ph3 ma3 ba dn-ns b--black outline-0 button-reset\"\n  @click=\"open = !open\"\n  >\n  <i class=\"icon-menu\"></i>\n</button>\n\n<ul\nclass=\"list pl0 ma0 flex-ns f6 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100 bn-ns bt bb\"\n:class=\"open ? 'db' : 'dn'\"\n>\n\n    <li class=\"db dib-ns\" v-for=\"(link, index) in links\" key={index}>\n    <a\n    :href=\"link.url\"\n    class=\"black ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100\"\n  >{{ link.text }}</a>\n    </li>\n\n</ul>\n<slot></slot>\n</nav>";
+/* harmony default export */ __webpack_exports__["a"] = ({
+    props: {
+        links: { required: true, type: Array }
+    },
+    data: function () {
+        return {
+            open: false,
+        };
+    },
+    template: template,
+});
+
+
+/***/ }),
+/* 83 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);

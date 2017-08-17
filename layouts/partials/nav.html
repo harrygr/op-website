@@ -1,4 +1,4 @@
-<nav class="fixed-ns z-5 w-100 bb top-0 bg-animate z-999 flex items-center justify-between relative b--black bg-white" role="navigation">
+<!-- <nav class="fixed-ns z-5 w-100 bb top-0 bg-animate z-999 flex items-center justify-between relative b--black bg-white" role="navigation">
   {{ if .Site.Menus.main }}
   <ul class="list pl0 ma0 flex-ns f6 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100">
     {{ range .Site.Menus.main }}
@@ -10,4 +10,21 @@
     {{ end }}
   </ul>
   {{ end }}
-</nav>
+</nav> -->
+{{ if .Site.Menus.main }}
+<op-nav :links="[{{ range .Site.Menus.main }}{url: '{{ .URL }}', text: '{{ .Name }}',},{{ end }}]">
+    <ul class="ml-auto list pr2 dn-m db nav-social-icons flex">
+      {{ range .Site.Params.socialIcons }}
+        <li>
+          <a
+            href="{{ .url }}"
+            class="link br-pill ba dib f6 inline-flex items-center justify-center h1-5 w1-5 mh1 dim pa2 black"
+            target="_blank"
+          >
+            <i class="icon-{{ .icon }}"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+</op-nav>
+{{ end }}
