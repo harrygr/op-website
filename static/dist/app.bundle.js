@@ -18717,15 +18717,34 @@ module.exports = g;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-var template = "<nav\nid=\"navbar\"\nclass=\"fixed-ns z-5 w-100 bb top-0 bg-animate z-999 flex items-center justify-between relative b--black bg-white\"\n>\n<button\n  class=\"br1 black dim pv2 ph3 ma3 ba dn-ns b--black outline-0 button-reset\"\n  @click=\"open = !open\"\n  >\n  <i class=\"icon-menu\"></i>\n</button>\n\n<ul\nclass=\"list pl0 ma0 flex-ns f6 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100 bn-ns bt bb\"\n:class=\"open ? 'db' : 'dn'\"\n>\n\n    <li class=\"db dib-ns\" v-for=\"(link, index) in links\" key={index}>\n    <a\n    :href=\"link.url\"\n    class=\"black ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100\"\n  >{{ link.text }}</a>\n    </li>\n\n</ul>\n<slot></slot>\n</nav>";
+var template = "<nav\nid=\"navbar\"\nclass=\"fixed-ns z-5 w-100 bb top-0 bg-animate z-999 flex items-center justify-between relative\"\n:class=\"invertedStyle\"\n>\n<button\n  class=\"br1 black dim pv2 ph3 ma3 ba dn-ns b--black outline-0 button-reset\"\n  @click=\"open = !open\"\n  >\n  <i class=\"icon-menu\"></i>\n</button>\n\n<ul\nclass=\"list pl0 ma0 flex-ns f6 ttu no-underline nav-links db-ns overflow-x-auto w-auto-ns w-100 bn-ns bt bb\"\n:class=\"open ? 'db' : 'dn'\"\n>\n\n    <li class=\"db dib-ns\" v-for=\"(link, index) in links\" key={index}>\n    <a\n    :href=\"link.url\"\n    class=\"color-inherit ph3-m ph4 pv3 no-underline dim dib outline-0 w-auto-ns w-100\"\n  >{{ link.text }}</a>\n    </li>\n\n</ul>\n<div :class=\"this.inverted ? 'b--white white' : 'b--black black'\">\n<slot></slot>\n</div>\n</nav>";
 /* harmony default export */ __webpack_exports__["a"] = ({
     props: {
-        links: { required: true, type: Array }
+        links: { required: true, type: Array },
+        invert: { required: false, type: Boolean, default: false }
     },
     data: function () {
         return {
             open: false,
+            inverted: this.invert && window.pageYOffset < 50,
         };
+    },
+    methods: {
+        setInverted: function (inverted) {
+            this.inverted = inverted;
+        },
+    },
+    computed: {
+        invertedStyle: function () {
+            return this.inverted ? 'b--white white bg-transparent' : 'b--black black bg-white';
+        }
+    },
+    mounted: function () {
+        var _this = this;
+        console.log('nav mounted');
+        window.addEventListener('scroll', function () {
+            _this.setInverted(_this.invert && window.pageYOffset < 50);
+        });
     },
     template: template,
 });

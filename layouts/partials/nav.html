@@ -12,13 +12,16 @@
   {{ end }}
 </nav> -->
 {{ if .Site.Menus.main }}
-<op-nav :links="[{{ range .Site.Menus.main }}{url: '{{ .URL }}', text: '{{ .Name }}',},{{ end }}]">
+<op-nav
+:links="[{{ range .Site.Menus.main }}{url: '{{ .URL }}', text: '{{ .Name }}',},{{ end }}]"
+:invert="{{ if .Params.home }}true{{ else }}false{{ end }}"
+>
     <ul class="ml-auto list pr2 dn-m db nav-social-icons flex">
       {{ range .Site.Params.socialIcons }}
         <li>
           <a
             href="{{ .url }}"
-            class="link br-pill ba dib f6 inline-flex items-center justify-center h1-5 w1-5 mh1 dim pa2 black"
+            class="link br-pill ba dib f6 inline-flex items-center justify-center h1-5 w1-5 mh1 dim pa2 color-inherit b--inherit"
             target="_blank"
           >
             <i class="icon-{{ .icon }}"></i>
