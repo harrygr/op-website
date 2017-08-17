@@ -13,7 +13,7 @@
 </nav> -->
 {{ if .Site.Menus.main }}
 <op-nav
-:links="[{{ range .Site.Menus.main }}{url: '{{ .URL }}', text: '{{ .Name }}',},{{ end }}]"
+:links="[{{ range .Site.Menus.main }}{url: '{{ .URL }}', text: '{{ .Name }}'},{{ end }}]"
 :invert="{{ if .Params.home }}true{{ else }}false{{ end }}"
 >
     <ul class="ml-auto list pr2 dn-m db nav-social-icons flex">

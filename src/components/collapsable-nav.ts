@@ -66,7 +66,6 @@ export default {
     }
   },
   mounted () {
-    console.log('nav mounted')
     window.addEventListener('scroll', () => {
       this.setInverted( this.invert && window.pageYOffset < 50)
     })
