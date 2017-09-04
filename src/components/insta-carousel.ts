@@ -26,7 +26,7 @@ export default {
   },
   computed: {
     imageUrls () {
-      return this.images.map(i => i.images.standard_resolution.url)
+      return this.images.map(i => i.images.thumbnail.url)
     }
   },
   components: {

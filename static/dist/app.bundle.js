@@ -3384,7 +3384,7 @@ var template = "\n  <op-carousel v-if=\"imageUrls.length\" :images=\"imageUrls\"
     },
     computed: {
         imageUrls: function () {
-            return this.images.map(function (i) { return i.images.standard_resolution.url; });
+            return this.images.map(function (i) { return i.images.thumbnail.url; });
         }
     },
     components: {

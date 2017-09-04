@@ -7,7 +7,7 @@ carousel:
 - pstyle2-carousel.jpg
 - exiting-car.jpg
 - pstyle-carousel.jpg
-instaToken: 1793053169.1677ed0.7f7706318947448b82a0e184bda1918b
+instaToken: 1793053169.1677ed0.ac3e8138465f4570842d043cd2fd8e8c
 instaUser: 1793053169
 tiles:
 - imageUrl: "/media/home/serge.jpg"
