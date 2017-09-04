@@ -46,7 +46,7 @@
   </div>
 
 <div class="mw8-5 center ph3-ns ph2 lh-copy serif">
-{{ range $index, $element := first 2 (where .Data.Pages "Section" "post") }}
+{{ range $index, $element := first 2 (where .Data.Pages "Section" "in" (slice "style" "post")) }}
   <div class="cf ph2 flex-ns mb3">
       <div
         class="w-33 h5 w-33-ns w-100 cover bg-center {{ if eq  (mod $index 2) 0 }}order-5-ns{{ end }}"
