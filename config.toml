@@ -7,11 +7,16 @@ title = "Oliver Proudlock"
 identifier = "contact"
 name = "Contact"
 url = "/contact/"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Shop"
 url = "http://sergedenimes.com"
-weight = 5
+weight = 6
+[[menu.main]]
+identifier = "style"
+name = "Style"
+url = "/style/"
+weight = 3
 [[menu.main]]
 identifier = "fitness"
 name = "Fitness"
@@ -21,7 +26,7 @@ weight = 4
 identifier = "travel"
 name = "Travel"
 url = "/categories/travel/"
-weight = 3
+weight = 5
 [[menu.main]]
 identifier = "about"
 name = "About"
@@ -45,3 +50,9 @@ url = "https://www.youtube.com/channel/UCeDi_2LhhvSIPI9DO7jNFNA"
 [[params.socialIcons]]
 icon = "twitter"
 url = "https://twitter.com/oliverproudlock"
+[[params.socialIcons]]
+icon = "pinterest"
+url = "https://pinterest.com/oliverproudlock"
+[[params.socialIcons]]
+icon = "depop"
+url = "https://depop.com/proudlock"
