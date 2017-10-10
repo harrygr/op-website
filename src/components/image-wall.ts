@@ -6,7 +6,7 @@ const template = `
 <div v-if="images.length" class="" ref="masonry">
   <div ref="sizer" class="w-third-ns w-50-m"></div>
   <a v-for="(image, index) in images" :class="containerClass(index) + ' pa2 db grid-item'" :href="image" target="_blank">
-    <img :src="image" class="db"/>
+    <img :src="image" class="db w-100 h-auto"/>
   </a>
 </div>
 `
