@@ -18770,7 +18770,7 @@ module.exports = g;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_imagesloaded___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_imagesloaded__);
 
 
-var template = "\n<div v-if=\"images.length\" class=\"\" ref=\"masonry\">\n  <div ref=\"sizer\" class=\"w-third-ns w-50-m\"></div>\n  <a v-for=\"(image, index) in images\" :class=\"containerClass(index) + ' pa2 db grid-item'\" :href=\"image\" target=\"_blank\">\n    <img :src=\"image\" class=\"db w-100 h-auto\"/>\n  </a>\n</div>\n";
+var template = "\n<div v-if=\"images.length\" class=\"\" ref=\"masonry\" class=\"masonry-container\">\n  <div ref=\"sizer\" class=\"w-third-ns w-50-m\"></div>\n  <a v-for=\"(image, index) in images\" :class=\"containerClass(index) + ' pa2 db grid-item'\" :href=\"image\" target=\"_blank\">\n    <img :src=\"image\" class=\"db w-100 h-auto\"/>\n  </a>\n</div>\n";
 /* harmony default export */ __webpack_exports__["a"] = ({
     props: {
         images: { type: Array },
@@ -18786,7 +18786,7 @@ var template = "\n<div v-if=\"images.length\" class=\"\" ref=\"masonry\">\n  <di
     },
     mounted: function () {
         var _this = this;
-        var elem = this.$refs.masonry;
+        var elem = '.masonry-container';
         __WEBPACK_IMPORTED_MODULE_1_imagesloaded__(elem, function () {
             new __WEBPACK_IMPORTED_MODULE_0_masonry_layout__(elem, {
                 percentPosition: true,
