@@ -1,23 +1,21 @@
 {{ define "main" }}
   <div class="ph4 pt2 mt5-ns mw8-5 center">
     <article class="serif">
-      <header>
-        <h1 class="f3 mv0 lh-copy fw3 tracked-tight">
-          {{ .Title }}
-        </h1>
-        <time dateTime="{{ .Date }}" itemProp="datePublished" class="sans-serif f6 gray mb3 db">
-            {{ .Date.Format "02 Jan 2006" }}
-          </time>
-      </header>
-
       <section class="fw2 lh-copy post-content">
         {{ .Content }}
       </section>
 
-      <section>
+      <section class="center mw7" >
+        <op-image-wall :images='[{{ range .Params.attachments }}"{{ . }}",{{ end}}]' style="margin: 0 -.5rem;"></op-image-wall>
+
+
+<!--
+        <div class="grid" data-masonry='{ "itemSelector": ".grid-item" }'></div>
         {{ range .Params.attachments }}
+        <div class="grid-item w5">
           <img src="{{ . }}" alt="" />
-        {{ end }}
+        </div>
+        {{ end }} -->
       </section>
     </article>
   </div>
