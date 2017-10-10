@@ -26,6 +26,10 @@ body * {
     max-width: 76rem;
 }
 
+.pt-75 {
+    padding-top: 75%;
+}
+
 .fade-enter {
     opacity: 0.01;
 }

@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="ph4 pt2 mt5-ns mw8-5 center serif">
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "style") }}
+<!--   {{ $paginator := .Paginate (where .Data.Pages "Type" "style") }}
   {{ range $index, $section := $paginator.Pages }}
   {{ $title := .Title}}
   <div class="cb pv4 {{ if ne 0 $index }}bt{{ end }}">
@@ -20,6 +20,17 @@
 </div>
 
   {{ end }}
-  {{ partial "pagination.html" . }}
+  {{ partial "pagination.html" . }} -->
+{{ range $index, $section := $paginator.Pages }}
+  <div class="fl w-third-l w-50-m w-100 pa2" >
+    <a
+      href="{{ $section.URL }}"
+      title="{{ $section.Title }}"
+      class="bg-black db cover pt-75 dim"
+      style="background-image: url('{{ .Params.thumbnail }}') "
+    ></a>
+  </div>
+{{ end }}
+
 </div>
 {{ end }}
