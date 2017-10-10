@@ -1,12 +1,20 @@
 {{ define "main" }}
-<div class="ph4 pt2 mt5-ns mw8-5 center">
-  <h1>{{ .Title }}</h1>
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-  {{ range $index, $section := $paginator.Pages }}
-  <div {{ if ne 0 $index }}class="bt"{{ end }}>
-  {{ partial "listing.html" . }}
+<div class="mw8-5 pt2 mt5-ns center">
+
+  <!-- content -->
+  <div class="fl w-100 w-70-l ph3 pr3 pr2-l">
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+    {{ range $index, $section := $paginator.Pages }}
+    <div {{ if ne 0 $index }}class="bt"{{ end }}>
+      {{ partial "listing.html" . }}
+    </div>
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
   </div>
-  {{ end }}
-  {{ template "_internal/pagination.html" . }}
+
+  <!-- sidebar -->
+  {{ partial "sidebar.html" . }}
+
+  <div class="cf"></div>
 </div>
 {{ end }}

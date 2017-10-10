@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="ph4 pt2 mt5-ns mw8-5 center">
-    <article class="serif">
+    <article class="serif fl w-100 w-70-l ph3 pr3 pr2-l">
       <header>
         <h1 class="f3 mv0 lh-copy fw3 tracked-tight">
           {{ .Title }}
@@ -13,5 +13,6 @@
         {{ .Content }}
       </section>
     </article>
+    {{ partial "sidebar.html" . }}
   </div>
 {{ end }}

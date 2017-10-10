@@ -5,6 +5,15 @@
     </a>
     {{ end }}
 
+
+    <div>
+      {{ range $key, $cat := .Params.categories }}
+      <a href="/categories/{{ $cat | urlize }}" class="black dib ttu f7 link mb2 mr2">
+        {{ $cat }}
+      </a>
+      {{ end }}
+    </div>
+
     <a href="{{ .URL }}" class="black link serif">
       <h1 class="f3 mv0 lh-copy fw3 tracked-tight dim">
         {{ .Title }}
