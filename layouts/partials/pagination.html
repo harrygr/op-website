@@ -1,13 +1,14 @@
 {{ $pag := $.Paginator }}
+{{ $linkclass := "pa2 bt bb bl b--moon-gray dark-gray hover-bg-light-gray"}}
 {{ if gt $pag.TotalPages 1 }}
 <ul class="list pl0 flex justify-center sans-serif b f6">
     <li
-    class="{{ if not $pag.HasPrev }}disabled{{ end }}"
+    class="{{ if not $pag.HasPrev }}disabled{{ end }} {{ $linkclass }}"
     >
     <a
       href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}"
       aria-label="Previous"
-      class="link pa2 bt bb bl b--moon-gray dark-gray bg-white hover-bg-light-gray"
+      class="link black"
       ><span aria-hidden="true">&laquo;</span>
     </a>
     </li>
@@ -25,19 +26,19 @@
     {{ end }}
     {{ if $showNumber }}
     <li
-    {{ if eq . $pag }}class="active"{{ end }}
-    ><a href="{{ .URL }}" class="link pa2 bt bb bl b--moon-gray dark-gray bg-white hover-bg-light-gray">{{ .PageNumber }}</a>
+    class="{{ if eq . $pag }}bg-light-gray{{ end }} {{ $linkclass }}"
+    ><a href="{{ .URL }}" class="link black">{{ .PageNumber }}</a>
   </li>
     {{ else if ($.Scratch.Get "__paginator.shouldEllipse") }}
-    <li class="disabled pa2 bt bb bl b--moon-gray dark-gray bg-white hover-bg-light-gray"><span aria-hidden="true">&hellip;</span></li>
+    <li class="disabled {{ $linkclass }}"><span aria-hidden="true">&hellip;</span></li>
     {{ end }}
     {{ end }}
     <li
-    {{ if not $pag.HasNext }}class="disabled"{{ end }}>
+    class="{{ if not $pag.HasNext }}disabled {{ end }}{{ $linkclass }} br">
     <a
       href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}"
       aria-label="Next"
-      class="link pa2 ba b--moon-gray dark-gray bg-white hover-bg-light-gray"
+      class="link black"
       ><span aria-hidden="true">&raquo;</span>
     </a>
     </li>

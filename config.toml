@@ -3,6 +3,8 @@ baseURL = "http://oliverproudlock.com/"
 languageCode = "en-gb"
 theme = ""
 title = "Oliver Proudlock"
+paginate = 30
+
 [[menu.main]]
 identifier = "contact"
 name = "Contact"

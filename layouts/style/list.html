@@ -1,6 +1,7 @@
 {{ define "main" }}
 <div class="ph4 pt2 mt5-ns mw8-5 center serif">
-<!--   {{ $paginator := .Paginate (where .Data.Pages "Type" "style") }}
+ {{ $paginator := .Paginate (where .Data.Pages "Type" "style") }}
+ <!--
   {{ range $index, $section := $paginator.Pages }}
   {{ $title := .Title}}
   <div class="cb pv4 {{ if ne 0 $index }}bt{{ end }}">
@@ -31,6 +32,7 @@
     ></a>
   </div>
 {{ end }}
-
+<div class="cf"></div>
 </div>
+{{ partial "pagination.html" . }}
 {{ end }}
