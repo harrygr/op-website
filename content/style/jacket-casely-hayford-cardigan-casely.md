@@ -8,7 +8,7 @@ date: 2014-10-10T12:24:00.000Z
 categories:
 - Style
 slug: jacket-casely-hayford-cardigan-casely
-thumbnail: https://78.media.tumblr.com/fa19d7813806bc691e41269fe869eda5/tumblr_nd8aghqa7f1rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/fa19d7813806bc691e41269fe869eda5/tumblr_nd8aghqa7f1rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/fa19d7813806bc691e41269fe869eda5/tumblr_nd8aghqa7f1rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/37b17572e9d2e7d2a2df5a12f377e253/tumblr_nd8aghqa7f1rhrm24o2_1280.jpg

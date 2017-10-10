@@ -23,7 +23,7 @@ date: 2017-08-11T16:24:14.000Z
 categories:
 - Style
 slug: jacket-diesel-t-shirt-double-rainbouu
-thumbnail: https://78.media.tumblr.com/3140d782bd68779c53a931988b334fb9/tumblr_ouiz4vSIHT1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/3140d782bd68779c53a931988b334fb9/tumblr_ouiz4vSIHT1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/3140d782bd68779c53a931988b334fb9/tumblr_ouiz4vSIHT1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/084745bdd7ea5d1f29695f26676400f8/tumblr_ouiz4vSIHT1rhrm24o2_1280.jpg

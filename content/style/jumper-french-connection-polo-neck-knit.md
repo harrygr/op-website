@@ -8,7 +8,7 @@ date: 2013-12-13T14:59:00.000Z
 categories:
 - Style
 slug: jumper-french-connection-polo-neck-knit
-thumbnail: https://78.media.tumblr.com/c4519891aaf087dbd08772925e5929a4/tumblr_mxr2ztsS5y1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/c4519891aaf087dbd08772925e5929a4/tumblr_mxr2ztsS5y1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/c4519891aaf087dbd08772925e5929a4/tumblr_mxr2ztsS5y1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/52f4f301a6d1b649f765fa70ad887e0c/tumblr_mxr2ztsS5y1rhrm24o5_1280.jpg

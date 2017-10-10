@@ -12,7 +12,7 @@ date: 2014-03-14T16:03:00.000Z
 categories:
 - Style
 slug: jacket-reiss-jumper-reiss-trousers
-thumbnail: https://78.media.tumblr.com/2a0d3a8c409fbb9f681292508efb0e30/tumblr_n2ds0vK2jY1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/2a0d3a8c409fbb9f681292508efb0e30/tumblr_n2ds0vK2jY1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/2a0d3a8c409fbb9f681292508efb0e30/tumblr_n2ds0vK2jY1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/b7dd5ffee84f641dab9e88f73b8a29c2/tumblr_n2ds0vK2jY1rhrm24o2_1280.jpg

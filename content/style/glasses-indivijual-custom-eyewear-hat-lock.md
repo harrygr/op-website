@@ -9,7 +9,7 @@ date: 2014-11-04T11:01:00.000Z
 categories:
 - Style
 slug: glasses-indivijual-custom-eyewear-hat-lock
-thumbnail: https://78.media.tumblr.com/0b28b70a48f22825dd236d71abd0728d/tumblr_negta0RX9J1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/0b28b70a48f22825dd236d71abd0728d/tumblr_negta0RX9J1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/0b28b70a48f22825dd236d71abd0728d/tumblr_negta0RX9J1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/616dc189693c9de89abdb11f52cca479/tumblr_negta0RX9J1rhrm24o2_1280.jpg

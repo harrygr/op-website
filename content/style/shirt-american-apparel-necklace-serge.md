@@ -15,7 +15,7 @@ date: 2015-06-19T16:37:35.000Z
 categories:
 - Style
 slug: shirt-american-apparel-necklace-serge
-thumbnail: https://78.media.tumblr.com/f5d794e2800c47cf693bdee6c80150d9/tumblr_nq7a6nvdAA1rhrm24o6_1280.jpg
+thumbnail: https://78.media.tumblr.com/f5d794e2800c47cf693bdee6c80150d9/tumblr_nq7a6nvdAA1rhrm24o6_540.jpg
 attachments:
 - https://78.media.tumblr.com/f5d794e2800c47cf693bdee6c80150d9/tumblr_nq7a6nvdAA1rhrm24o6_1280.jpg
 - https://78.media.tumblr.com/f3f9fbfa088b244b3f7fd9ec3b807a60/tumblr_nq7a6nvdAA1rhrm24o2_1280.jpg

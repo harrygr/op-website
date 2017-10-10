@@ -12,7 +12,7 @@ date: 2013-11-18T22:05:00.000Z
 categories:
 - Style
 slug: made-in-chelsea-episode-7-top-domingo
-thumbnail: https://78.media.tumblr.com/997cdad2d89bd7d8e7f7159ad35891ec/tumblr_mwhc0rN9Et1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/997cdad2d89bd7d8e7f7159ad35891ec/tumblr_mwhc0rN9Et1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/997cdad2d89bd7d8e7f7159ad35891ec/tumblr_mwhc0rN9Et1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/a217a255a8d4c6978293a54a115bebd7/tumblr_mwhc0rN9Et1rhrm24o1_1280.jpg

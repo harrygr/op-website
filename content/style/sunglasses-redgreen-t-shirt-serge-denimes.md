@@ -12,7 +12,7 @@ date: 2013-07-05T13:24:00.000Z
 categories:
 - Style
 slug: sunglasses-redgreen-t-shirt-serge-denimes
-thumbnail: https://78.media.tumblr.com/39ce53ed5cad3a6994d9334268242de7/tumblr_mpgt8cH02I1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/39ce53ed5cad3a6994d9334268242de7/tumblr_mpgt8cH02I1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/39ce53ed5cad3a6994d9334268242de7/tumblr_mpgt8cH02I1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/3d7aa0d3f9c1ce0a7ccb8c2422cf21b0/tumblr_mpgt8cH02I1rhrm24o1_1280.jpg

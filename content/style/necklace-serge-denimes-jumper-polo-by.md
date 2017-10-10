@@ -10,7 +10,7 @@ date: 2013-05-03T13:16:00.000Z
 categories:
 - Style
 slug: necklace-serge-denimes-jumper-polo-by
-thumbnail: https://78.media.tumblr.com/b17a395a0a2dd1b84c543a344072c72b/tumblr_mm84uxfFEM1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/b17a395a0a2dd1b84c543a344072c72b/tumblr_mm84uxfFEM1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/b17a395a0a2dd1b84c543a344072c72b/tumblr_mm84uxfFEM1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/de85e3c7b8776aec64e1a2915b5de40f/tumblr_mm84uxfFEM1rhrm24o2_1280.jpg

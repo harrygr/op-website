@@ -22,7 +22,7 @@ date: 2017-08-18T11:46:28.000Z
 categories:
 - Style
 slug: sunglasses-ray-bans-jacket-all-saints
-thumbnail: https://78.media.tumblr.com/a25313e1007b8fffb0b7ab9f9a42cc6a/tumblr_ouvq1g6T251rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/a25313e1007b8fffb0b7ab9f9a42cc6a/tumblr_ouvq1g6T251rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/a25313e1007b8fffb0b7ab9f9a42cc6a/tumblr_ouvq1g6T251rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/cbc7a979dcdecfe31a55ac4a0b054814/tumblr_ouvq1g6T251rhrm24o4_1280.jpg

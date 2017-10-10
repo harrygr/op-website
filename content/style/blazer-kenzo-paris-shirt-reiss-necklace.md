@@ -13,7 +13,7 @@ date: 2013-08-15T18:20:00.000Z
 categories:
 - Style
 slug: blazer-kenzo-paris-shirt-reiss-necklace
-thumbnail: https://78.media.tumblr.com/d0bcdf0be5b5330432bcead5e6079e48/tumblr_mrl49vi94T1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/d0bcdf0be5b5330432bcead5e6079e48/tumblr_mrl49vi94T1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/d0bcdf0be5b5330432bcead5e6079e48/tumblr_mrl49vi94T1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/ec2e36ee5f78a351f400469aa89718f9/tumblr_mrl49vi94T1rhrm24o2_1280.jpg

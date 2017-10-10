@@ -18,7 +18,7 @@ date: 2015-02-27T14:34:15.000Z
 categories:
 - Style
 slug: jacket-diesel-jumper-levis-necklace
-thumbnail: https://78.media.tumblr.com/fe11732aa3bd88d5d5da6a4e222c0b9d/tumblr_nkfpt4zSe41rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/fe11732aa3bd88d5d5da6a4e222c0b9d/tumblr_nkfpt4zSe41rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/fe11732aa3bd88d5d5da6a4e222c0b9d/tumblr_nkfpt4zSe41rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/996e69118ce88957284697741b22aebe/tumblr_nkfpt4zSe41rhrm24o2_1280.jpg

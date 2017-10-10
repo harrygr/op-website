@@ -13,7 +13,7 @@ date: 2016-04-15T06:52:34.000Z
 categories:
 - Style
 slug: jacket-dries-van-noten-hoody-diesel
-thumbnail: https://78.media.tumblr.com/bd7bb0745b9fdcaff9d524f0ce6296d8/tumblr_o5nxrqiCIb1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/bd7bb0745b9fdcaff9d524f0ce6296d8/tumblr_o5nxrqiCIb1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/bd7bb0745b9fdcaff9d524f0ce6296d8/tumblr_o5nxrqiCIb1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/7716416b5252f0b538decbeb4220aa06/tumblr_o5nxrqiCIb1rhrm24o2_1280.jpg

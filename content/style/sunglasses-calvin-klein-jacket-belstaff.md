@@ -8,7 +8,7 @@ date: 2014-06-27T17:04:00.000Z
 categories:
 - Style
 slug: sunglasses-calvin-klein-jacket-belstaff
-thumbnail: https://78.media.tumblr.com/b0ac885cf8d14a723f2278663f956f84/tumblr_n7u7fuJWmJ1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/b0ac885cf8d14a723f2278663f956f84/tumblr_n7u7fuJWmJ1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/b0ac885cf8d14a723f2278663f956f84/tumblr_n7u7fuJWmJ1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/03f48b6e4274f259d5c2bf22474f38ba/tumblr_n7u7fuJWmJ1rhrm24o2_1280.jpg

@@ -16,7 +16,7 @@ date: 2017-02-23T08:15:24.000Z
 categories:
 - Style
 slug: crop-contrast-vote-for-me-here-to-be
-thumbnail: https://78.media.tumblr.com/e70a5d8d15bdbf0607fccdb490ce7479/tumblr_olq1n91x1B1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/e70a5d8d15bdbf0607fccdb490ce7479/tumblr_olq1n91x1B1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/e70a5d8d15bdbf0607fccdb490ce7479/tumblr_olq1n91x1B1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/5a81df6dfe46c9212ef1eb8e3b742fa4/tumblr_olq1n91x1B1rhrm24o2_1280.jpg

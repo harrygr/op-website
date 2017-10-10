@@ -18,7 +18,7 @@ date: 2016-11-18T11:21:33.000Z
 categories:
 - Style
 slug: jacket-serge-denimes-no-noise-navy-long-parka
-thumbnail: https://78.media.tumblr.com/d951e4b2ed24158bfa179bfd9d73caf2/tumblr_ogu4vxyLqr1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/d951e4b2ed24158bfa179bfd9d73caf2/tumblr_ogu4vxyLqr1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/d951e4b2ed24158bfa179bfd9d73caf2/tumblr_ogu4vxyLqr1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/b605c98df6f99fdade93ed7d04f754fd/tumblr_ogu4vxyLqr1rhrm24o4_1280.jpg

@@ -14,7 +14,7 @@ date: 2015-09-04T07:15:21.000Z
 categories:
 - Style
 slug: shirt-topman-necklace-serge-denimes
-thumbnail: https://78.media.tumblr.com/bbe977980e716b4e60a5886df5756fdb/tumblr_nu1pfmeqhu1rhrm24o7_1280.jpg
+thumbnail: https://78.media.tumblr.com/bbe977980e716b4e60a5886df5756fdb/tumblr_nu1pfmeqhu1rhrm24o7_540.jpg
 attachments:
 - https://78.media.tumblr.com/bbe977980e716b4e60a5886df5756fdb/tumblr_nu1pfmeqhu1rhrm24o7_1280.jpg
 - https://78.media.tumblr.com/b5e4019978b11b6e445b389b299bb3eb/tumblr_nu1pfmeqhu1rhrm24o6_1280.jpg

@@ -13,7 +13,7 @@ date: 2015-04-08T10:10:57.000Z
 categories:
 - Style
 slug: sweatshirt-serge-denimes-so-serge-palm-leaves
-thumbnail: https://78.media.tumblr.com/75584330db34379a8409dc247b4857a2/tumblr_nmhga9OZDu1rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/75584330db34379a8409dc247b4857a2/tumblr_nmhga9OZDu1rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/75584330db34379a8409dc247b4857a2/tumblr_nmhga9OZDu1rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/f7efec24159372c81b9c0ed7b2da4bc3/tumblr_nmhga9OZDu1rhrm24o3_1280.jpg

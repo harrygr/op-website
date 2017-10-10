@@ -16,7 +16,7 @@ date: 2016-06-10T11:26:41.000Z
 categories:
 - Style
 slug: t-shirt-american-eagle-necklace-serge
-thumbnail: https://78.media.tumblr.com/2ebacf362bff442eb86cafcf9fa433bd/tumblr_o8jzex4OtT1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/2ebacf362bff442eb86cafcf9fa433bd/tumblr_o8jzex4OtT1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/2ebacf362bff442eb86cafcf9fa433bd/tumblr_o8jzex4OtT1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/451cae882a1b5babe597e738ab33175b/tumblr_o8jzex4OtT1rhrm24o2_1280.jpg

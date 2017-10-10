@@ -11,7 +11,7 @@ date: 2013-08-31T11:52:00.000Z
 categories:
 - Style
 slug: shirt-insight-cap-serge-denimes-trousers
-thumbnail: https://78.media.tumblr.com/9a57563cfe7d9fbe6098470c64dea58c/tumblr_ms8r9rd13o1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/9a57563cfe7d9fbe6098470c64dea58c/tumblr_ms8r9rd13o1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/9a57563cfe7d9fbe6098470c64dea58c/tumblr_ms8r9rd13o1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4e71391d42c9539ffdf5f76813c7fafe/tumblr_ms8r9rd13o1rhrm24o4_1280.jpg

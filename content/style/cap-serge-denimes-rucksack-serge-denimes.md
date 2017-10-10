@@ -14,7 +14,7 @@ date: 2016-04-22T07:00:38.000Z
 categories:
 - Style
 slug: cap-serge-denimes-rucksack-serge-denimes
-thumbnail: https://78.media.tumblr.com/8907b36de788357a467141eab56d5b73/tumblr_o5zs5br8gs1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/8907b36de788357a467141eab56d5b73/tumblr_o5zs5br8gs1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/8907b36de788357a467141eab56d5b73/tumblr_o5zs5br8gs1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/0dc063f9f81c04ab132f4c6bb7276695/tumblr_o5zs5br8gs1rhrm24o2_1280.jpg

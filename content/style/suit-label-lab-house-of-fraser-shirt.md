@@ -21,7 +21,7 @@ date: 2017-07-28T07:00:22.000Z
 categories:
 - Style
 slug: suit-label-lab-house-of-fraser-shirt
-thumbnail: https://78.media.tumblr.com/8fb74e3e6548842cb71fc5fb49d3af97/tumblr_otqym8dK9t1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/8fb74e3e6548842cb71fc5fb49d3af97/tumblr_otqym8dK9t1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/8fb74e3e6548842cb71fc5fb49d3af97/tumblr_otqym8dK9t1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/803754a6344cd8d4ebdbfb1518618215/tumblr_otqym8dK9t1rhrm24o2_1280.jpg

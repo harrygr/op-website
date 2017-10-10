@@ -18,7 +18,7 @@ date: 2013-10-18T14:53:00.000Z
 categories:
 - Style
 slug: t-shirt-hat-serge-denimes-aw13-coming-soon
-thumbnail: https://78.media.tumblr.com/df17c864e194257259e4a1dc7f4b6eb1/tumblr_muvdd2nowI1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/df17c864e194257259e4a1dc7f4b6eb1/tumblr_muvdd2nowI1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/df17c864e194257259e4a1dc7f4b6eb1/tumblr_muvdd2nowI1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/31257517dc7ed81ca64ab201ae9ebf64/tumblr_muvdd2nowI1rhrm24o1_1280.jpg

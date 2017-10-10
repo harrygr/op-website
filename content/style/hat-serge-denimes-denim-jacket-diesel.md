@@ -15,7 +15,7 @@ date: 2014-03-28T12:46:48.000Z
 categories:
 - Style
 slug: hat-serge-denimes-denim-jacket-diesel
-thumbnail: https://78.media.tumblr.com/5af32502257c443f85fe1fbd7e4db1ea/tumblr_n35cu0peZO1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/5af32502257c443f85fe1fbd7e4db1ea/tumblr_n35cu0peZO1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/5af32502257c443f85fe1fbd7e4db1ea/tumblr_n35cu0peZO1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/1831400a99ef211e0ae853a08faa01f6/tumblr_n35cu0peZO1rhrm24o4_1280.jpg

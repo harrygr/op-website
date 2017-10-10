@@ -11,7 +11,7 @@ date: 2012-10-29T11:30:00.000Z
 categories:
 - Style
 slug: lou-dalton-biker-jacket-wolf-badger
-thumbnail: https://78.media.tumblr.com/108bda8890377b4eb3b9879bd6fdf331/tumblr_mcnjz7dDiZ1rhrm24o1_r1_1280.jpg
+thumbnail: https://78.media.tumblr.com/108bda8890377b4eb3b9879bd6fdf331/tumblr_mcnjz7dDiZ1rhrm24o1_r1_540.jpg
 attachments:
 - https://78.media.tumblr.com/108bda8890377b4eb3b9879bd6fdf331/tumblr_mcnjz7dDiZ1rhrm24o1_r1_1280.jpg
 

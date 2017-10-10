@@ -16,7 +16,7 @@ date: 2013-12-21T11:10:00.000Z
 categories:
 - Style
 slug: t-shirt-hunter-gather-jacket-levis
-thumbnail: https://78.media.tumblr.com/6e0271014717c4a90f80cee708796919/tumblr_my5lpcglFz1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/6e0271014717c4a90f80cee708796919/tumblr_my5lpcglFz1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/6e0271014717c4a90f80cee708796919/tumblr_my5lpcglFz1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/96f4352b6a72d8455bc11a8008b2d9d1/tumblr_my5lpcglFz1rhrm24o5_1280.jpg

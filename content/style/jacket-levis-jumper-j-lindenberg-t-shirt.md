@@ -19,7 +19,7 @@ date: 2015-05-01T07:15:29.000Z
 categories:
 - Style
 slug: jacket-levis-jumper-j-lindenberg-t-shirt
-thumbnail: https://78.media.tumblr.com/34859c0bbf3a916fda4017a0627897fa/tumblr_nnlclmtlvf1rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/34859c0bbf3a916fda4017a0627897fa/tumblr_nnlclmtlvf1rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/34859c0bbf3a916fda4017a0627897fa/tumblr_nnlclmtlvf1rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/fae100153e32f90cf3a5a7acde50ea44/tumblr_nnlclmtlvf1rhrm24o4_1280.jpg

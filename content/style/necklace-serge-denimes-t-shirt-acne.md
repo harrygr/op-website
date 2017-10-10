@@ -11,7 +11,7 @@ date: 2013-05-10T10:49:00.000Z
 categories:
 - Style
 slug: necklace-serge-denimes-t-shirt-acne
-thumbnail: https://78.media.tumblr.com/f41ef159b12fcc7f2ae2c1d8ec8ffbcb/tumblr_mmkwq5sG1K1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f41ef159b12fcc7f2ae2c1d8ec8ffbcb/tumblr_mmkwq5sG1K1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f41ef159b12fcc7f2ae2c1d8ec8ffbcb/tumblr_mmkwq5sG1K1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/a45e5be6f1ab1050610bc907b86ae784/tumblr_mmkwq5sG1K1rhrm24o3_1280.jpg

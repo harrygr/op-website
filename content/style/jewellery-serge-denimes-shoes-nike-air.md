@@ -14,7 +14,7 @@ date: 2014-06-21T07:05:00.000Z
 categories:
 - Style
 slug: jewellery-serge-denimes-shoes-nike-air
-thumbnail: https://78.media.tumblr.com/ff786a5c58510212f6c35590a5ac0fe6/tumblr_n7iboj903I1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/ff786a5c58510212f6c35590a5ac0fe6/tumblr_n7iboj903I1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/ff786a5c58510212f6c35590a5ac0fe6/tumblr_n7iboj903I1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/e8583cf0f1fcc21071e48523d22686b2/tumblr_n7iboj903I1rhrm24o2_1280.jpg

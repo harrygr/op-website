@@ -20,7 +20,7 @@ date: 2016-10-21T07:00:17.000Z
 categories:
 - Style
 slug: sunglasses-g-star-top-cos-jewellery
-thumbnail: https://78.media.tumblr.com/f1632ee861bdd2afa7b9243246b69e7a/tumblr_ofc9roxzAo1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/f1632ee861bdd2afa7b9243246b69e7a/tumblr_ofc9roxzAo1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/f1632ee861bdd2afa7b9243246b69e7a/tumblr_ofc9roxzAo1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/38659b87f56d902161ad0f8d59ca96d2/tumblr_ofc9roxzAo1rhrm24o1_1280.jpg

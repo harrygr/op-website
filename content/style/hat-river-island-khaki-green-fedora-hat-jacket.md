@@ -15,7 +15,7 @@ date: 2015-03-16T08:16:04.000Z
 categories:
 - Style
 slug: hat-river-island-khaki-green-fedora-hat-jacket
-thumbnail: https://78.media.tumblr.com/3087023637c97972285ba8535618417d/tumblr_nla22oSI0g1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/3087023637c97972285ba8535618417d/tumblr_nla22oSI0g1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/3087023637c97972285ba8535618417d/tumblr_nla22oSI0g1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/02ffc78104e47bf6884540545d6c8a06/tumblr_nla22oSI0g1rhrm24o2_1280.jpg

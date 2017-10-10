@@ -10,7 +10,7 @@ date: 2013-04-05T22:20:00.000Z
 categories:
 - Style
 slug: dries-van-noten-jacket-mondaine-watch
-thumbnail: https://78.media.tumblr.com/365a25ec71063ff9c709509afb58737c/tumblr_mkszdhdDi01rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/365a25ec71063ff9c709509afb58737c/tumblr_mkszdhdDi01rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/365a25ec71063ff9c709509afb58737c/tumblr_mkszdhdDi01rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/c9865fc0abeb20d391b0750b4724890b/tumblr_mkszdhdDi01rhrm24o2_r1_1280.jpg

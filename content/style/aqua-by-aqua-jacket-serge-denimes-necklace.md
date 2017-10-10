@@ -12,7 +12,7 @@ date: 2013-04-21T18:48:00.000Z
 categories:
 - Style
 slug: aqua-by-aqua-jacket-serge-denimes-necklace
-thumbnail: https://78.media.tumblr.com/c24e43ec3bbb3611b087f4288dbf54df/tumblr_mlm97jqN1g1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/c24e43ec3bbb3611b087f4288dbf54df/tumblr_mlm97jqN1g1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/c24e43ec3bbb3611b087f4288dbf54df/tumblr_mlm97jqN1g1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/73d340920e7d870b79094b9aef444daf/tumblr_mlm97jqN1g1rhrm24o2_1280.jpg

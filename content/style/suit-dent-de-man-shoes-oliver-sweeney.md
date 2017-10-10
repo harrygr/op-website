@@ -11,7 +11,7 @@ date: 2013-10-04T17:28:00.000Z
 categories:
 - Style
 slug: suit-dent-de-man-shoes-oliver-sweeney
-thumbnail: https://78.media.tumblr.com/96cc255b040917e2bc749eee08e0b1ae/tumblr_mu5n87Trqa1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/96cc255b040917e2bc749eee08e0b1ae/tumblr_mu5n87Trqa1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/96cc255b040917e2bc749eee08e0b1ae/tumblr_mu5n87Trqa1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/82e6841e45d9395773f5fcfc8849c8ec/tumblr_mu5n87Trqa1rhrm24o2_1280.jpg

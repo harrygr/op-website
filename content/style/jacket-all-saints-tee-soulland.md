@@ -21,7 +21,7 @@ date: 2017-09-19T14:39:18.000Z
 categories:
 - Style
 slug: jacket-all-saints-tee-soulland
-thumbnail: https://78.media.tumblr.com/b906fc988277ee1a9dc4d77d2b0403cf/tumblr_owj79koi5W1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/b906fc988277ee1a9dc4d77d2b0403cf/tumblr_owj79koi5W1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/b906fc988277ee1a9dc4d77d2b0403cf/tumblr_owj79koi5W1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/1ea46003110cf801fdb6619939bdf15a/tumblr_owj79koi5W1rhrm24o2_1280.jpg

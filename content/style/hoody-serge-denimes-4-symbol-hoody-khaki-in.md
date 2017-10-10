@@ -11,7 +11,7 @@ date: 2015-11-06T00:00:00.000Z
 categories:
 - Style
 slug: hoody-serge-denimes-4-symbol-hoody-khaki-in
-thumbnail: https://78.media.tumblr.com/05e57f894fdb4ddbe402542979c05fe5/tumblr_nyhectKzKM1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/05e57f894fdb4ddbe402542979c05fe5/tumblr_nyhectKzKM1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/05e57f894fdb4ddbe402542979c05fe5/tumblr_nyhectKzKM1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/963ff898ce18ec1f28081c9275fc08e4/tumblr_nyhectKzKM1rhrm24o4_1280.jpg

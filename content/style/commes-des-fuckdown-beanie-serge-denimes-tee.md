@@ -9,7 +9,7 @@ date: 2012-10-19T19:27:00.000Z
 categories:
 - Style
 slug: commes-des-fuckdown-beanie-serge-denimes-tee
-thumbnail: https://78.media.tumblr.com/d864350704077f324932f6c4fe914be2/tumblr_mc570sN7Yh1rhrm24o1_r1_1280.jpg
+thumbnail: https://78.media.tumblr.com/d864350704077f324932f6c4fe914be2/tumblr_mc570sN7Yh1rhrm24o1_r1_540.jpg
 attachments:
 - https://78.media.tumblr.com/d864350704077f324932f6c4fe914be2/tumblr_mc570sN7Yh1rhrm24o1_r1_1280.jpg
 

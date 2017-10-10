@@ -15,7 +15,7 @@ date: 2015-12-04T08:00:27.000Z
 categories:
 - Style
 slug: jacket-superdry-necklace-serge-denimes
-thumbnail: https://78.media.tumblr.com/b5a63224b55bbe5b590fd6f982d536c8/tumblr_nysbro05xG1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/b5a63224b55bbe5b590fd6f982d536c8/tumblr_nysbro05xG1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/b5a63224b55bbe5b590fd6f982d536c8/tumblr_nysbro05xG1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/444351e4ca9c5b536179fd4e04d21532/tumblr_nysbro05xG1rhrm24o2_1280.jpg

@@ -14,7 +14,7 @@ date: 2015-10-09T07:16:17.000Z
 categories:
 - Style
 slug: hat-goorin-bros-jumper-new-look-black
-thumbnail: https://78.media.tumblr.com/fd68a0dc4a95ae87067a8a606e432f32/tumblr_nvlk33KON31rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/fd68a0dc4a95ae87067a8a606e432f32/tumblr_nvlk33KON31rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/fd68a0dc4a95ae87067a8a606e432f32/tumblr_nvlk33KON31rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/2650595620e0895b075ece18bc69d1ec/tumblr_nvlk33KON31rhrm24o2_1280.jpg

@@ -12,7 +12,7 @@ date: 2015-02-21T16:02:33.000Z
 categories:
 - Style
 slug: three-piece-suit-joshua-kane-shoes-oliver
-thumbnail: https://78.media.tumblr.com/1b8d8aa43e26aae883f15462f6619bcb/tumblr_nk4pw9aGJB1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/1b8d8aa43e26aae883f15462f6619bcb/tumblr_nk4pw9aGJB1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/1b8d8aa43e26aae883f15462f6619bcb/tumblr_nk4pw9aGJB1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/0856c412a5e786578b2f540a52dde980/tumblr_nk4pw9aGJB1rhrm24o2_1280.jpg

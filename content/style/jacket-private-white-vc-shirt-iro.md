@@ -20,7 +20,7 @@ date: 2016-11-11T08:00:41.000Z
 categories:
 - Style
 slug: jacket-private-white-vc-shirt-iro
-thumbnail: https://78.media.tumblr.com/d2f6d95d6aa09b63c3a670e3141ee38e/tumblr_ogdrc0nHDX1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/d2f6d95d6aa09b63c3a670e3141ee38e/tumblr_ogdrc0nHDX1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/d2f6d95d6aa09b63c3a670e3141ee38e/tumblr_ogdrc0nHDX1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/132c04368eba2b359b77597009e563d9/tumblr_ogdrc0nHDX1rhrm24o1_1280.jpg

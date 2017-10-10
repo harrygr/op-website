@@ -16,7 +16,7 @@ date: 2015-06-05T15:17:17.000Z
 categories:
 - Style
 slug: sunglasses-oliver-peoples-jacket-diesel
-thumbnail: https://78.media.tumblr.com/a29f92f603f5b251a088fb829d969e17/tumblr_nph94toHDd1rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/a29f92f603f5b251a088fb829d969e17/tumblr_nph94toHDd1rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/a29f92f603f5b251a088fb829d969e17/tumblr_nph94toHDd1rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/a86ac936f2b5fa41362d3f4ced8157db/tumblr_nph94toHDd1rhrm24o1_1280.jpg

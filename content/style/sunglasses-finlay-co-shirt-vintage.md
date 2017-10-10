@@ -7,7 +7,7 @@ date: 2013-06-28T12:02:00.000Z
 categories:
 - Style
 slug: sunglasses-finlay-co-shirt-vintage
-thumbnail: https://78.media.tumblr.com/bc940cdaf37e8e75ec660268aced367f/tumblr_mo4w9dCJd31rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/bc940cdaf37e8e75ec660268aced367f/tumblr_mo4w9dCJd31rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/bc940cdaf37e8e75ec660268aced367f/tumblr_mo4w9dCJd31rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/15fdf0d037b46732707232942bca536a/tumblr_mo4w9dCJd31rhrm24o2_1280.jpg

@@ -15,7 +15,7 @@ date: 2015-08-14T07:15:18.000Z
 categories:
 - Style
 slug: jacket-gstar-raw-tee-whistles-necklace
-thumbnail: https://78.media.tumblr.com/e9da2f2d4d21595ea34fd89872c299ca/tumblr_nsyuxxCCRq1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/e9da2f2d4d21595ea34fd89872c299ca/tumblr_nsyuxxCCRq1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/e9da2f2d4d21595ea34fd89872c299ca/tumblr_nsyuxxCCRq1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/05dafdf8304ce51671aaeffb838ac12c/tumblr_nsyuxxCCRq1rhrm24o2_1280.jpg

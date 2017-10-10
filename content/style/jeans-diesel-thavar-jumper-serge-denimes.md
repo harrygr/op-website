@@ -9,7 +9,7 @@ date: 2014-01-10T17:32:00.000Z
 categories:
 - Style
 slug: jeans-diesel-thavar-jumper-serge-denimes
-thumbnail: https://78.media.tumblr.com/f5c5b7a2a76bb3c4604e34213913550f/tumblr_mz74pdIgho1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f5c5b7a2a76bb3c4604e34213913550f/tumblr_mz74pdIgho1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f5c5b7a2a76bb3c4604e34213913550f/tumblr_mz74pdIgho1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/00a1797a4eeeea388bfb4f28f519341c/tumblr_mz74pdIgho1rhrm24o2_1280.jpg

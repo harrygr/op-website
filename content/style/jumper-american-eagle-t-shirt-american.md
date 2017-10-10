@@ -14,7 +14,7 @@ date: 2016-06-17T11:50:10.000Z
 categories:
 - Style
 slug: jumper-american-eagle-t-shirt-american
-thumbnail: https://78.media.tumblr.com/3c82f23e209ac6b11eb2fc61216f6da4/tumblr_o8wzjobbYY1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/3c82f23e209ac6b11eb2fc61216f6da4/tumblr_o8wzjobbYY1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/3c82f23e209ac6b11eb2fc61216f6da4/tumblr_o8wzjobbYY1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/15313a864c69fb918ecf552eca615657/tumblr_o8wzjobbYY1rhrm24o2_1280.jpg

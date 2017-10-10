@@ -14,7 +14,7 @@ date: 2015-07-24T17:28:17.000Z
 categories:
 - Style
 slug: cap-whistles-jacket-diesel-hoody
-thumbnail: https://78.media.tumblr.com/9fa6e5b7fba2ed1564b8c5a5992f5786/tumblr_ns05v5CUDw1rhrm24o7_1280.jpg
+thumbnail: https://78.media.tumblr.com/9fa6e5b7fba2ed1564b8c5a5992f5786/tumblr_ns05v5CUDw1rhrm24o7_540.jpg
 attachments:
 - https://78.media.tumblr.com/9fa6e5b7fba2ed1564b8c5a5992f5786/tumblr_ns05v5CUDw1rhrm24o7_1280.jpg
 - https://78.media.tumblr.com/ab018b5c595f360846d8cc8c6d776bae/tumblr_ns05v5CUDw1rhrm24o5_1280.jpg

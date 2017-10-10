@@ -13,7 +13,7 @@ date: 2015-09-11T15:57:04.000Z
 categories:
 - Style
 slug: hat-bysju-jacket-g-star-raw-tee
-thumbnail: https://78.media.tumblr.com/daee07aeec4c4c1e51cabe7f1ebfd7f5/tumblr_nu1rfdVzpL1rhrm24o7_1280.jpg
+thumbnail: https://78.media.tumblr.com/daee07aeec4c4c1e51cabe7f1ebfd7f5/tumblr_nu1rfdVzpL1rhrm24o7_540.jpg
 attachments:
 - https://78.media.tumblr.com/daee07aeec4c4c1e51cabe7f1ebfd7f5/tumblr_nu1rfdVzpL1rhrm24o7_1280.jpg
 - https://78.media.tumblr.com/aa4867d95fd52fb1c82454adafc981d4/tumblr_nu1rfdVzpL1rhrm24o4_1280.jpg

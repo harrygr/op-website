@@ -13,7 +13,7 @@ date: 2015-04-06T08:59:08.000Z
 categories:
 - Style
 slug: beanie-serge-denimes-t-shirt-serge
-thumbnail: https://78.media.tumblr.com/eff2d2384459fee643414267fcfce85a/tumblr_nmdnmkIi9G1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/eff2d2384459fee643414267fcfce85a/tumblr_nmdnmkIi9G1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/eff2d2384459fee643414267fcfce85a/tumblr_nmdnmkIi9G1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/d1aa7fd3381967c3e32abf8476ae6795/tumblr_nmdnmkIi9G1rhrm24o2_1280.jpg

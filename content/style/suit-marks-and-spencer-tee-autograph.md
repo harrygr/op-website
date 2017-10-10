@@ -19,7 +19,7 @@ date: 2017-10-09T07:10:56.000Z
 categories:
 - Style
 slug: suit-marks-and-spencer-tee-autograph
-thumbnail: https://78.media.tumblr.com/58546ea8d195cc63095170f2c3f5cdbc/tumblr_oxeq0r7p1O1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/58546ea8d195cc63095170f2c3f5cdbc/tumblr_oxeq0r7p1O1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/58546ea8d195cc63095170f2c3f5cdbc/tumblr_oxeq0r7p1O1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/5c8d043f80f7b2233326409c28fb4bae/tumblr_oxeq0r7p1O1rhrm24o2_1280.jpg

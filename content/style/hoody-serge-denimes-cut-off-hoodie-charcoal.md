@@ -13,7 +13,7 @@ date: 2015-04-09T10:15:13.000Z
 categories:
 - Style
 slug: hoody-serge-denimes-cut-off-hoodie-charcoal
-thumbnail: https://78.media.tumblr.com/00eb53f701db7f45e8e93315cd41442f/tumblr_nmjb5dFuN81rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/00eb53f701db7f45e8e93315cd41442f/tumblr_nmjb5dFuN81rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/00eb53f701db7f45e8e93315cd41442f/tumblr_nmjb5dFuN81rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/940b39fe5855696e552131f12966b3ab/tumblr_nmjb5dFuN81rhrm24o3_1280.jpg

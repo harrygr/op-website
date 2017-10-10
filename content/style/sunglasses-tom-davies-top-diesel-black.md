@@ -16,7 +16,7 @@ date: 2016-11-04T16:44:14.000Z
 categories:
 - Style
 slug: sunglasses-tom-davies-top-diesel-black
-thumbnail: https://78.media.tumblr.com/71dbea8bfa4240ff40c16fc2f5d2a7da/tumblr_og4mhq9czO1rhrm24o7_1280.jpg
+thumbnail: https://78.media.tumblr.com/71dbea8bfa4240ff40c16fc2f5d2a7da/tumblr_og4mhq9czO1rhrm24o7_540.jpg
 attachments:
 - https://78.media.tumblr.com/71dbea8bfa4240ff40c16fc2f5d2a7da/tumblr_og4mhq9czO1rhrm24o7_1280.jpg
 - https://78.media.tumblr.com/87df9c8b49f57f145c453c93ba6a2187/tumblr_og4mhq9czO1rhrm24o2_1280.jpg

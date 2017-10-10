@@ -8,7 +8,7 @@ date: 2014-07-31T13:10:00.000Z
 categories:
 - Style
 slug: hat-christies-london-jewellery-serge
-thumbnail: https://78.media.tumblr.com/ba73a2cae816055260c496f0f6ae5389/tumblr_n9kv9uBai61rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/ba73a2cae816055260c496f0f6ae5389/tumblr_n9kv9uBai61rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/ba73a2cae816055260c496f0f6ae5389/tumblr_n9kv9uBai61rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/a9884de5c477e8931bb2c4cf594a8771/tumblr_n9kv9uBai61rhrm24o2_1280.jpg

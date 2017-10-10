@@ -9,7 +9,7 @@ date: 2014-12-04T10:43:00.000Z
 categories:
 - Style
 slug: hoody-diesel-earring-serge-denimes-cross
-thumbnail: https://78.media.tumblr.com/aaad39d6f061be21ec0289ad974be602/tumblr_ng20g4rNnn1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/aaad39d6f061be21ec0289ad974be602/tumblr_ng20g4rNnn1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/aaad39d6f061be21ec0289ad974be602/tumblr_ng20g4rNnn1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/a627978d9717ae8c65532b3edafd1017/tumblr_ng20g4rNnn1rhrm24o2_1280.jpg

@@ -14,7 +14,7 @@ date: 2016-04-08T07:00:39.000Z
 categories:
 - Style
 slug: jacket-denim-and-supply-rl-hoody-serge
-thumbnail: https://78.media.tumblr.com/a2bc79ca873e69dfb85f2d31fa9adc48/tumblr_o59v86au3m1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/a2bc79ca873e69dfb85f2d31fa9adc48/tumblr_o59v86au3m1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/a2bc79ca873e69dfb85f2d31fa9adc48/tumblr_o59v86au3m1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/291b33826709bae9c491d4b9badcd032/tumblr_o59v86au3m1rhrm24o3_1280.jpg

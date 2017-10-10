@@ -12,7 +12,7 @@ date: 2014-04-01T10:01:00.000Z
 categories:
 - Style
 slug: look-2-outfit-reiss-acessories-serge
-thumbnail: https://78.media.tumblr.com/eebd388040b9eabe469c24888bbe6483/tumblr_n33b5hm8SG1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/eebd388040b9eabe469c24888bbe6483/tumblr_n33b5hm8SG1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/eebd388040b9eabe469c24888bbe6483/tumblr_n33b5hm8SG1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/e43ff5fad25cc76ef55686ad9a905175/tumblr_n33b5hm8SG1rhrm24o2_1280.jpg

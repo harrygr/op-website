@@ -14,7 +14,7 @@ date: 2016-02-19T08:00:20.000Z
 categories:
 - Style
 slug: jacket-asos-t-shirt-new-look-necklace
-thumbnail: https://78.media.tumblr.com/d0ff331d8e82db22e4be5f5ba1f409a4/tumblr_o2qw3zWKjP1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/d0ff331d8e82db22e4be5f5ba1f409a4/tumblr_o2qw3zWKjP1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/d0ff331d8e82db22e4be5f5ba1f409a4/tumblr_o2qw3zWKjP1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/bc582ab8a3ed53da6c5615245fa014cc/tumblr_o2qw3zWKjP1rhrm24o5_1280.jpg

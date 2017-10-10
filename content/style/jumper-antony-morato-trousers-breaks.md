@@ -14,7 +14,7 @@ date: 2013-10-11T14:01:00.000Z
 categories:
 - Style
 slug: jumper-antony-morato-trousers-breaks
-thumbnail: https://78.media.tumblr.com/23fde1646d5f16e7c1dbba347b321c7a/tumblr_muh13sWqlu1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/23fde1646d5f16e7c1dbba347b321c7a/tumblr_muh13sWqlu1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/23fde1646d5f16e7c1dbba347b321c7a/tumblr_muh13sWqlu1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/196152271f2a17942f9fd9b58da2a6f0/tumblr_muh13sWqlu1rhrm24o2_1280.jpg

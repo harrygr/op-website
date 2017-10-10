@@ -12,7 +12,7 @@ date: 2015-01-16T17:59:00.000Z
 categories:
 - Style
 slug: hat-serge-denimes-glasses-tom-davies
-thumbnail: https://78.media.tumblr.com/4b087df79ff5825329dfd8981fef9ba6/tumblr_nia7ayUqUq1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/4b087df79ff5825329dfd8981fef9ba6/tumblr_nia7ayUqUq1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/4b087df79ff5825329dfd8981fef9ba6/tumblr_nia7ayUqUq1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/c972f15568728c99a235655e86c8e6b5/tumblr_nia7ayUqUq1rhrm24o7_1280.jpg

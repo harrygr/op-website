@@ -19,7 +19,7 @@ date: 2016-07-29T06:47:18.000Z
 categories:
 - Style
 slug: tracksuit-adidas-necklace-serge-denimes
-thumbnail: https://78.media.tumblr.com/49074f119ee9941c225bd4c8b1f66b6b/tumblr_ob2divgtYV1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/49074f119ee9941c225bd4c8b1f66b6b/tumblr_ob2divgtYV1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/49074f119ee9941c225bd4c8b1f66b6b/tumblr_ob2divgtYV1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/a0fcee9a05158079c0845566d0cd1866/tumblr_ob2divgtYV1rhrm24o2_1280.jpg

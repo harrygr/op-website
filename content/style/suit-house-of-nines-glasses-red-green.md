@@ -11,7 +11,7 @@ date: 2013-10-07T13:37:00.000Z
 categories:
 - Style
 slug: suit-house-of-nines-glasses-red-green
-thumbnail: https://78.media.tumblr.com/01de9aa8e13c7602467734122d8fbd22/tumblr_muawioBcnG1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/01de9aa8e13c7602467734122d8fbd22/tumblr_muawioBcnG1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/01de9aa8e13c7602467734122d8fbd22/tumblr_muawioBcnG1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/40804938564dc59e4a00824194c7e8fa/tumblr_muawioBcnG1rhrm24o2_1280.jpg

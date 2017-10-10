@@ -14,7 +14,7 @@ date: 2015-09-18T07:33:43.000Z
 categories:
 - Style
 slug: jacket-zara-tee-serge-denimes-necklace
-thumbnail: https://78.media.tumblr.com/278f7c6df920cdbaf23b63fa486a83dd/tumblr_nu1r7pm3vQ1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/278f7c6df920cdbaf23b63fa486a83dd/tumblr_nu1r7pm3vQ1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/278f7c6df920cdbaf23b63fa486a83dd/tumblr_nu1r7pm3vQ1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/344930b6a57489e279f7cd65ded36d88/tumblr_nu1r7pm3vQ1rhrm24o1_1280.jpg

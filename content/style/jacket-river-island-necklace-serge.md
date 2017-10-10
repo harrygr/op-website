@@ -14,7 +14,7 @@ date: 2015-12-11T13:13:14.000Z
 categories:
 - Style
 slug: jacket-river-island-necklace-serge
-thumbnail: https://78.media.tumblr.com/f2d479ebab2d292b00c3db34d6b001b0/tumblr_nz73e47tn21rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f2d479ebab2d292b00c3db34d6b001b0/tumblr_nz73e47tn21rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f2d479ebab2d292b00c3db34d6b001b0/tumblr_nz73e47tn21rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/8e2aa68b1172ce208b9eb13b20269dab/tumblr_nz73e47tn21rhrm24o2_1280.jpg

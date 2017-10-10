@@ -12,7 +12,7 @@ date: 2013-09-20T17:24:00.000Z
 categories:
 - Style
 slug: t-shirt-deisel-trousers-diesel-shirt
-thumbnail: https://78.media.tumblr.com/a2df510bc8921224223365c692a38dc0/tumblr_mtfpocMu8z1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/a2df510bc8921224223365c692a38dc0/tumblr_mtfpocMu8z1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/a2df510bc8921224223365c692a38dc0/tumblr_mtfpocMu8z1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/a68763d7cfeef723eb6f0ec346bf607a/tumblr_mtfpocMu8z1rhrm24o3_1280.jpg

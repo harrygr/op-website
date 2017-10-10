@@ -11,7 +11,7 @@ date: 2013-11-19T17:45:00.000Z
 categories:
 - Style
 slug: sneak-peak-at-2-pieces-from-my-jewellery
-thumbnail: https://78.media.tumblr.com/6022bb2e59e19c6cc75ef22fcf588c7b/tumblr_mwioojF5w91rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/6022bb2e59e19c6cc75ef22fcf588c7b/tumblr_mwioojF5w91rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/6022bb2e59e19c6cc75ef22fcf588c7b/tumblr_mwioojF5w91rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/d7281c4c7171a455c0dd1ba893b493c5/tumblr_mwioojF5w91rhrm24o2_r1_1280.jpg

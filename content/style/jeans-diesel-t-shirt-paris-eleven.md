@@ -7,7 +7,7 @@ date: 2013-09-27T15:41:00.000Z
 categories:
 - Style
 slug: jeans-diesel-t-shirt-paris-eleven
-thumbnail: https://78.media.tumblr.com/5f40777e4c01c73100e35f1219f4fddf/tumblr_mtsjkjcf0n1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/5f40777e4c01c73100e35f1219f4fddf/tumblr_mtsjkjcf0n1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/5f40777e4c01c73100e35f1219f4fddf/tumblr_mtsjkjcf0n1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/f03b32131e423ba05f4054c30c96cce6/tumblr_mtsjkjcf0n1rhrm24o2_1280.jpg

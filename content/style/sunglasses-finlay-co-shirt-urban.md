@@ -7,7 +7,7 @@ date: 2013-06-21T12:02:00.000Z
 categories:
 - Style
 slug: sunglasses-finlay-co-shirt-urban
-thumbnail: https://78.media.tumblr.com/a09a67fad6db5aedd5e4c5ca4de32198/tumblr_mo4w6zKOO11rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/a09a67fad6db5aedd5e4c5ca4de32198/tumblr_mo4w6zKOO11rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/a09a67fad6db5aedd5e4c5ca4de32198/tumblr_mo4w6zKOO11rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/5251efac6009e30cb357b144524c93d5/tumblr_mo4w6zKOO11rhrm24o5_1280.jpg

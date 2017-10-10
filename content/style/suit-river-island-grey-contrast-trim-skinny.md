@@ -15,7 +15,7 @@ date: 2015-03-20T08:15:46.000Z
 categories:
 - Style
 slug: suit-river-island-grey-contrast-trim-skinny
-thumbnail: https://78.media.tumblr.com/f2974cfeca6184764f2614079b5ce231/tumblr_nlgqctMQI61rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f2974cfeca6184764f2614079b5ce231/tumblr_nlgqctMQI61rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f2974cfeca6184764f2614079b5ce231/tumblr_nlgqctMQI61rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/a4f8042cb92cef76c19a8b720a21588d/tumblr_nlgqctMQI61rhrm24o2_1280.jpg

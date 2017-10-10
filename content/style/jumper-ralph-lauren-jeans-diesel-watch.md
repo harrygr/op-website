@@ -18,7 +18,7 @@ date: 2016-08-12T07:01:12.000Z
 categories:
 - Style
 slug: jumper-ralph-lauren-jeans-diesel-watch
-thumbnail: https://78.media.tumblr.com/5266a78d5f2b3a7f3b1bd20d3c37b9ed/tumblr_obqtf2vQ331rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/5266a78d5f2b3a7f3b1bd20d3c37b9ed/tumblr_obqtf2vQ331rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/5266a78d5f2b3a7f3b1bd20d3c37b9ed/tumblr_obqtf2vQ331rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/f0dbaa0f8f0e7d05f4dea001170744a8/tumblr_obqtf2vQ331rhrm24o1_1280.jpg

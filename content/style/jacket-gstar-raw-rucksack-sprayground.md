@@ -15,7 +15,7 @@ date: 2015-07-17T18:33:46.000Z
 categories:
 - Style
 slug: jacket-gstar-raw-rucksack-sprayground
-thumbnail: https://78.media.tumblr.com/ee04d5fe16d1882951280a3b05ce9536/tumblr_nrna8aimPu1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/ee04d5fe16d1882951280a3b05ce9536/tumblr_nrna8aimPu1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/ee04d5fe16d1882951280a3b05ce9536/tumblr_nrna8aimPu1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/1abb92961310e90e2722dc791101ea00/tumblr_nrna8aimPu1rhrm24o2_1280.jpg

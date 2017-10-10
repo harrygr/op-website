@@ -9,7 +9,7 @@ date: 2014-10-20T12:45:00.000Z
 categories:
 - Style
 slug: jacket-diesel-leather-wolf-jacket-top
-thumbnail: https://78.media.tumblr.com/0f11815cb6ac4da7ed62b48b84920740/tumblr_ndqu3qbAE31rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/0f11815cb6ac4da7ed62b48b84920740/tumblr_ndqu3qbAE31rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/0f11815cb6ac4da7ed62b48b84920740/tumblr_ndqu3qbAE31rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/6bbdf8046c09abd410b2d58154874b83/tumblr_ndqu3qbAE31rhrm24o2_1280.jpg

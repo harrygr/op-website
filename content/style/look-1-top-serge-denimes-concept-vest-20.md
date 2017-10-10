@@ -7,7 +7,7 @@ date: 2014-04-14T21:15:00.000Z
 categories:
 - Style
 slug: look-1-top-serge-denimes-concept-vest-20
-thumbnail: https://78.media.tumblr.com/70f82a33faa84699de3b32a65cdc9706/tumblr_n2a4eqFslU1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/70f82a33faa84699de3b32a65cdc9706/tumblr_n2a4eqFslU1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/70f82a33faa84699de3b32a65cdc9706/tumblr_n2a4eqFslU1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/040580bb0880692ffc1667fbe5a956eb/tumblr_n2a4eqFslU1rhrm24o2_1280.jpg

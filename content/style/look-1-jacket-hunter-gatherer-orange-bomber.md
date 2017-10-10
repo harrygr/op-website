@@ -7,7 +7,7 @@ date: 2014-04-07T21:15:00.000Z
 categories:
 - Style
 slug: look-1-jacket-hunter-gatherer-orange-bomber
-thumbnail: https://78.media.tumblr.com/b51970fb20d15f7b481e25603c2e50f7/tumblr_n2a3xlEvEj1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/b51970fb20d15f7b481e25603c2e50f7/tumblr_n2a3xlEvEj1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/b51970fb20d15f7b481e25603c2e50f7/tumblr_n2a3xlEvEj1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/ba3445c51c07cc9789a55f4b759902cf/tumblr_n2a3xlEvEj1rhrm24o2_1280.jpg

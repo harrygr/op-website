@@ -13,7 +13,7 @@ date: 2015-04-13T07:00:54.000Z
 categories:
 - Style
 slug: jacket-diesel-jacket-j-sedbi-jumper-j
-thumbnail: https://78.media.tumblr.com/d2f5c51b083b75d70447f25e2999aa3d/tumblr_nmjwj3OXR21rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/d2f5c51b083b75d70447f25e2999aa3d/tumblr_nmjwj3OXR21rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/d2f5c51b083b75d70447f25e2999aa3d/tumblr_nmjwj3OXR21rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/11e528d827452f416a7f42f433ba6e3c/tumblr_nmjwj3OXR21rhrm24o1_1280.jpg

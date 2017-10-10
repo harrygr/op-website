@@ -14,7 +14,7 @@ date: 2014-05-05T21:45:00.000Z
 categories:
 - Style
 slug: top-vintage-camo-tee-jacket-vintage-schott
-thumbnail: https://78.media.tumblr.com/04b0c1d3b4af4b92de8d53dd26762005/tumblr_n2dsbvKKIs1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/04b0c1d3b4af4b92de8d53dd26762005/tumblr_n2dsbvKKIs1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/04b0c1d3b4af4b92de8d53dd26762005/tumblr_n2dsbvKKIs1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/6387aa85d712f34bfd4d99d0c3cb28fc/tumblr_n2dsbvKKIs1rhrm24o2_1280.jpg

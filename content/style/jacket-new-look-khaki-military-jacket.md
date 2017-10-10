@@ -14,7 +14,7 @@ date: 2015-10-08T07:15:32.000Z
 categories:
 - Style
 slug: jacket-new-look-khaki-military-jacket
-thumbnail: https://78.media.tumblr.com/7216c4165e4e0ef837f13433278dbff5/tumblr_nvljljeDZ41rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/7216c4165e4e0ef837f13433278dbff5/tumblr_nvljljeDZ41rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/7216c4165e4e0ef837f13433278dbff5/tumblr_nvljljeDZ41rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/be5ffc2f572ee8fbf29207646edcd3bc/tumblr_nvljljeDZ41rhrm24o2_1280.jpg

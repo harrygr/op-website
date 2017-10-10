@@ -10,7 +10,7 @@ date: 2014-03-21T15:01:00.000Z
 categories:
 - Style
 slug: look-5-cap-the-brooklyn-circus-jacket
-thumbnail: https://78.media.tumblr.com/6b85c2948984e6917392af77be738bcc/tumblr_n2kywav3y91rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/6b85c2948984e6917392af77be738bcc/tumblr_n2kywav3y91rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/6b85c2948984e6917392af77be738bcc/tumblr_n2kywav3y91rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/a464b5bc7e2032ae2ed088208fd5c83a/tumblr_n2kywav3y91rhrm24o2_1280.jpg

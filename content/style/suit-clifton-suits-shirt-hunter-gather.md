@@ -7,7 +7,7 @@ date: 2014-02-16T17:10:00.000Z
 categories:
 - Style
 slug: suit-clifton-suits-shirt-hunter-gather
-thumbnail: https://78.media.tumblr.com/6b24c35071add272e2c7ccc10586ad0b/tumblr_n13mdx1tkT1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/6b24c35071add272e2c7ccc10586ad0b/tumblr_n13mdx1tkT1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/6b24c35071add272e2c7ccc10586ad0b/tumblr_n13mdx1tkT1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/3ab6adec52c72997c986dcde195e77a3/tumblr_n13mdx1tkT1rhrm24o1_1280.jpg

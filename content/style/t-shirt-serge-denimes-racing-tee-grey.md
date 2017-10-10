@@ -11,7 +11,7 @@ date: 2015-04-07T12:51:53.000Z
 categories:
 - Style
 slug: t-shirt-serge-denimes-racing-tee-grey
-thumbnail: https://78.media.tumblr.com/ea1a099748b0497d506caa712bf8be5c/tumblr_nmft2hu2xP1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/ea1a099748b0497d506caa712bf8be5c/tumblr_nmft2hu2xP1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/ea1a099748b0497d506caa712bf8be5c/tumblr_nmft2hu2xP1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/c32928ae3a96ee8e09160ee5b95059b2/tumblr_nmft2hu2xP1rhrm24o8_1280.jpg

@@ -17,7 +17,7 @@ date: 2017-08-25T07:46:42.000Z
 categories:
 - Style
 slug: suit-reiss-shirt-reiss-jewellery
-thumbnail: https://78.media.tumblr.com/135533a4df38e9667e65de7006913105/tumblr_ov8dlyPBl81rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/135533a4df38e9667e65de7006913105/tumblr_ov8dlyPBl81rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/135533a4df38e9667e65de7006913105/tumblr_ov8dlyPBl81rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4ab9c9286c6ac5e09a0523a789a3294a/tumblr_ov8dlyPBl81rhrm24o2_1280.jpg

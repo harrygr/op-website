@@ -10,7 +10,7 @@ date: 2013-10-13T18:01:00.000Z
 categories:
 - Style
 slug: jumper-jacket-breaks-london-glasses
-thumbnail: https://78.media.tumblr.com/6ce81d3eceb93a51bbdd4c04bc96dbdf/tumblr_muh1izWYCv1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/6ce81d3eceb93a51bbdd4c04bc96dbdf/tumblr_muh1izWYCv1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/6ce81d3eceb93a51bbdd4c04bc96dbdf/tumblr_muh1izWYCv1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/3d9af196e45320ed0c42caafcdbe6e29/tumblr_muh1izWYCv1rhrm24o2_1280.jpg

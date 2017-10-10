@@ -13,7 +13,7 @@ date: 2015-10-16T11:09:28.000Z
 categories:
 - Style
 slug: jacket-reclaimed-vintage-top-asos
-thumbnail: https://78.media.tumblr.com/4ff9901844cfb4163ac032da547dadd6/tumblr_nu1qfboHU61rhrm24o7_1280.jpg
+thumbnail: https://78.media.tumblr.com/4ff9901844cfb4163ac032da547dadd6/tumblr_nu1qfboHU61rhrm24o7_540.jpg
 attachments:
 - https://78.media.tumblr.com/4ff9901844cfb4163ac032da547dadd6/tumblr_nu1qfboHU61rhrm24o7_1280.jpg
 - https://78.media.tumblr.com/46420414bb716c8d520a1af359bf12db/tumblr_nu1qfboHU61rhrm24o1_1280.jpg

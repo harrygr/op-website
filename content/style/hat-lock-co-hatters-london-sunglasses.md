@@ -14,7 +14,7 @@ date: 2015-11-13T09:16:57.000Z
 categories:
 - Style
 slug: hat-lock-co-hatters-london-sunglasses
-thumbnail: https://78.media.tumblr.com/1da5785a87afeaf3203b083629231216/tumblr_nu1p8qP7pl1rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/1da5785a87afeaf3203b083629231216/tumblr_nu1p8qP7pl1rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/1da5785a87afeaf3203b083629231216/tumblr_nu1p8qP7pl1rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/c2434eb0d34ffa2f04f525de6696e281/tumblr_nu1p8qP7pl1rhrm24o7_1280.jpg

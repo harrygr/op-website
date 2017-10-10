@@ -20,7 +20,7 @@ date: 2017-09-01T10:27:05.000Z
 categories:
 - Style
 slug: jacket-all-saints-jumper-diesel
-thumbnail: https://78.media.tumblr.com/45864f40405b53bfd607b4bf00dab16b/tumblr_ovljgiL4z41rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/45864f40405b53bfd607b4bf00dab16b/tumblr_ovljgiL4z41rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/45864f40405b53bfd607b4bf00dab16b/tumblr_ovljgiL4z41rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/843e8f886cf91886f072fe7c760969ce/tumblr_ovljgiL4z41rhrm24o2_1280.jpg

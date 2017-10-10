@@ -14,7 +14,7 @@ date: 2015-04-11T09:00:37.000Z
 categories:
 - Style
 slug: sweatshirt-serge-denimes-racing-sweat-t-shirt
-thumbnail: https://78.media.tumblr.com/92095e0bfd4e8a777beeb2dfbab8f9f2/tumblr_nmjuofoB101rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/92095e0bfd4e8a777beeb2dfbab8f9f2/tumblr_nmjuofoB101rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/92095e0bfd4e8a777beeb2dfbab8f9f2/tumblr_nmjuofoB101rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/98199089372668e891dd805a94158854/tumblr_nmjuofoB101rhrm24o6_1280.jpg

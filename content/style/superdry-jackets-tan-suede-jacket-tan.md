@@ -16,7 +16,7 @@ date: 2016-11-05T15:53:24.000Z
 categories:
 - Style
 slug: superdry-jackets-tan-suede-jacket-tan
-thumbnail: https://78.media.tumblr.com/9f7370e7ad36e2385bd9b374c0fb114a/tumblr_og6ejcoi411rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/9f7370e7ad36e2385bd9b374c0fb114a/tumblr_og6ejcoi411rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/9f7370e7ad36e2385bd9b374c0fb114a/tumblr_og6ejcoi411rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/f6996e2a766d80fd05789832ddfc379a/tumblr_og6ejcoi411rhrm24o2_1280.jpg

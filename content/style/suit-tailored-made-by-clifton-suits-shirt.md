@@ -8,7 +8,7 @@ date: 2014-09-19T16:30:00.000Z
 categories:
 - Style
 slug: suit-tailored-made-by-clifton-suits-shirt
-thumbnail: https://78.media.tumblr.com/dd5ac7a2b47fd26936a7a7736a4581b3/tumblr_nc5pvjBopD1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/dd5ac7a2b47fd26936a7a7736a4581b3/tumblr_nc5pvjBopD1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/dd5ac7a2b47fd26936a7a7736a4581b3/tumblr_nc5pvjBopD1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/22bc96c29b5fd5455d40d1e2a250569e/tumblr_nc5pvjBopD1rhrm24o2_1280.jpg

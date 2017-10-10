@@ -6,7 +6,7 @@ date: 2014-04-21T21:15:00.000Z
 categories:
 - Style
 slug: look-1-suit-tailor-made-by-clifton-suits
-thumbnail: https://78.media.tumblr.com/6b24c35071add272e2c7ccc10586ad0b/tumblr_n2fhb3Yagp1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/6b24c35071add272e2c7ccc10586ad0b/tumblr_n2fhb3Yagp1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/6b24c35071add272e2c7ccc10586ad0b/tumblr_n2fhb3Yagp1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/96985437c1df2e60a553463ba65652c3/tumblr_n2fhb3Yagp1rhrm24o2_1280.jpg

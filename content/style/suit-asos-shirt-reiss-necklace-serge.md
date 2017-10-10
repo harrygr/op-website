@@ -13,7 +13,7 @@ date: 2016-04-21T16:22:01.000Z
 categories:
 - Style
 slug: suit-asos-shirt-reiss-necklace-serge
-thumbnail: https://78.media.tumblr.com/c15795ccbc34ad998ec1745355583ed5/tumblr_nu1q7oPPIt1rhrm24o6_1280.jpg
+thumbnail: https://78.media.tumblr.com/c15795ccbc34ad998ec1745355583ed5/tumblr_nu1q7oPPIt1rhrm24o6_540.jpg
 attachments:
 - https://78.media.tumblr.com/c15795ccbc34ad998ec1745355583ed5/tumblr_nu1q7oPPIt1rhrm24o6_1280.jpg
 - https://78.media.tumblr.com/636537f2ad7f7a5ae90113220ebd3413/tumblr_nu1q7oPPIt1rhrm24o5_1280.jpg

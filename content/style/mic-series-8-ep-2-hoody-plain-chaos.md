@@ -9,7 +9,7 @@ date: 2014-10-21T14:01:00.000Z
 categories:
 - Style
 slug: mic-series-8-ep-2-hoody-plain-chaos
-thumbnail: https://78.media.tumblr.com/f2db2bcd63ec9b0977f961adfd2014c5/tumblr_ndssb4Ctbj1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f2db2bcd63ec9b0977f961adfd2014c5/tumblr_ndssb4Ctbj1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f2db2bcd63ec9b0977f961adfd2014c5/tumblr_ndssb4Ctbj1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/bbb7f57977292cb018742ac003b7da6c/tumblr_ndssb4Ctbj1rhrm24o2_1280.jpg

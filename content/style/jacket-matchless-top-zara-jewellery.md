@@ -21,7 +21,7 @@ date: 2016-10-14T10:11:47.000Z
 categories:
 - Style
 slug: jacket-matchless-top-zara-jewellery
-thumbnail: https://78.media.tumblr.com/f891edb7343daf3cd7a80931eb951e6d/tumblr_of184zI6se1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f891edb7343daf3cd7a80931eb951e6d/tumblr_of184zI6se1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f891edb7343daf3cd7a80931eb951e6d/tumblr_of184zI6se1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/bd7a5bbb42511a3151da9f0cf6154ec5/tumblr_of184zI6se1rhrm24o2_1280.jpg

@@ -6,7 +6,7 @@ date: 2014-04-21T21:45:00.000Z
 categories:
 - Style
 slug: look-3-hat-christys-from-thomas-farthing
-thumbnail: https://78.media.tumblr.com/9bcb09803e5bd8d71415d1b69cd504e4/tumblr_n2dtf3MfR61rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/9bcb09803e5bd8d71415d1b69cd504e4/tumblr_n2dtf3MfR61rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/9bcb09803e5bd8d71415d1b69cd504e4/tumblr_n2dtf3MfR61rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/562bdb457e375928113ba308bc8c61d3/tumblr_n2dtf3MfR61rhrm24o2_1280.jpg

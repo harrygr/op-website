@@ -15,7 +15,7 @@ date: 2016-09-16T09:31:39.000Z
 categories:
 - Style
 slug: jacket-diesel-hoody-diesel-t-shirt
-thumbnail: https://78.media.tumblr.com/1ca17fecd2b0470a6054b993fac615d9/tumblr_odlbsuLu391rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/1ca17fecd2b0470a6054b993fac615d9/tumblr_odlbsuLu391rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/1ca17fecd2b0470a6054b993fac615d9/tumblr_odlbsuLu391rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/6ccf91d75a9e1aa5001cc0d3bfce6f4f/tumblr_odlbsuLu391rhrm24o2_1280.jpg

@@ -10,7 +10,7 @@ date: 2013-12-02T20:27:00.000Z
 categories:
 - Style
 slug: jacket-diesel-jogg-jeans-jacket-jeans
-thumbnail: https://78.media.tumblr.com/2bbe4c428b994870b5e8d7728e1015e2/tumblr_mx74tmvRzp1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/2bbe4c428b994870b5e8d7728e1015e2/tumblr_mx74tmvRzp1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/2bbe4c428b994870b5e8d7728e1015e2/tumblr_mx74tmvRzp1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/26aa0176d7499d3ab915fe842db15bc9/tumblr_mx74tmvRzp1rhrm24o2_1280.jpg

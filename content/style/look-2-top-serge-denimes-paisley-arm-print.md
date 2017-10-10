@@ -6,7 +6,7 @@ date: 2014-05-05T21:30:00.000Z
 categories:
 - Style
 slug: look-2-top-serge-denimes-paisley-arm-print
-thumbnail: https://78.media.tumblr.com/f574bc621209431113913f3553d8e233/tumblr_n2dulgYgVT1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f574bc621209431113913f3553d8e233/tumblr_n2dulgYgVT1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f574bc621209431113913f3553d8e233/tumblr_n2dulgYgVT1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/b7e503d5497778a49e40f4da7afa7ecc/tumblr_n2dulgYgVT1rhrm24o2_1280.jpg

@@ -13,7 +13,7 @@ date: 2013-09-13T10:02:00.000Z
 categories:
 - Style
 slug: suit-reiss-shoes-reiss-shot-by
-thumbnail: https://78.media.tumblr.com/acc1ba3b1c81fb1f92f22aed2313c062/tumblr_mt26jrQPgj1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/acc1ba3b1c81fb1f92f22aed2313c062/tumblr_mt26jrQPgj1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/acc1ba3b1c81fb1f92f22aed2313c062/tumblr_mt26jrQPgj1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/187e41ed4e9e2aac23579c4868b43841/tumblr_mt26jrQPgj1rhrm24o2_1280.jpg

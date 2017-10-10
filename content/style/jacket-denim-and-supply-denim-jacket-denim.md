@@ -18,7 +18,7 @@ date: 2016-12-16T17:08:43.000Z
 categories:
 - Style
 slug: jacket-denim-and-supply-denim-jacket-denim
-thumbnail: https://78.media.tumblr.com/74dcddb1b96065269cda66bae33ea833/tumblr_oiafmmm2UQ1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/74dcddb1b96065269cda66bae33ea833/tumblr_oiafmmm2UQ1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/74dcddb1b96065269cda66bae33ea833/tumblr_oiafmmm2UQ1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4b51677dffc73b70d76913d446e5f3b9/tumblr_oiafmmm2UQ1rhrm24o2_1280.jpg

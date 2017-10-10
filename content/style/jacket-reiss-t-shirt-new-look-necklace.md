@@ -15,7 +15,7 @@ date: 2016-01-22T08:00:32.000Z
 categories:
 - Style
 slug: jacket-reiss-t-shirt-new-look-necklace
-thumbnail: https://78.media.tumblr.com/1084b553b9b7a99602fb157b26c14b19/tumblr_o19c2235as1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/1084b553b9b7a99602fb157b26c14b19/tumblr_o19c2235as1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/1084b553b9b7a99602fb157b26c14b19/tumblr_o19c2235as1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/204153941954fb604e77c4d652a6fe4e/tumblr_o19c2235as1rhrm24o2_1280.jpg

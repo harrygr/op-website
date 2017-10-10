@@ -16,7 +16,7 @@ date: 2016-08-26T07:00:17.000Z
 categories:
 - Style
 slug: jacket-diesel-shirt-river-island
-thumbnail: https://78.media.tumblr.com/81657b49e46f4fe82ad10992844b72ab/tumblr_ocet9sReKj1rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/81657b49e46f4fe82ad10992844b72ab/tumblr_ocet9sReKj1rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/81657b49e46f4fe82ad10992844b72ab/tumblr_ocet9sReKj1rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/17136897cb71b1eb33085b4c935e58b7/tumblr_ocet9sReKj1rhrm24o1_1280.jpg

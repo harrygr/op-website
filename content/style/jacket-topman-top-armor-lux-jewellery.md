@@ -20,7 +20,7 @@ date: 2017-06-16T07:00:11.000Z
 categories:
 - Style
 slug: jacket-topman-top-armor-lux-jewellery
-thumbnail: https://78.media.tumblr.com/e0c1eb510ef3ab2b347ea416d7dec195/tumblr_orl3qn3Ph71rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/e0c1eb510ef3ab2b347ea416d7dec195/tumblr_orl3qn3Ph71rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/e0c1eb510ef3ab2b347ea416d7dec195/tumblr_orl3qn3Ph71rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/df8f5d768f095c333d4821dc4d44cda3/tumblr_orl3qn3Ph71rhrm24o5_1280.jpg

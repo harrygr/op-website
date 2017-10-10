@@ -14,7 +14,7 @@ date: 2013-10-14T20:05:00.000Z
 categories:
 - Style
 slug: made-in-chelsea-ep-1-jumper-diesel
-thumbnail: https://78.media.tumblr.com/ca5ee335cbcb1bcfec2c43d87fae2e0f/tumblr_muod5kOeVc1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/ca5ee335cbcb1bcfec2c43d87fae2e0f/tumblr_muod5kOeVc1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/ca5ee335cbcb1bcfec2c43d87fae2e0f/tumblr_muod5kOeVc1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/e49af4489e4cdc16d01d6f111eda215c/tumblr_muod5kOeVc1rhrm24o1_1280.jpg

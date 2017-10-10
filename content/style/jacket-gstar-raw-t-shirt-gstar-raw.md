@@ -16,7 +16,7 @@ date: 2015-07-10T07:15:25.000Z
 categories:
 - Style
 slug: jacket-gstar-raw-t-shirt-gstar-raw
-thumbnail: https://78.media.tumblr.com/4b8189914347db1a8b000a72322d2526/tumblr_nr63b70vFW1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/4b8189914347db1a8b000a72322d2526/tumblr_nr63b70vFW1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/4b8189914347db1a8b000a72322d2526/tumblr_nr63b70vFW1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/768783c8a77c67b3e1df43e9c2ed5de8/tumblr_nr63b70vFW1rhrm24o5_1280.jpg

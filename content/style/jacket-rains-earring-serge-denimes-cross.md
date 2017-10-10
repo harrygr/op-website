@@ -14,7 +14,7 @@ date: 2014-12-12T18:12:00.000Z
 categories:
 - Style
 slug: jacket-rains-earring-serge-denimes-cross
-thumbnail: https://78.media.tumblr.com/78c279878f56bf3eab591de2e0bcd55b/tumblr_nghek2MWfT1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/78c279878f56bf3eab591de2e0bcd55b/tumblr_nghek2MWfT1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/78c279878f56bf3eab591de2e0bcd55b/tumblr_nghek2MWfT1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/2a462db4af547ff719ac721956638c31/tumblr_nghek2MWfT1rhrm24o2_1280.jpg

@@ -13,7 +13,7 @@ date: 2016-01-15T11:33:39.000Z
 categories:
 - Style
 slug: jumper-reclaimed-vintage-necklace-serge
-thumbnail: https://78.media.tumblr.com/fde041092dba870b4c2e1554c54bf5f4/tumblr_o0zk8mX7X41rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/fde041092dba870b4c2e1554c54bf5f4/tumblr_o0zk8mX7X41rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/fde041092dba870b4c2e1554c54bf5f4/tumblr_o0zk8mX7X41rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/6c8904ecf808b04e5edeaeccc1d73822/tumblr_o0zk8mX7X41rhrm24o2_1280.jpg

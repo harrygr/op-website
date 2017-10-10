@@ -15,7 +15,7 @@ date: 2014-01-31T12:24:00.000Z
 categories:
 - Style
 slug: jeans-diesel-thavar-jacket-aqua
-thumbnail: https://78.media.tumblr.com/4fa88fa3005888300001d33067719942/tumblr_n09mgxPKEi1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/4fa88fa3005888300001d33067719942/tumblr_n09mgxPKEi1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/4fa88fa3005888300001d33067719942/tumblr_n09mgxPKEi1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/69dd9a640cbaeebfa22d435ac4abf192/tumblr_n09mgxPKEi1rhrm24o5_1280.jpg

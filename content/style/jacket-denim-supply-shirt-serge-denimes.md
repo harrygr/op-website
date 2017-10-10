@@ -17,7 +17,7 @@ date: 2016-09-02T07:00:34.000Z
 categories:
 - Style
 slug: jacket-denim-supply-shirt-serge-denimes
-thumbnail: https://78.media.tumblr.com/0b5e56015bd6a1d3c8512eb62347071c/tumblr_ocu23lxvb61rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/0b5e56015bd6a1d3c8512eb62347071c/tumblr_ocu23lxvb61rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/0b5e56015bd6a1d3c8512eb62347071c/tumblr_ocu23lxvb61rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/49139bee037407e493400294c56d7378/tumblr_ocu23lxvb61rhrm24o4_1280.jpg

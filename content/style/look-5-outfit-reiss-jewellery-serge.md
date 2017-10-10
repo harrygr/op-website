@@ -11,7 +11,7 @@ date: 2014-04-04T10:01:29.000Z
 categories:
 - Style
 slug: look-5-outfit-reiss-jewellery-serge
-thumbnail: https://78.media.tumblr.com/7aec343b8fb440e488bad6a14e3c7bed/tumblr_n33bgw5Gy11rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/7aec343b8fb440e488bad6a14e3c7bed/tumblr_n33bgw5Gy11rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/7aec343b8fb440e488bad6a14e3c7bed/tumblr_n33bgw5Gy11rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/70f4e179f80412403dd38887f9ac4d42/tumblr_n33bgw5Gy11rhrm24o2_1280.jpg

@@ -23,7 +23,7 @@ date: 2017-09-08T16:44:59.000Z
 categories:
 - Style
 slug: jacket-serge-denimes-tee-zara
-thumbnail: https://78.media.tumblr.com/d6b263340640cb7824e09a49c13a897d/tumblr_ovyo9lnSD01rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/d6b263340640cb7824e09a49c13a897d/tumblr_ovyo9lnSD01rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/d6b263340640cb7824e09a49c13a897d/tumblr_ovyo9lnSD01rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/5f3c191bf053cf1ce8b3f379c5056531/tumblr_ovyo9lnSD01rhrm24o2_1280.jpg

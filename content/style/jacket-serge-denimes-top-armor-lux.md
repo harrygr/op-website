@@ -18,7 +18,7 @@ date: 2016-09-22T20:43:06.000Z
 categories:
 - Style
 slug: jacket-serge-denimes-top-armor-lux
-thumbnail: https://78.media.tumblr.com/d585ea15ca32e0098508b3664718d654/tumblr_odxavxNZE61rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/d585ea15ca32e0098508b3664718d654/tumblr_odxavxNZE61rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/d585ea15ca32e0098508b3664718d654/tumblr_odxavxNZE61rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/27e3f45f627b27082298dd7741043915/tumblr_odxavxNZE61rhrm24o2_1280.jpg

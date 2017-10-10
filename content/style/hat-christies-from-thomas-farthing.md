@@ -9,7 +9,7 @@ date: 2014-03-07T15:01:00.000Z
 categories:
 - Style
 slug: hat-christies-from-thomas-farthing
-thumbnail: https://78.media.tumblr.com/d0e6e4df62abd3ff9dabfee17bf36101/tumblr_n22jb4vJje1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/d0e6e4df62abd3ff9dabfee17bf36101/tumblr_n22jb4vJje1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/d0e6e4df62abd3ff9dabfee17bf36101/tumblr_n22jb4vJje1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/ab1626ba01eecff7d4dbbf8745c5edf7/tumblr_n22jb4vJje1rhrm24o2_1280.jpg

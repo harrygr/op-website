@@ -12,7 +12,7 @@ date: 2015-11-05T08:00:49.000Z
 categories:
 - Style
 slug: jumper-serge-denimes-so-serge-arm-sweat
-thumbnail: https://78.media.tumblr.com/ff03fd8ac37474846937a2ba84fcffb3/tumblr_nx6v63IOSL1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/ff03fd8ac37474846937a2ba84fcffb3/tumblr_nx6v63IOSL1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/ff03fd8ac37474846937a2ba84fcffb3/tumblr_nx6v63IOSL1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/8ffff33655e7a32b413b8fb2b510cdb1/tumblr_nx6v63IOSL1rhrm24o3_1280.jpg

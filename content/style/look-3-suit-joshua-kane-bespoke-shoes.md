@@ -6,7 +6,7 @@ date: 2014-04-28T21:45:33.000Z
 categories:
 - Style
 slug: look-3-suit-joshua-kane-bespoke-shoes
-thumbnail: https://78.media.tumblr.com/ce88f02ce6b69755d2a3ac8de6d6f36e/tumblr_n2fgwyf4831rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/ce88f02ce6b69755d2a3ac8de6d6f36e/tumblr_n2fgwyf4831rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/ce88f02ce6b69755d2a3ac8de6d6f36e/tumblr_n2fgwyf4831rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/ce97b344015a8a2bfb1d26203cfb0647/tumblr_n2fgwyf4831rhrm24o2_1280.jpg

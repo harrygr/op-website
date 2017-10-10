@@ -13,7 +13,7 @@ date: 2015-06-22T07:00:50.000Z
 categories:
 - Style
 slug: shirt-whitles-essential-pocket-denim-shirt
-thumbnail: https://78.media.tumblr.com/3405ea9f22b7e79e876931a2f17487cc/tumblr_nqb0pdYQYo1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/3405ea9f22b7e79e876931a2f17487cc/tumblr_nqb0pdYQYo1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/3405ea9f22b7e79e876931a2f17487cc/tumblr_nqb0pdYQYo1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/c2642a4820908ca9f00894d5093cd3d2/tumblr_nqb0pdYQYo1rhrm24o2_1280.jpg

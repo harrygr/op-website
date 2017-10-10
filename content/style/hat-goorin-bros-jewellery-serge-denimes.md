@@ -8,7 +8,7 @@ date: 2014-09-26T14:25:00.000Z
 categories:
 - Style
 slug: hat-goorin-bros-jewellery-serge-denimes
-thumbnail: https://78.media.tumblr.com/a72699c3751603460775fb4908aa9807/tumblr_nciiquOCp71rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/a72699c3751603460775fb4908aa9807/tumblr_nciiquOCp71rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/a72699c3751603460775fb4908aa9807/tumblr_nciiquOCp71rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4764144dcd83307cfb595eb829817446/tumblr_nciiquOCp71rhrm24o2_1280.jpg

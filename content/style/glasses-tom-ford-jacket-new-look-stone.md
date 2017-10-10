@@ -14,7 +14,7 @@ date: 2015-10-05T07:15:24.000Z
 categories:
 - Style
 slug: glasses-tom-ford-jacket-new-look-stone
-thumbnail: https://78.media.tumblr.com/d0b0ddb269eed01566de9baceb1fa51e/tumblr_nvlavplYW51rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/d0b0ddb269eed01566de9baceb1fa51e/tumblr_nvlavplYW51rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/d0b0ddb269eed01566de9baceb1fa51e/tumblr_nvlavplYW51rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/333cd6d0aa9d6a9a3fc955f70f5155cc/tumblr_nvlavplYW51rhrm24o1_1280.jpg

@@ -8,7 +8,7 @@ date: 2014-05-23T12:16:00.000Z
 categories:
 - Style
 slug: suit-clements-church-jewellery-serge
-thumbnail: https://78.media.tumblr.com/79365d17630e61dbe161205dc35b8149/tumblr_n610saz0gf1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/79365d17630e61dbe161205dc35b8149/tumblr_n610saz0gf1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/79365d17630e61dbe161205dc35b8149/tumblr_n610saz0gf1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/25d4420be08477ab693e7a92519b8c39/tumblr_n610saz0gf1rhrm24o3_1280.jpg

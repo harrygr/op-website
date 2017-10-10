@@ -12,7 +12,7 @@ date: 2016-02-26T12:03:51.000Z
 categories:
 - Style
 slug: jacket-asos-shirt-asos-jeans-asos
-thumbnail: https://78.media.tumblr.com/03b0441c79f8d268e77fbe79b11ced05/tumblr_o35ksfnbIx1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/03b0441c79f8d268e77fbe79b11ced05/tumblr_o35ksfnbIx1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/03b0441c79f8d268e77fbe79b11ced05/tumblr_o35ksfnbIx1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/670f9656387c7571f1bbc79c71d151f6/tumblr_o35ksfnbIx1rhrm24o2_1280.jpg

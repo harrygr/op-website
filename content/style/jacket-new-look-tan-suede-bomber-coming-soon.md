@@ -13,7 +13,7 @@ date: 2015-10-07T07:15:53.000Z
 categories:
 - Style
 slug: jacket-new-look-tan-suede-bomber-coming-soon
-thumbnail: https://78.media.tumblr.com/c9ce947ab35782c7433059013760eef6/tumblr_nvlja9S0Yz1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/c9ce947ab35782c7433059013760eef6/tumblr_nvlja9S0Yz1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/c9ce947ab35782c7433059013760eef6/tumblr_nvlja9S0Yz1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/648c03ad0cc4abd311ca76a894dfa447/tumblr_nvlja9S0Yz1rhrm24o2_1280.jpg

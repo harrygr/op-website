@@ -15,7 +15,7 @@ date: 2015-07-31T16:17:38.000Z
 categories:
 - Style
 slug: hat-bysju-x-proudlock-jacket-diesel
-thumbnail: https://78.media.tumblr.com/e8a4fb68123200854fc34ecc98489013/tumblr_nsd19eHdHq1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/e8a4fb68123200854fc34ecc98489013/tumblr_nsd19eHdHq1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/e8a4fb68123200854fc34ecc98489013/tumblr_nsd19eHdHq1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/7b9084bf2b28541302dff891b3cdcf05/tumblr_nsd19eHdHq1rhrm24o5_1280.jpg

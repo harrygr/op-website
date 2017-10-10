@@ -10,7 +10,7 @@ date: 2014-05-16T17:45:00.000Z
 categories:
 - Style
 slug: beanie-serge-denimes-beanie-serge-denimes
-thumbnail: https://78.media.tumblr.com/cb69e06f4e88f98817b600f6b9e25670/tumblr_n5ohcmqFiL1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/cb69e06f4e88f98817b600f6b9e25670/tumblr_n5ohcmqFiL1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/cb69e06f4e88f98817b600f6b9e25670/tumblr_n5ohcmqFiL1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/683d62a83d0d1b43e4f60bef058da0e9/tumblr_n5ohcmqFiL1rhrm24o2_1280.jpg

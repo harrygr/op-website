@@ -9,7 +9,7 @@ date: 2014-12-02T11:01:00.000Z
 categories:
 - Style
 slug: earring-serge-denimes-jacket-diesel
-thumbnail: https://78.media.tumblr.com/13ee0cb84f17f7fd40e267a3d76e8efd/tumblr_nfww0vinyk1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/13ee0cb84f17f7fd40e267a3d76e8efd/tumblr_nfww0vinyk1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/13ee0cb84f17f7fd40e267a3d76e8efd/tumblr_nfww0vinyk1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/57bca169834e83b477f28283f45015c8/tumblr_nfww0vinyk1rhrm24o6_1280.jpg

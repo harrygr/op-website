@@ -18,7 +18,7 @@ date: 2015-05-29T12:44:01.000Z
 categories:
 - Style
 slug: jacket-diesel-shirt-zara-necklace
-thumbnail: https://78.media.tumblr.com/c49bfcecb023a85e2fc8ab34c728fcea/tumblr_np417rEkEI1rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/c49bfcecb023a85e2fc8ab34c728fcea/tumblr_np417rEkEI1rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/c49bfcecb023a85e2fc8ab34c728fcea/tumblr_np417rEkEI1rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/83bea2871ca7a25680b578afe144717c/tumblr_np417rEkEI1rhrm24o3_1280.jpg

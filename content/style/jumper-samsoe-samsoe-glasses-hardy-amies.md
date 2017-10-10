@@ -11,7 +11,7 @@ date: 2013-10-08T14:02:00.000Z
 categories:
 - Style
 slug: jumper-samsoe-samsoe-glasses-hardy-amies
-thumbnail: https://78.media.tumblr.com/bd898755517a98ce19e2cf0854b70ddc/tumblr_mucb57qfG81rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/bd898755517a98ce19e2cf0854b70ddc/tumblr_mucb57qfG81rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/bd898755517a98ce19e2cf0854b70ddc/tumblr_mucb57qfG81rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/46991b39e16db52650274cfbc23a0625/tumblr_mucb57qfG81rhrm24o2_1280.jpg

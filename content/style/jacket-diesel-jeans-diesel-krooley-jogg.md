@@ -11,7 +11,7 @@ date: 2013-12-04T16:52:00.000Z
 categories:
 - Style
 slug: jacket-diesel-jeans-diesel-krooley-jogg
-thumbnail: https://78.media.tumblr.com/a032333c9084c614386bb1c16f218f3d/tumblr_mxak7a17Qs1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/a032333c9084c614386bb1c16f218f3d/tumblr_mxak7a17Qs1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/a032333c9084c614386bb1c16f218f3d/tumblr_mxak7a17Qs1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/e44f0d53dd81883f6990e6f5a8aa3d92/tumblr_mxak7a17Qs1rhrm24o2_1280.jpg

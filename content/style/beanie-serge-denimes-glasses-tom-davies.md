@@ -14,7 +14,7 @@ date: 2015-01-01T21:07:00.000Z
 categories:
 - Style
 slug: beanie-serge-denimes-glasses-tom-davies
-thumbnail: https://78.media.tumblr.com/bfe32297d8e0ae78e6b2df698749507b/tumblr_nhio0gnFK91rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/bfe32297d8e0ae78e6b2df698749507b/tumblr_nhio0gnFK91rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/bfe32297d8e0ae78e6b2df698749507b/tumblr_nhio0gnFK91rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/a8c7884bdbf1793ad3846d7d449829ff/tumblr_nhio0gnFK91rhrm24o2_1280.jpg

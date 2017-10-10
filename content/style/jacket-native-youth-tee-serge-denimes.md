@@ -25,7 +25,7 @@ date: 2017-09-29T07:00:25.000Z
 categories:
 - Style
 slug: jacket-native-youth-tee-serge-denimes
-thumbnail: https://78.media.tumblr.com/472c05aef79f59fd3f65b8c42d49229e/tumblr_owxt50iV9x1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/472c05aef79f59fd3f65b8c42d49229e/tumblr_owxt50iV9x1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/472c05aef79f59fd3f65b8c42d49229e/tumblr_owxt50iV9x1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/27bb06a7bd537c8036ccbffe09cc69aa/tumblr_owxt50iV9x1rhrm24o2_1280.jpg

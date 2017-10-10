@@ -12,7 +12,7 @@ date: 2013-05-24T12:01:00.000Z
 categories:
 - Style
 slug: sunglasses-paul-smith-vest-serge-denimes
-thumbnail: https://78.media.tumblr.com/5279c7db8a2d72a44173c9304c3f3035/tumblr_mnaxdokUw01rhrm24o6_1280.jpg
+thumbnail: https://78.media.tumblr.com/5279c7db8a2d72a44173c9304c3f3035/tumblr_mnaxdokUw01rhrm24o6_540.jpg
 attachments:
 - https://78.media.tumblr.com/5279c7db8a2d72a44173c9304c3f3035/tumblr_mnaxdokUw01rhrm24o6_1280.jpg
 - https://78.media.tumblr.com/76ba022ea6ed7ece3798bff8efd619e6/tumblr_mnaxdokUw01rhrm24o2_1280.jpg

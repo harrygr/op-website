@@ -12,7 +12,7 @@ date: 2015-06-26T07:00:29.000Z
 categories:
 - Style
 slug: sunglasses-oliver-proudlock-jacket
-thumbnail: https://78.media.tumblr.com/5c0cd67c3f433cf9e73ad043b89f7d32/tumblr_nqb1yvZS2s1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/5c0cd67c3f433cf9e73ad043b89f7d32/tumblr_nqb1yvZS2s1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/5c0cd67c3f433cf9e73ad043b89f7d32/tumblr_nqb1yvZS2s1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/697c15ad58d8ec82a13b2bf9d895be6b/tumblr_nqb1yvZS2s1rhrm24o1_1280.jpg

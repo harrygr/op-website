@@ -7,7 +7,7 @@ date: 2014-10-21T14:07:00.000Z
 categories:
 - Style
 slug: mic-series-8-ep-2-cross-earrings-serge
-thumbnail: https://78.media.tumblr.com/0a7f4ae6e3799f7d029cc4972683c47d/tumblr_ndsskpOgp71rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/0a7f4ae6e3799f7d029cc4972683c47d/tumblr_ndsskpOgp71rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/0a7f4ae6e3799f7d029cc4972683c47d/tumblr_ndsskpOgp71rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/0a78859152603261b005c1b3285a6d4d/tumblr_ndsskpOgp71rhrm24o2_1280.jpg

@@ -11,7 +11,7 @@ date: 2013-05-31T16:58:00.000Z
 categories:
 - Style
 slug: sunglasses-finlay-co-shirt-cos
-thumbnail: https://78.media.tumblr.com/3bce8f9e03e0aada6b802d40326bd07d/tumblr_mno9t2vnxu1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/3bce8f9e03e0aada6b802d40326bd07d/tumblr_mno9t2vnxu1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/3bce8f9e03e0aada6b802d40326bd07d/tumblr_mno9t2vnxu1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/fecac077860526af6820433df1d095bf/tumblr_mno9t2vnxu1rhrm24o2_1280.jpg

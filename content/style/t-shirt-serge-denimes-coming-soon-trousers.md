@@ -12,7 +12,7 @@ date: 2013-09-06T16:27:00.000Z
 categories:
 - Style
 slug: t-shirt-serge-denimes-coming-soon-trousers
-thumbnail: https://78.media.tumblr.com/a3b3326bd9fe25266df148bf1358dccb/tumblr_msppp64sEA1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/a3b3326bd9fe25266df148bf1358dccb/tumblr_msppp64sEA1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/a3b3326bd9fe25266df148bf1358dccb/tumblr_msppp64sEA1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/3cec6f2aa801064dd34f77fe15f1d03c/tumblr_msppp64sEA1rhrm24o3_1280.jpg

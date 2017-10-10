@@ -9,7 +9,7 @@ date: 2014-11-14T11:01:00.000Z
 categories:
 - Style
 slug: hat-serge-denimes-4-symbols-beanie-earrings
-thumbnail: https://78.media.tumblr.com/398cf1a65a725ca09ef8b5c733e27675/tumblr_nezkxiHY0A1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/398cf1a65a725ca09ef8b5c733e27675/tumblr_nezkxiHY0A1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/398cf1a65a725ca09ef8b5c733e27675/tumblr_nezkxiHY0A1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/6b4a79d1d2ebab658232527eb2a3893b/tumblr_nezkxiHY0A1rhrm24o2_1280.jpg

@@ -10,7 +10,7 @@ date: 2014-05-09T14:58:00.000Z
 categories:
 - Style
 slug: beanie-serge-denimes-rucksack-jack-spade
-thumbnail: https://78.media.tumblr.com/2a71360d63376fcdbceae4cae33bbb14/tumblr_n5bawqOwt11rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/2a71360d63376fcdbceae4cae33bbb14/tumblr_n5bawqOwt11rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/2a71360d63376fcdbceae4cae33bbb14/tumblr_n5bawqOwt11rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/e947b6c7404baa20c71f1b43be26a79a/tumblr_n5bawqOwt11rhrm24o3_1280.jpg

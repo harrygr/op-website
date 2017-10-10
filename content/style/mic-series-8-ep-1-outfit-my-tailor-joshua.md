@@ -9,7 +9,7 @@ date: 2014-10-16T10:00:00.000Z
 categories:
 - Style
 slug: mic-series-8-ep-1-outfit-my-tailor-joshua
-thumbnail: https://78.media.tumblr.com/1b5a23ba47e52d2629c6cef11ce86adf/tumblr_ndicn2PUgw1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/1b5a23ba47e52d2629c6cef11ce86adf/tumblr_ndicn2PUgw1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/1b5a23ba47e52d2629c6cef11ce86adf/tumblr_ndicn2PUgw1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/79deb34fc3485b8c8047999dc9c01854/tumblr_ndicn2PUgw1rhrm24o2_1280.jpg

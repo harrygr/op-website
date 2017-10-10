@@ -12,7 +12,7 @@ date: 2016-02-04T08:00:24.000Z
 categories:
 - Style
 slug: suit-next-grey-donegal-suit-shirt-next
-thumbnail: https://78.media.tumblr.com/96018f5e6509e9f47a15906655ad5174/tumblr_o1zejhzfqQ1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/96018f5e6509e9f47a15906655ad5174/tumblr_o1zejhzfqQ1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/96018f5e6509e9f47a15906655ad5174/tumblr_o1zejhzfqQ1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/0c213793ca6b0ae2636a44e3e6dcebd5/tumblr_o1zejhzfqQ1rhrm24o2_1280.jpg

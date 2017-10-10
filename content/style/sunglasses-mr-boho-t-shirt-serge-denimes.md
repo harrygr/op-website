@@ -14,7 +14,7 @@ date: 2016-05-02T07:00:24.000Z
 categories:
 - Style
 slug: sunglasses-mr-boho-t-shirt-serge-denimes
-thumbnail: https://78.media.tumblr.com/865820f805e473073ed28e390310e157/tumblr_o6agv5yOmc1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/865820f805e473073ed28e390310e157/tumblr_o6agv5yOmc1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/865820f805e473073ed28e390310e157/tumblr_o6agv5yOmc1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4c065081c8bc6c5c513f73aad8bf4e1f/tumblr_o6agv5yOmc1rhrm24o3_1280.jpg

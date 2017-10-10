@@ -13,7 +13,7 @@ date: 2013-08-23T17:43:00.000Z
 categories:
 - Style
 slug: jacket-cloth-surgeon-necklace-serge-denimes
-thumbnail: https://78.media.tumblr.com/213d7d8889aa182e8266134898a4f5cc/tumblr_mrzvwekVQ91rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/213d7d8889aa182e8266134898a4f5cc/tumblr_mrzvwekVQ91rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/213d7d8889aa182e8266134898a4f5cc/tumblr_mrzvwekVQ91rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/48126a786d0e1add7741eefe59097c4d/tumblr_mrzvwekVQ91rhrm24o2_1280.jpg

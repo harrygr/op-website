@@ -13,7 +13,7 @@ date: 2016-06-22T07:00:30.000Z
 categories:
 - Style
 slug: hoody-serge-denimes-cut-off-top-serge
-thumbnail: https://78.media.tumblr.com/f3d27a404f04111b7f1f000f73b389a5/tumblr_o8tvisdM0P1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f3d27a404f04111b7f1f000f73b389a5/tumblr_o8tvisdM0P1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f3d27a404f04111b7f1f000f73b389a5/tumblr_o8tvisdM0P1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/c44c7803342fd1e0e823469d1da9d477/tumblr_o8tvisdM0P1rhrm24o3_1280.jpg

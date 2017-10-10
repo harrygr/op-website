@@ -7,7 +7,7 @@ date: 2014-01-18T19:42:00.000Z
 categories:
 - Style
 slug: jeans-diesel-thavar-shirt-pendleton
-thumbnail: https://78.media.tumblr.com/5cc1361b36fb4742bd7007b2a090add0/tumblr_mzm435iCIx1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/5cc1361b36fb4742bd7007b2a090add0/tumblr_mzm435iCIx1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/5cc1361b36fb4742bd7007b2a090add0/tumblr_mzm435iCIx1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/3f040b7369ef1f14c0535ad0d8edb61c/tumblr_mzm435iCIx1rhrm24o2_1280.jpg

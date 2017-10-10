@@ -8,7 +8,7 @@ date: 2014-02-28T15:22:00.000Z
 categories:
 - Style
 slug: necklace-serge-denimes-rose-gold-padlock
-thumbnail: https://78.media.tumblr.com/e502be7e3638a9ffe7b1ab5b304918e0/tumblr_n1ppco7wgN1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/e502be7e3638a9ffe7b1ab5b304918e0/tumblr_n1ppco7wgN1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/e502be7e3638a9ffe7b1ab5b304918e0/tumblr_n1ppco7wgN1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/c048d2dfe603ca22e9fd72dc876b987c/tumblr_n1ppco7wgN1rhrm24o2_1280.jpg

@@ -12,7 +12,7 @@ date: 2014-03-19T15:01:00.000Z
 categories:
 - Style
 slug: look-3-hat-wide-brim-fedora-by-christys
-thumbnail: https://78.media.tumblr.com/be798f43102e301d278fa71809258d74/tumblr_n2kxr2fxhK1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/be798f43102e301d278fa71809258d74/tumblr_n2kxr2fxhK1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/be798f43102e301d278fa71809258d74/tumblr_n2kxr2fxhK1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/ac9c4313e04e1ce66877e4667e7b9809/tumblr_n2kxr2fxhK1rhrm24o2_1280.jpg

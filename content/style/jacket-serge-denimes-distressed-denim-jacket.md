@@ -19,7 +19,7 @@ date: 2017-03-03T08:00:21.000Z
 categories:
 - Style
 slug: jacket-serge-denimes-distressed-denim-jacket
-thumbnail: https://78.media.tumblr.com/3cf3472631a5385c1c6f998706229ec4/tumblr_om7507RGYn1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/3cf3472631a5385c1c6f998706229ec4/tumblr_om7507RGYn1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/3cf3472631a5385c1c6f998706229ec4/tumblr_om7507RGYn1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/3ba9700b2fbd11f49e8c76ab912306d9/tumblr_om7507RGYn1rhrm24o3_1280.jpg

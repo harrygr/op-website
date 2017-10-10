@@ -9,7 +9,7 @@ date: 2013-07-19T10:44:00.000Z
 categories:
 - Style
 slug: sunglasses-redgreen-shirt-vintage-vest
-thumbnail: https://78.media.tumblr.com/36aeaf43b7f1953728e1ab40de84fcb2/tumblr_mq6j5vG0SH1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/36aeaf43b7f1953728e1ab40de84fcb2/tumblr_mq6j5vG0SH1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/36aeaf43b7f1953728e1ab40de84fcb2/tumblr_mq6j5vG0SH1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/197f002814f80b005aff4eb3412cf6d4/tumblr_mq6j5vG0SH1rhrm24o2_1280.jpg

@@ -12,7 +12,7 @@ date: 2015-06-23T07:00:57.000Z
 categories:
 - Style
 slug: sunglasses-oliver-proudlock-top-whitles
-thumbnail: https://78.media.tumblr.com/af3d513392ac9f52f7e4ac2899aacebd/tumblr_nqb12klpJa1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/af3d513392ac9f52f7e4ac2899aacebd/tumblr_nqb12klpJa1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/af3d513392ac9f52f7e4ac2899aacebd/tumblr_nqb12klpJa1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/11c2ce3cdaa2812b2d615f780be3abc5/tumblr_nqb12klpJa1rhrm24o2_1280.jpg

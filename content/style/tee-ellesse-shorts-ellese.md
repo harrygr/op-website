@@ -15,7 +15,7 @@ date: 2017-06-23T09:01:10.000Z
 categories:
 - Style
 slug: tee-ellesse-shorts-ellese
-thumbnail: https://78.media.tumblr.com/605dfc3286a9487dae820181668914b7/tumblr_oryhdkAEvE1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/605dfc3286a9487dae820181668914b7/tumblr_oryhdkAEvE1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/605dfc3286a9487dae820181668914b7/tumblr_oryhdkAEvE1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/75e0985891e5f81eb52834bfb98fc39b/tumblr_oryhdkAEvE1rhrm24o2_1280.jpg

@@ -13,7 +13,7 @@ date: 2014-04-28T21:15:00.000Z
 categories:
 - Style
 slug: look-1-jacket-river-island-bomber-top
-thumbnail: https://78.media.tumblr.com/f5ca3882765f53040abd48a0e4991f10/tumblr_n2du06KdbZ1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f5ca3882765f53040abd48a0e4991f10/tumblr_n2du06KdbZ1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f5ca3882765f53040abd48a0e4991f10/tumblr_n2du06KdbZ1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/7f8dbf047e462fb4a4c892743c900433/tumblr_n2du06KdbZ1rhrm24o2_1280.jpg

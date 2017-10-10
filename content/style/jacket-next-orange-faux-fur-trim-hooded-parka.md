@@ -12,7 +12,7 @@ date: 2016-02-03T08:00:23.000Z
 categories:
 - Style
 slug: jacket-next-orange-faux-fur-trim-hooded-parka
-thumbnail: https://78.media.tumblr.com/172f9310ab0ce27ce12ca4e03c62875e/tumblr_o1q5zv0s8m1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/172f9310ab0ce27ce12ca4e03c62875e/tumblr_o1q5zv0s8m1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/172f9310ab0ce27ce12ca4e03c62875e/tumblr_o1q5zv0s8m1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/713f6c09e9f1da0b470e46b43a888c7e/tumblr_o1q5zv0s8m1rhrm24o5_1280.jpg

@@ -13,7 +13,7 @@ date: 2015-11-27T15:45:49.000Z
 categories:
 - Style
 slug: jacket-new-look-top-ksubi-necklace
-thumbnail: https://78.media.tumblr.com/f7e6b358140d43720564fff3bc59964d/tumblr_nu1q33g95d1rhrm24o6_1280.jpg
+thumbnail: https://78.media.tumblr.com/f7e6b358140d43720564fff3bc59964d/tumblr_nu1q33g95d1rhrm24o6_540.jpg
 attachments:
 - https://78.media.tumblr.com/f7e6b358140d43720564fff3bc59964d/tumblr_nu1q33g95d1rhrm24o6_1280.jpg
 - https://78.media.tumblr.com/549ea669f32055d41d566cd4b7ca94d6/tumblr_nu1q33g95d1rhrm24o5_1280.jpg

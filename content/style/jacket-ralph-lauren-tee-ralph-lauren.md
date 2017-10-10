@@ -16,7 +16,7 @@ date: 2017-05-12T14:59:02.000Z
 categories:
 - Style
 slug: jacket-ralph-lauren-tee-ralph-lauren
-thumbnail: https://78.media.tumblr.com/de64fae3f6a929d89b180d897d8376fc/tumblr_opuhmeWqix1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/de64fae3f6a929d89b180d897d8376fc/tumblr_opuhmeWqix1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/de64fae3f6a929d89b180d897d8376fc/tumblr_opuhmeWqix1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/dc1f9806e659a1d0e91042db15728983/tumblr_opuhmeWqix1rhrm24o4_1280.jpg

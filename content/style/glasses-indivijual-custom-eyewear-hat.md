@@ -9,7 +9,7 @@ date: 2014-11-05T11:00:00.000Z
 categories:
 - Style
 slug: glasses-indivijual-custom-eyewear-hat
-thumbnail: https://78.media.tumblr.com/7ce8fe1a0ef28696ac08e9716debe9e7/tumblr_negtnfkwnm1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/7ce8fe1a0ef28696ac08e9716debe9e7/tumblr_negtnfkwnm1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/7ce8fe1a0ef28696ac08e9716debe9e7/tumblr_negtnfkwnm1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/1f8e59c0e1d4c7c70f6b010f3a08c054/tumblr_negtnfkwnm1rhrm24o2_1280.jpg

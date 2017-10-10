@@ -13,7 +13,7 @@ date: 2015-11-04T08:00:44.000Z
 categories:
 - Style
 slug: hoody-serge-denimes-grey-lucan-hoody-in-sale
-thumbnail: https://78.media.tumblr.com/25bbeebe6fa92767e794eeb210603618/tumblr_nx6v4yTZ2B1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/25bbeebe6fa92767e794eeb210603618/tumblr_nx6v4yTZ2B1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/25bbeebe6fa92767e794eeb210603618/tumblr_nx6v4yTZ2B1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/00a22dcaa10488d2203f30b19c096ff5/tumblr_nx6v4yTZ2B1rhrm24o4_1280.jpg

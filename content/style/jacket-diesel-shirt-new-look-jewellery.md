@@ -15,7 +15,7 @@ date: 2017-06-05T17:58:22.000Z
 categories:
 - Style
 slug: jacket-diesel-shirt-new-look-jewellery
-thumbnail: https://78.media.tumblr.com/eae03039484e0f3edce89072c9d9e7f7/tumblr_or35w90itJ1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/eae03039484e0f3edce89072c9d9e7f7/tumblr_or35w90itJ1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/eae03039484e0f3edce89072c9d9e7f7/tumblr_or35w90itJ1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/f4dfec2f5cb94ca210bf88a24c14622a/tumblr_or35w90itJ1rhrm24o2_1280.jpg

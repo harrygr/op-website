@@ -15,7 +15,7 @@ date: 2015-01-23T17:36:00.000Z
 categories:
 - Style
 slug: hat-goorin-bros-glasses-indivijual-for
-thumbnail: https://78.media.tumblr.com/2f4a2c82097dd13443500d535231642d/tumblr_nin4q9V4SW1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/2f4a2c82097dd13443500d535231642d/tumblr_nin4q9V4SW1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/2f4a2c82097dd13443500d535231642d/tumblr_nin4q9V4SW1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/b2d9325adccdbb14c1021f7d83507100/tumblr_nin4q9V4SW1rhrm24o3_1280.jpg

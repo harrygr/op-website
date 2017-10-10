@@ -1,5 +1,5 @@
 {{ $pag := $.Paginator }}
-{{ $linkclass := "pa2 bt bb bl b--moon-gray dark-gray hover-bg-light-gray"}}
+{{ $linkclass := "bt bb bl b--moon-gray dark-gray hover-bg-light-gray"}}
 {{ if gt $pag.TotalPages 1 }}
 <ul class="list pl0 flex justify-center sans-serif b f6">
     <li
@@ -8,7 +8,7 @@
     <a
       href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}"
       aria-label="Previous"
-      class="link black"
+      class="link black pa2 db"
       ><span aria-hidden="true">&laquo;</span>
     </a>
     </li>
@@ -27,10 +27,10 @@
     {{ if $showNumber }}
     <li
     class="{{ if eq . $pag }}bg-light-gray{{ end }} {{ $linkclass }}"
-    ><a href="{{ .URL }}" class="link black">{{ .PageNumber }}</a>
+    ><a href="{{ .URL }}" class="link black pa2 db">{{ .PageNumber }}</a>
   </li>
     {{ else if ($.Scratch.Get "__paginator.shouldEllipse") }}
-    <li class="disabled {{ $linkclass }}"><span aria-hidden="true">&hellip;</span></li>
+    <li class="disabled {{ $linkclass }} pa2 db"><span aria-hidden="true">&hellip;</span></li>
     {{ end }}
     {{ end }}
     <li
@@ -38,7 +38,7 @@
     <a
       href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}"
       aria-label="Next"
-      class="link black"
+      class="link black pa2 db"
       ><span aria-hidden="true">&raquo;</span>
     </a>
     </li>

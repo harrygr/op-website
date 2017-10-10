@@ -13,7 +13,7 @@ date: 2013-06-07T13:53:00.000Z
 categories:
 - Style
 slug: glasses-polo-by-ralph-lauren-t-shirt
-thumbnail: https://78.media.tumblr.com/dd700f959ed9e80978884480f1139728/tumblr_mo0mgaj2Qh1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/dd700f959ed9e80978884480f1139728/tumblr_mo0mgaj2Qh1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/dd700f959ed9e80978884480f1139728/tumblr_mo0mgaj2Qh1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/dd8ebc9db7fa9cba8f871876e10bb94e/tumblr_mo0mgaj2Qh1rhrm24o3_1280.jpg

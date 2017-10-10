@@ -10,7 +10,7 @@ date: 2014-03-20T15:01:00.000Z
 categories:
 - Style
 slug: look-4-chinese-style-jacket-creep-by
-thumbnail: https://78.media.tumblr.com/65cc784ff586a6b83e6f02719d9eaf0a/tumblr_n2kyiibLsi1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/65cc784ff586a6b83e6f02719d9eaf0a/tumblr_n2kyiibLsi1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/65cc784ff586a6b83e6f02719d9eaf0a/tumblr_n2kyiibLsi1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/1f0f3595247a44db53db84ce51a8c322/tumblr_n2kyiibLsi1rhrm24o1_1280.jpg

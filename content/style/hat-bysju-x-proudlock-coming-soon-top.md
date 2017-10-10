@@ -18,7 +18,7 @@ date: 2015-05-22T07:15:23.000Z
 categories:
 - Style
 slug: hat-bysju-x-proudlock-coming-soon-top
-thumbnail: https://78.media.tumblr.com/6f91600bae8bd19ddabeaabee2c4d97c/tumblr_nonjue8acK1rhrm24o1_r1_1280.jpg
+thumbnail: https://78.media.tumblr.com/6f91600bae8bd19ddabeaabee2c4d97c/tumblr_nonjue8acK1rhrm24o1_r1_540.jpg
 attachments:
 - https://78.media.tumblr.com/6f91600bae8bd19ddabeaabee2c4d97c/tumblr_nonjue8acK1rhrm24o1_r1_1280.jpg
 - https://78.media.tumblr.com/b868f1fc2f2713498faed534d83e40c1/tumblr_nonjue8acK1rhrm24o6_1280.jpg

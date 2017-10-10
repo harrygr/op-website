@@ -10,7 +10,7 @@ date: 2012-11-27T11:52:00.000Z
 categories:
 - Style
 slug: allsaints-mode-gilet-allsaints-belgrade-crew
-thumbnail: https://78.media.tumblr.com/86550a8454fda918630df596b48d1f64/tumblr_me5ac9nftd1rhrm24o1_r1_1280.jpg
+thumbnail: https://78.media.tumblr.com/86550a8454fda918630df596b48d1f64/tumblr_me5ac9nftd1rhrm24o1_r1_540.jpg
 attachments:
 - https://78.media.tumblr.com/86550a8454fda918630df596b48d1f64/tumblr_me5ac9nftd1rhrm24o1_r1_1280.jpg
 

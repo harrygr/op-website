@@ -17,7 +17,7 @@ date: 2016-09-09T16:42:03.000Z
 categories:
 - Style
 slug: jacket-ag-jeans-top-zara-jewellery
-thumbnail: https://78.media.tumblr.com/c02a8f7b86257f1fc5290ff47795fe6a/tumblr_od8x25hWTW1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/c02a8f7b86257f1fc5290ff47795fe6a/tumblr_od8x25hWTW1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/c02a8f7b86257f1fc5290ff47795fe6a/tumblr_od8x25hWTW1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/be7e786846f04da57c1b12147f81a0c9/tumblr_od8x25hWTW1rhrm24o2_1280.jpg

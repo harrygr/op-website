@@ -15,7 +15,7 @@ date: 2015-01-30T17:52:00.000Z
 categories:
 - Style
 slug: jacket-levis-vintage-jumper-french
-thumbnail: https://78.media.tumblr.com/0bff2d9aaeb409e5f4bc54268ac8c973/tumblr_nj04bz2WL01rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/0bff2d9aaeb409e5f4bc54268ac8c973/tumblr_nj04bz2WL01rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/0bff2d9aaeb409e5f4bc54268ac8c973/tumblr_nj04bz2WL01rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/a0d89deacf0fa793c0348b1604a41767/tumblr_nj04bz2WL01rhrm24o5_1280.jpg

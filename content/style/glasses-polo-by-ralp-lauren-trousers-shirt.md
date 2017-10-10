@@ -11,7 +11,7 @@ date: 2013-10-10T20:57:00.000Z
 categories:
 - Style
 slug: glasses-polo-by-ralp-lauren-trousers-shirt
-thumbnail: https://78.media.tumblr.com/cc47d088fac5dceaec35b3d279f5e935/tumblr_muh0vbIQHR1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/cc47d088fac5dceaec35b3d279f5e935/tumblr_muh0vbIQHR1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/cc47d088fac5dceaec35b3d279f5e935/tumblr_muh0vbIQHR1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/00ef3f99d1a41edf16f351a7d181096f/tumblr_muh0vbIQHR1rhrm24o2_1280.jpg

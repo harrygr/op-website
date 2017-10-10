@@ -8,7 +8,7 @@ date: 2014-08-22T15:45:00.000Z
 categories:
 - Style
 slug: sunglasses-saint-lauren-shirt-dundas
-thumbnail: https://78.media.tumblr.com/c47af65e44c2b50fb731c25a837a2f21/tumblr_napt35zjuo1rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/c47af65e44c2b50fb731c25a837a2f21/tumblr_napt35zjuo1rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/c47af65e44c2b50fb731c25a837a2f21/tumblr_napt35zjuo1rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/d79e263ac0a15caa382f877ffbb11403/tumblr_napt35zjuo1rhrm24o2_1280.jpg

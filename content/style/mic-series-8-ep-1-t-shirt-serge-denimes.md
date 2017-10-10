@@ -9,7 +9,7 @@ date: 2014-10-15T22:35:00.000Z
 categories:
 - Style
 slug: mic-series-8-ep-1-t-shirt-serge-denimes
-thumbnail: https://78.media.tumblr.com/c7db07da2547a0d72ebcd6bfadc3d848/tumblr_ndic39UK9H1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/c7db07da2547a0d72ebcd6bfadc3d848/tumblr_ndic39UK9H1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/c7db07da2547a0d72ebcd6bfadc3d848/tumblr_ndic39UK9H1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/61b5b35cd0234f2b97454892942522a3/tumblr_ndic39UK9H1rhrm24o2_1280.jpg

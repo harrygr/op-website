@@ -17,7 +17,7 @@ date: 2015-04-10T07:01:01.000Z
 categories:
 - Style
 slug: t-shirt-serge-denimes-vintage-stripe-tee
-thumbnail: https://78.media.tumblr.com/a38c801e3897434e7b5c4a41eb37522a/tumblr_nmjujnCD651rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/a38c801e3897434e7b5c4a41eb37522a/tumblr_nmjujnCD651rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/a38c801e3897434e7b5c4a41eb37522a/tumblr_nmjujnCD651rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/8f82122a47b20fddb1e001889df038c7/tumblr_nmjujnCD651rhrm24o9_1280.jpg

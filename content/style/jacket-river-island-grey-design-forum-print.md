@@ -15,7 +15,7 @@ date: 2015-03-19T08:15:42.000Z
 categories:
 - Style
 slug: jacket-river-island-grey-design-forum-print
-thumbnail: https://78.media.tumblr.com/cdffbcf345baf8313993c099d9e7fe53/tumblr_nld7yjo7WB1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/cdffbcf345baf8313993c099d9e7fe53/tumblr_nld7yjo7WB1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/cdffbcf345baf8313993c099d9e7fe53/tumblr_nld7yjo7WB1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/80e7015074c2d980190ec187e5914bfa/tumblr_nld7yjo7WB1rhrm24o3_1280.jpg

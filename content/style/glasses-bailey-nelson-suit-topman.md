@@ -19,7 +19,7 @@ date: 2017-06-30T11:00:26.000Z
 categories:
 - Style
 slug: glasses-bailey-nelson-suit-topman
-thumbnail: https://78.media.tumblr.com/5c0742ebd028ef9c0e8db3c81691adb0/tumblr_oscx8usFSK1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/5c0742ebd028ef9c0e8db3c81691adb0/tumblr_oscx8usFSK1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/5c0742ebd028ef9c0e8db3c81691adb0/tumblr_oscx8usFSK1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/7f7901d5ccbcc02d7244b64eea06955d/tumblr_oscx8usFSK1rhrm24o2_1280.jpg

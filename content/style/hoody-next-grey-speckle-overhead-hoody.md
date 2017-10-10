@@ -13,7 +13,7 @@ date: 2016-02-02T08:00:37.000Z
 categories:
 - Style
 slug: hoody-next-grey-speckle-overhead-hoody
-thumbnail: https://78.media.tumblr.com/04dfc143a33e6df33dbd496dbe27b216/tumblr_o1q5lsULX01rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/04dfc143a33e6df33dbd496dbe27b216/tumblr_o1q5lsULX01rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/04dfc143a33e6df33dbd496dbe27b216/tumblr_o1q5lsULX01rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/e708d4b4971cbd113798e9a4212a4bab/tumblr_o1q5lsULX01rhrm24o4_1280.jpg

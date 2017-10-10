@@ -9,7 +9,7 @@ date: 2014-11-21T10:00:00.000Z
 categories:
 - Style
 slug: hat-serge-denimes-beanie-necklace-serge
-thumbnail: https://78.media.tumblr.com/5b83b0b994f68d614a137dfffe2deff6/tumblr_nfanyxTq8E1rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/5b83b0b994f68d614a137dfffe2deff6/tumblr_nfanyxTq8E1rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/5b83b0b994f68d614a137dfffe2deff6/tumblr_nfanyxTq8E1rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/ab3712678e1f3d57472e20f37e292a2e/tumblr_nfanyxTq8E1rhrm24o5_1280.jpg

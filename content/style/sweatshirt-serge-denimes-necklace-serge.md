@@ -13,7 +13,7 @@ date: 2016-06-21T07:00:46.000Z
 categories:
 - Style
 slug: sweatshirt-serge-denimes-necklace-serge
-thumbnail: https://78.media.tumblr.com/16af885ea9da316c4e3c189bc35fdff2/tumblr_o8tuyc7SRk1rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/16af885ea9da316c4e3c189bc35fdff2/tumblr_o8tuyc7SRk1rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/16af885ea9da316c4e3c189bc35fdff2/tumblr_o8tuyc7SRk1rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/dbac8ab0a87e33f784c9f0e49f38d95b/tumblr_o8tuyc7SRk1rhrm24o1_1280.jpg

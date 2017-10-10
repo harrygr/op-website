@@ -7,7 +7,7 @@ date: 2014-04-25T14:35:04.000Z
 categories:
 - Style
 slug: glasses-retro-super-future-jewellery-serge
-thumbnail: https://78.media.tumblr.com/5338f84982c66b2e42aec11efcfbd4df/tumblr_n4lcig4nBb1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/5338f84982c66b2e42aec11efcfbd4df/tumblr_n4lcig4nBb1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/5338f84982c66b2e42aec11efcfbd4df/tumblr_n4lcig4nBb1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/a233c2a080cbaf30f45550724d2114fc/tumblr_n4lcig4nBb1rhrm24o2_1280.jpg

@@ -9,7 +9,7 @@ date: 2013-07-26T10:34:00.000Z
 categories:
 - Style
 slug: cap-caviar-cartel-sunglasses-redgreen-vest
-thumbnail: https://78.media.tumblr.com/df24c984c193a1656e0ad1d0a5b9127b/tumblr_mqjhcuhcP11rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/df24c984c193a1656e0ad1d0a5b9127b/tumblr_mqjhcuhcP11rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/df24c984c193a1656e0ad1d0a5b9127b/tumblr_mqjhcuhcP11rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/5b91a321a54fa1bb9f0045552c7f0787/tumblr_mqjhcuhcP11rhrm24o2_1280.jpg

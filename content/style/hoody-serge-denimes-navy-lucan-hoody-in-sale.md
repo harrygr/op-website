@@ -14,7 +14,7 @@ date: 2015-11-03T08:00:35.000Z
 categories:
 - Style
 slug: hoody-serge-denimes-navy-lucan-hoody-in-sale
-thumbnail: https://78.media.tumblr.com/3cf6d2bc9a788f4a247cd3806d85cb06/tumblr_nx6v26DRgy1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/3cf6d2bc9a788f4a247cd3806d85cb06/tumblr_nx6v26DRgy1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/3cf6d2bc9a788f4a247cd3806d85cb06/tumblr_nx6v26DRgy1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/5d458f913b315f9fb12ccf6d4815bb94/tumblr_nx6v26DRgy1rhrm24o5_1280.jpg

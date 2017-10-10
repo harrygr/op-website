@@ -8,7 +8,7 @@ date: 2014-04-11T11:07:00.000Z
 categories:
 - Style
 slug: top-serge-denimes-concept-vest-10
-thumbnail: https://78.media.tumblr.com/757afd8d48938ab07f19f07861c4a5e8/tumblr_n3v5k0mU9g1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/757afd8d48938ab07f19f07861c4a5e8/tumblr_n3v5k0mU9g1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/757afd8d48938ab07f19f07861c4a5e8/tumblr_n3v5k0mU9g1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/9eca7db801ca33ce454d6319b350ee97/tumblr_n3v5k0mU9g1rhrm24o3_1280.jpg

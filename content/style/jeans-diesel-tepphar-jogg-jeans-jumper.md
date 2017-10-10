@@ -13,7 +13,7 @@ date: 2013-12-06T14:05:00.000Z
 categories:
 - Style
 slug: jeans-diesel-tepphar-jogg-jeans-jumper
-thumbnail: https://78.media.tumblr.com/4b1a143a7609c18e585e5b0f80f4e865/tumblr_mxe1sxtqBL1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/4b1a143a7609c18e585e5b0f80f4e865/tumblr_mxe1sxtqBL1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/4b1a143a7609c18e585e5b0f80f4e865/tumblr_mxe1sxtqBL1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/3ce143e3f30e7a5fad21a3047b78db4b/tumblr_mxe1sxtqBL1rhrm24o2_1280.jpg

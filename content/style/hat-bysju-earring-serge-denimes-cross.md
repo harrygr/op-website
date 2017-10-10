@@ -9,7 +9,7 @@ date: 2014-12-03T17:05:00.000Z
 categories:
 - Style
 slug: hat-bysju-earring-serge-denimes-cross
-thumbnail: https://78.media.tumblr.com/d1787119c305dff84d5dc15e8e58ea42/tumblr_ng0ngnr8Cj1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/d1787119c305dff84d5dc15e8e58ea42/tumblr_ng0ngnr8Cj1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/d1787119c305dff84d5dc15e8e58ea42/tumblr_ng0ngnr8Cj1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/be263ada980066989231f63451521b0a/tumblr_ng0ngnr8Cj1rhrm24o2_1280.jpg

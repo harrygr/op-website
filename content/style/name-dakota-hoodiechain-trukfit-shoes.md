@@ -14,7 +14,7 @@ date: 2013-04-16T20:47:00.000Z
 categories:
 - Style
 slug: name-dakota-hoodiechain-trukfit-shoes
-thumbnail: https://78.media.tumblr.com/396b307e14284b2b1143811f4ecaa45b/tumblr_mld8evS3wO1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/396b307e14284b2b1143811f4ecaa45b/tumblr_mld8evS3wO1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/396b307e14284b2b1143811f4ecaa45b/tumblr_mld8evS3wO1rhrm24o1_1280.jpg
 

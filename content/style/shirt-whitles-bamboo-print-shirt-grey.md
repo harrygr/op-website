@@ -13,7 +13,7 @@ date: 2015-06-24T07:00:57.000Z
 categories:
 - Style
 slug: shirt-whitles-bamboo-print-shirt-grey
-thumbnail: https://78.media.tumblr.com/ce7be8e4943f3bc888c8f846d26b964e/tumblr_nqb1b3FQXJ1rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/ce7be8e4943f3bc888c8f846d26b964e/tumblr_nqb1b3FQXJ1rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/ce7be8e4943f3bc888c8f846d26b964e/tumblr_nqb1b3FQXJ1rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/3d4e9bf792f8aee6429043981b198c7f/tumblr_nqb1b3FQXJ1rhrm24o6_1280.jpg

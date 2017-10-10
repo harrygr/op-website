@@ -12,7 +12,7 @@ date: 2014-04-28T21:30:00.000Z
 categories:
 - Style
 slug: 2-glasses-tom-davies-bespoke-top-serge
-thumbnail: https://78.media.tumblr.com/8650d88259d3cabeb5d727eda242fddd/tumblr_n2du99oTyD1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/8650d88259d3cabeb5d727eda242fddd/tumblr_n2du99oTyD1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/8650d88259d3cabeb5d727eda242fddd/tumblr_n2du99oTyD1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4d5238c86290ceb5afb34c0ae6344cf9/tumblr_n2du99oTyD1rhrm24o2_1280.jpg

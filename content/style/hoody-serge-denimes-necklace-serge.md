@@ -14,7 +14,7 @@ date: 2016-06-20T07:00:34.000Z
 categories:
 - Style
 slug: hoody-serge-denimes-necklace-serge
-thumbnail: https://78.media.tumblr.com/bc26b92e2b87afdd1a8b29e5ee01bb22/tumblr_o8tutzx9KX1rhrm24o3_1280.jpg
+thumbnail: https://78.media.tumblr.com/bc26b92e2b87afdd1a8b29e5ee01bb22/tumblr_o8tutzx9KX1rhrm24o3_540.jpg
 attachments:
 - https://78.media.tumblr.com/bc26b92e2b87afdd1a8b29e5ee01bb22/tumblr_o8tutzx9KX1rhrm24o3_1280.jpg
 - https://78.media.tumblr.com/c5d26c6071c8ccb30ca24e20e169f1c7/tumblr_o8tutzx9KX1rhrm24o4_1280.jpg

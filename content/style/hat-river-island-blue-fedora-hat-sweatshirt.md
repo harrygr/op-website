@@ -17,7 +17,7 @@ date: 2015-03-18T08:15:27.000Z
 categories:
 - Style
 slug: hat-river-island-blue-fedora-hat-sweatshirt
-thumbnail: https://78.media.tumblr.com/a7fcf12369d01922b47df0114895efb4/tumblr_nld5xo21J31rhrm24o2_1280.jpg
+thumbnail: https://78.media.tumblr.com/a7fcf12369d01922b47df0114895efb4/tumblr_nld5xo21J31rhrm24o2_540.jpg
 attachments:
 - https://78.media.tumblr.com/a7fcf12369d01922b47df0114895efb4/tumblr_nld5xo21J31rhrm24o2_1280.jpg
 - https://78.media.tumblr.com/29b2fc529bfe34072443bf29b5c8a68b/tumblr_nld5xo21J31rhrm24o3_1280.jpg

@@ -12,7 +12,7 @@ date: 2016-02-05T08:00:28.000Z
 categories:
 - Style
 slug: suit-next-burgundy-flannel-skinny-fit-suit
-thumbnail: https://78.media.tumblr.com/288f2f0735d4a00ca1fa39963ace0683/tumblr_o1zf3p3BTI1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/288f2f0735d4a00ca1fa39963ace0683/tumblr_o1zf3p3BTI1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/288f2f0735d4a00ca1fa39963ace0683/tumblr_o1zf3p3BTI1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/21e5ccd409f4ce1f952553cfaf760f64/tumblr_o1zf3p3BTI1rhrm24o2_1280.jpg

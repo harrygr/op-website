@@ -15,7 +15,7 @@ date: 2015-04-17T07:00:40.000Z
 categories:
 - Style
 slug: hat-oliver-proudlock-x-bysju-coming-soon
-thumbnail: https://78.media.tumblr.com/8251709ba3da9698c01074428b355758/tumblr_nmt1xdzE1E1rhrm24o6_1280.jpg
+thumbnail: https://78.media.tumblr.com/8251709ba3da9698c01074428b355758/tumblr_nmt1xdzE1E1rhrm24o6_540.jpg
 attachments:
 - https://78.media.tumblr.com/8251709ba3da9698c01074428b355758/tumblr_nmt1xdzE1E1rhrm24o6_1280.jpg
 - https://78.media.tumblr.com/fcfd1bde9f7835e80e3cc681fecd1a63/tumblr_nmt1xdzE1E1rhrm24o7_1280.jpg

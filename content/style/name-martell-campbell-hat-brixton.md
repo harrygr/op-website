@@ -15,7 +15,7 @@ date: 2013-06-03T13:10:38.000Z
 categories:
 - Style
 slug: name-martell-campbell-hat-brixton
-thumbnail: https://78.media.tumblr.com/ba2f9ef663dc014cb798e8028681058d/tumblr_mntj9qDCdX1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/ba2f9ef663dc014cb798e8028681058d/tumblr_mntj9qDCdX1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/ba2f9ef663dc014cb798e8028681058d/tumblr_mntj9qDCdX1rhrm24o1_1280.jpg
 

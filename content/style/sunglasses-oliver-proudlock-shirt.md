@@ -13,7 +13,7 @@ date: 2015-08-21T12:50:31.000Z
 categories:
 - Style
 slug: sunglasses-oliver-proudlock-shirt
-thumbnail: https://78.media.tumblr.com/0ca04daa1bdd2ebc8bec8a4009324ef1/tumblr_ntfnjx8c091rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/0ca04daa1bdd2ebc8bec8a4009324ef1/tumblr_ntfnjx8c091rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/0ca04daa1bdd2ebc8bec8a4009324ef1/tumblr_ntfnjx8c091rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/56db1132e1cbcf3dc4ac0dd50f6d7f22/tumblr_ntfnjx8c091rhrm24o2_1280.jpg

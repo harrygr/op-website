@@ -7,7 +7,7 @@ date: 2014-04-07T21:31:00.000Z
 categories:
 - Style
 slug: look-2-top-serge-denimes-bikini-girls-rio
-thumbnail: https://78.media.tumblr.com/08c2f9021bde7c571eccfb0c05ed1a34/tumblr_n2a418boVe1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/08c2f9021bde7c571eccfb0c05ed1a34/tumblr_n2a418boVe1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/08c2f9021bde7c571eccfb0c05ed1a34/tumblr_n2a418boVe1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/c8edd167c30fab1adcd30afed97d3643/tumblr_n2a418boVe1rhrm24o2_1280.jpg

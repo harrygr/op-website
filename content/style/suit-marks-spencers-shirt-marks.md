@@ -14,7 +14,7 @@ date: 2016-08-05T07:00:39.000Z
 categories:
 - Style
 slug: suit-marks-spencers-shirt-marks
-thumbnail: https://78.media.tumblr.com/02c744dca735ecb65e69941ce21bda9c/tumblr_obdwup4aRL1rhrm24o5_1280.jpg
+thumbnail: https://78.media.tumblr.com/02c744dca735ecb65e69941ce21bda9c/tumblr_obdwup4aRL1rhrm24o5_540.jpg
 attachments:
 - https://78.media.tumblr.com/02c744dca735ecb65e69941ce21bda9c/tumblr_obdwup4aRL1rhrm24o5_1280.jpg
 - https://78.media.tumblr.com/8c00bb4696453a1612c67353f34a3cb5/tumblr_obdwup4aRL1rhrm24o1_1280.jpg

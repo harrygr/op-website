@@ -13,7 +13,7 @@ date: 2015-01-09T12:28:00.000Z
 categories:
 - Style
 slug: hat-bysju-glasses-tom-davies-bespoke-for
-thumbnail: https://78.media.tumblr.com/02af9be284debc6d5f96dd5864e27969/tumblr_nhwtc5o5v71rhrm24o4_1280.jpg
+thumbnail: https://78.media.tumblr.com/02af9be284debc6d5f96dd5864e27969/tumblr_nhwtc5o5v71rhrm24o4_540.jpg
 attachments:
 - https://78.media.tumblr.com/02af9be284debc6d5f96dd5864e27969/tumblr_nhwtc5o5v71rhrm24o4_1280.jpg
 - https://78.media.tumblr.com/754880ecd23907989bf9bcab5c29e72c/tumblr_nhwtc5o5v71rhrm24o6_1280.jpg

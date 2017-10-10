@@ -9,7 +9,7 @@ date: 2014-11-28T15:18:00.000Z
 categories:
 - Style
 slug: hat-bysju-glasses-indivijual-jacket
-thumbnail: https://78.media.tumblr.com/55cfbe2746ba4e9100ea1836d2fb8112/tumblr_nfr97gS4GU1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/55cfbe2746ba4e9100ea1836d2fb8112/tumblr_nfr97gS4GU1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/55cfbe2746ba4e9100ea1836d2fb8112/tumblr_nfr97gS4GU1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/5b4630514480c8f684a9fb956e3b081c/tumblr_nfr97gS4GU1rhrm24o4_1280.jpg

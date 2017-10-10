@@ -26,7 +26,7 @@ date: 2017-08-04T11:18:45.000Z
 categories:
 - Style
 slug: shirt-hm-t-shirt-sunspel-jewellery
-thumbnail: https://78.media.tumblr.com/33a276a7679b126e6536fc2e38ac1b91/tumblr_ou5rfdljpr1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/33a276a7679b126e6536fc2e38ac1b91/tumblr_ou5rfdljpr1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/33a276a7679b126e6536fc2e38ac1b91/tumblr_ou5rfdljpr1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/c1eb1f8023736d0fce3f142afef444cc/tumblr_ou5rfdljpr1rhrm24o2_1280.jpg

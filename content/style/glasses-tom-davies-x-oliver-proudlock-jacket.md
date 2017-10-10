@@ -14,7 +14,7 @@ date: 2015-10-06T07:16:07.000Z
 categories:
 - Style
 slug: glasses-tom-davies-x-oliver-proudlock-jacket
-thumbnail: https://78.media.tumblr.com/c907615f74cc26d84c06c33dfe8fdaa2/tumblr_nvliqmERoX1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/c907615f74cc26d84c06c33dfe8fdaa2/tumblr_nvliqmERoX1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/c907615f74cc26d84c06c33dfe8fdaa2/tumblr_nvliqmERoX1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/b533926221aaf3e752f4e28ec9c70f51/tumblr_nvliqmERoX1rhrm24o2_1280.jpg

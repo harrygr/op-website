@@ -10,7 +10,7 @@ date: 2013-10-09T16:54:00.000Z
 categories:
 - Style
 slug: jumper-u-glasses-moslie-tribes
-thumbnail: https://78.media.tumblr.com/f2adc21bdad8ac901bc7b755480db042/tumblr_mue8l20Uni1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f2adc21bdad8ac901bc7b755480db042/tumblr_mue8l20Uni1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f2adc21bdad8ac901bc7b755480db042/tumblr_mue8l20Uni1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/d03c651fa48b36448677e515d02ad42d/tumblr_mue8l20Uni1rhrm24o5_1280.jpg

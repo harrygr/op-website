@@ -9,7 +9,7 @@ date: 2014-12-01T15:22:00.000Z
 categories:
 - Style
 slug: glasses-indivijual-jacket-diesel-varsity
-thumbnail: https://78.media.tumblr.com/36203c790d1110f541339c9d857575f8/tumblr_nfwtcxXgIW1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/36203c790d1110f541339c9d857575f8/tumblr_nfwtcxXgIW1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/36203c790d1110f541339c9d857575f8/tumblr_nfwtcxXgIW1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/cc42fc69380d526a6db21c3f6861c83e/tumblr_nfwtcxXgIW1rhrm24o2_1280.jpg

@@ -14,7 +14,7 @@ date: 2013-11-08T15:45:00.000Z
 categories:
 - Style
 slug: clothing-jewellery-serge-denimes-trackies
-thumbnail: https://78.media.tumblr.com/a3d7e2fa415f882515744e3aa35d94d9/tumblr_mvybrpV1vT1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/a3d7e2fa415f882515744e3aa35d94d9/tumblr_mvybrpV1vT1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/a3d7e2fa415f882515744e3aa35d94d9/tumblr_mvybrpV1vT1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4136427e5f5156ebd9612ffc3bac6938/tumblr_mvybrpV1vT1rhrm24o2_1280.jpg

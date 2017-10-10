@@ -10,7 +10,7 @@ date: 2012-11-28T12:42:00.000Z
 categories:
 - Style
 slug: allsaints-guard-beanie-allsaints-guard-crew
-thumbnail: https://78.media.tumblr.com/b93131dd1059d6025eaf47f71cdac609/tumblr_me77be8SBE1rhrm24o1_r1_1280.jpg
+thumbnail: https://78.media.tumblr.com/b93131dd1059d6025eaf47f71cdac609/tumblr_me77be8SBE1rhrm24o1_r1_540.jpg
 attachments:
 - https://78.media.tumblr.com/b93131dd1059d6025eaf47f71cdac609/tumblr_me77be8SBE1rhrm24o1_r1_1280.jpg
 

@@ -7,7 +7,7 @@ date: 2014-05-30T15:16:00.000Z
 categories:
 - Style
 slug: jewellery-serge-denimes-watch-rotary
-thumbnail: https://78.media.tumblr.com/fb188732f32cf5849ff24d7e6f045c25/tumblr_n6e7qom44Z1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/fb188732f32cf5849ff24d7e6f045c25/tumblr_n6e7qom44Z1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/fb188732f32cf5849ff24d7e6f045c25/tumblr_n6e7qom44Z1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/45cdd4f541a59f3195b2b20eb4d5a6e7/tumblr_n6e7qom44Z1rhrm24o2_1280.jpg

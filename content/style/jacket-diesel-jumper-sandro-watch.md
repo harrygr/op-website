@@ -14,7 +14,7 @@ date: 2015-03-24T10:13:16.000Z
 categories:
 - Style
 slug: jacket-diesel-jumper-sandro-watch
-thumbnail: https://78.media.tumblr.com/eebf62fbc243a7fc924e2886913e1a6d/tumblr_nlpoe5h41j1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/eebf62fbc243a7fc924e2886913e1a6d/tumblr_nlpoe5h41j1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/eebf62fbc243a7fc924e2886913e1a6d/tumblr_nlpoe5h41j1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/e13a27f9367957382433d282a68c1e78/tumblr_nlpoe5h41j1rhrm24o2_1280.jpg

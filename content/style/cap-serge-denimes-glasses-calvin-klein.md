@@ -9,7 +9,7 @@ date: 2014-05-02T16:44:00.000Z
 categories:
 - Style
 slug: cap-serge-denimes-glasses-calvin-klein
-thumbnail: https://78.media.tumblr.com/2bfe138a78179590328183d2844b4c6a/tumblr_n4yh5slaxJ1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/2bfe138a78179590328183d2844b4c6a/tumblr_n4yh5slaxJ1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/2bfe138a78179590328183d2844b4c6a/tumblr_n4yh5slaxJ1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/5f7ebde38b0bcc3fb5702855127ae397/tumblr_n4yh5slaxJ1rhrm24o4_1280.jpg

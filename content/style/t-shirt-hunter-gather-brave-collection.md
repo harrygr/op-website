@@ -13,7 +13,7 @@ date: 2013-11-25T14:58:00.000Z
 categories:
 - Style
 slug: t-shirt-hunter-gather-brave-collection
-thumbnail: https://78.media.tumblr.com/344b898e9ddfa0cb3873f4f72e23c86a/tumblr_mwtiez1tUL1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/344b898e9ddfa0cb3873f4f72e23c86a/tumblr_mwtiez1tUL1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/344b898e9ddfa0cb3873f4f72e23c86a/tumblr_mwtiez1tUL1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/4c49a1251b761d2e7bec20ded0557f1b/tumblr_mwtiez1tUL1rhrm24o2_1280.jpg

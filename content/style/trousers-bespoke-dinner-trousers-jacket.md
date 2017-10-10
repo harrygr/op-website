@@ -7,7 +7,7 @@ date: 2014-02-07T14:54:00.000Z
 categories:
 - Style
 slug: trousers-bespoke-dinner-trousers-jacket
-thumbnail: https://78.media.tumblr.com/f23c3625277e6d7325e46ea5781ac519/tumblr_n0ms25RnjG1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/f23c3625277e6d7325e46ea5781ac519/tumblr_n0ms25RnjG1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/f23c3625277e6d7325e46ea5781ac519/tumblr_n0ms25RnjG1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/d51b87ba0b2cb4a8e05ddb035f746ff5/tumblr_n0ms25RnjG1rhrm24o2_1280.jpg

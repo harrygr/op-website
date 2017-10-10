@@ -21,7 +21,7 @@ date: 2017-07-21T07:00:16.000Z
 categories:
 - Style
 slug: jewellery-serge-denimes-shirt-double
-thumbnail: https://78.media.tumblr.com/601cd841dda9d07ae0ba9edf2d597b55/tumblr_ote7zlPllE1rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/601cd841dda9d07ae0ba9edf2d597b55/tumblr_ote7zlPllE1rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/601cd841dda9d07ae0ba9edf2d597b55/tumblr_ote7zlPllE1rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/e7c6e8079b00b8e67c7182c18295c121/tumblr_ote7zlPllE1rhrm24o2_1280.jpg

@@ -12,7 +12,7 @@ date: 2016-02-12T12:29:48.000Z
 categories:
 - Style
 slug: jacket-asos-t-shirt-serge-denimes
-thumbnail: https://78.media.tumblr.com/c040839687262534e697c43cd3d70cd4/tumblr_o2fp2oNxW81rhrm24o1_1280.jpg
+thumbnail: https://78.media.tumblr.com/c040839687262534e697c43cd3d70cd4/tumblr_o2fp2oNxW81rhrm24o1_540.jpg
 attachments:
 - https://78.media.tumblr.com/c040839687262534e697c43cd3d70cd4/tumblr_o2fp2oNxW81rhrm24o1_1280.jpg
 - https://78.media.tumblr.com/d098c971faec43c3bfa902ed1c8bd005/tumblr_o2fp2oNxW81rhrm24o2_1280.jpg
