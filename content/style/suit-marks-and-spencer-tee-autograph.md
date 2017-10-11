@@ -1,5 +1,5 @@
 ---
-title: undefined
+title: Style 09/10/2017
 tags:
 - proudlock
 - proudlockstyle
@@ -28,10 +28,10 @@ attachments:
 
 ---
 
-Suit - Marks and Spencer 
+Suit - Marks and Spencer
 
-  Tee - Autograph  
+  Tee - Autograph
 
-  Jewellery - Serge DeNimes 
+  Jewellery - Serge DeNimes
 
   Shoes - Frank Wright

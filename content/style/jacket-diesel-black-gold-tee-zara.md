@@ -1,5 +1,5 @@
 ---
-title: undefined
+title: Style 06/10/2017
 tags:
 - proudlock
 - proudlockstyle
@@ -33,12 +33,12 @@ attachments:
 
 ---
 
-Jacket - Diesel Black Gold 
+Jacket - Diesel Black Gold
 
-  Tee - Zara  
+  Tee - Zara
 
-  Jewellery - Serge DeNimes  
+  Jewellery - Serge DeNimes
 
-  Trousers - Diesel Black Gold 
+  Trousers - Diesel Black Gold
 
   Shoes - Diesel
