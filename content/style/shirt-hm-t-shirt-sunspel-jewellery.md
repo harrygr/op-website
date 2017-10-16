@@ -21,8 +21,7 @@ tags:
 - madeincheslea
 - made in chelsea
 - h&m
-
-date: 2017-08-04T11:18:45.000Z
+date: 2017-08-04 11:18:45 +0000
 categories:
 - Style
 slug: shirt-hm-t-shirt-sunspel-jewellery
@@ -36,12 +35,15 @@ attachments:
 
 ---
 
-Shirt - H&M 
 
-  T-shirt - Sunspel 
+This weeks look of the week is a combination of pieces from H&M, Sunspel, Serge DeNimes, and G-Star Raw. I have been looking for some nice slim light weight tan chinos for a while now, and these from Sunspel right on the money. Teamed up with the super soft white tee, and then finished with the collarless denim shirt from H&M. I love the green military boots from G-Star Raw that compliment the tan chinos, and blue denim shirt.
 
-  Jewellery - Serge DeNimes 
+Shirt - H&M
 
-  Trousers - Sunspel 
+T-shirt - Sunspel
 
-  Shoes - G-Star Raw
+Jewellery - Serge DeNimes
+
+Trousers - Sunspel
+
+Shoes - G-Star Raw
