@@ -9,9 +9,14 @@ fields:
 - type: datetime
   name: date
   label: Date
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: The main image for the style post
 - type: image_gallery
   name: attachments
   label: Images
+  description: The rest of the images
 - name: tags
   label: Tags
   type: tag_list
@@ -27,11 +32,3 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: file
-  name: thumbnail
-  label: Thumbnail
-  description: The main image for the style post
-- type: image_gallery
-  name: attachments
-  label: Images
-  description: The rest of the images
