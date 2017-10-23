@@ -27,8 +27,11 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: thumbnail
+- type: file
+  name: thumbnail
   label: Thumbnail
-  type: text
-  hidden: false
-  default: ''
+  description: The main image for the style post
+- type: image_gallery
+  name: attachments
+  label: Images
+  description: The rest of the images
