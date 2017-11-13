@@ -6,7 +6,7 @@ tags:
 - madeinchelsea
 - diesel jeans
 - dieselblackgold
-- streewear
+- streetwear
 - streetfashion
 - streetphotography
 - streetstyle
@@ -35,10 +35,10 @@ attachments:
 
 Jacket - Diesel Black Gold
 
-  Tee - Zara
+Tee - Zara
 
-  Jewellery - Serge DeNimes
+Jewellery - Serge DeNimes
 
-  Trousers - Diesel Black Gold
+Trousers - Diesel Black Gold
 
-  Shoes - Diesel
+Shoes - Diesel
