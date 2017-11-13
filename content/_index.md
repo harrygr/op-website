@@ -18,7 +18,7 @@ tiles:
   url: "/categories/fitness"
 - imageUrl: "/media/home/style.jpg"
   text: Style
-  url: http://proudlockstyle.com
+  url: "/style"
 - imageUrl: "/media/home/travel.jpg"
   text: Travel
   url: "/categories/travel"
