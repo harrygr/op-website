@@ -12,7 +12,7 @@ url = "/contact/"
 weight = 7
 [[menu.main]]
 name = "Shop"
-url = "http://sergedenimes.com"
+url = "/shop"
 weight = 6
 [[menu.main]]
 identifier = "style"

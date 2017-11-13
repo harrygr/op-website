@@ -24,6 +24,7 @@
 
   {{ partial "footer.html" . }}
   </div>
-</body>
 <script src="/dist/app.bundle.js" async></script>
+{{ block "scripts" . }}{{ end }}
+</body>
 </html>
