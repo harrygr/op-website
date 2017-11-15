@@ -1,5 +1,5 @@
 ---
-title: DRESSED DOWN NAVY SUIT
+title: DRESSED | DOWN | SUIT
 tags:
 - proudlock
 - proudlockstyle
