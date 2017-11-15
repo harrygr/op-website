@@ -1,5 +1,5 @@
 ---
-title: Style 09/10/2017
+title: DRESSED DOWN NAVY SUIT
 tags:
 - proudlock
 - proudlockstyle
