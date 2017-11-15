@@ -5,17 +5,9 @@ date = "2017-10-20T16:36:15Z"
 slug = ""
 tags = ["proudlockstyle", "sergedenimes", "levis", "adidas", "ultraboosts", "proudlock", "madeinchelsea", "mensstyle", "streetstyle", "streetwear", "mensjewellery", "silverjewellery", "crossnecklace", "zaraman"]
 thumbnail = "/uploads/2017/10/23/tumblr_oy2mq2PUm41rhrm24o1_540.jpg"
-title = "Comfy | Cropped | Cords"
+title = "COMFY | CROPPED | CORDS"
 
 +++
-This week i have teamed up so some raw edge bottom tan cords from Urban Outfitters, with a white linen t shirt from Zara, and layered for the warmth with a shearling lined navy cord and denim mixed Levis jacket. As always completing the look by accessorising with Serge DeNimes jewellery, going with the simple gold plated gold necklace, and an array of the silver rings. The for footwear i have gone with my Adidas Ultra Boost sneakers in white. 
+This week i have teamed up so some raw edge bottom tan cords from Urban Outfitters, with a white linen t shirt from Zara, and layered for the warmth with a shearling lined navy cord and denim mixed Levis jacket. As always completing the look by accessorising with Serge DeNimes jewellery, going with the simple gold plated gold necklace, and an array of the silver rings. The for footwear i have gone with my Adidas Ultra Boost sneakers in white.
 
-JACKET - Levis
-
-T-SHIRT - Zara
-
-JEWELLERY - Serge DeNimes
-
-TROUSERS - Urban Outfitters
-
-TRAINERS - Adidas Ultra Boosts
+JACKET - Levis | T-SHIRT - Zara | JEWELLERY - Serge DeNimes | TROUSERS - Urban Outfitters | TRAINERS - Adidas Ultra Boosts
