@@ -28,10 +28,4 @@ attachments:
 ---
 This week i have gone for a more formal look with this navy suit from Marks and Spencer. However i have dressed it down with a plain white tee from David Gandys range for Autograph, and completed it with the Gold Padlock Pendant from Serge DeNimes. Glasses are bespoke from Tom Davies, and the bro suede desert boots are from Frank Wright. The suit is a nice single breasted slim fit, this contemporary cut allows you to work this dressed down suit look.
 
-SUIT - Marks and Spencer
-
-TEE - Autograph
-
-JEWELLERY - Serge DeNimes
-
-SHOES - Frank Wright
+SUIT - Marks and Spencer | TEE - Autograph | JEWELLERY - Serge DeNimes | SHOES - Frank Wright
