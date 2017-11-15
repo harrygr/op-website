@@ -14,8 +14,7 @@ tags:
 - streetphotography
 - streetstyle
 - mensshoes
-
-date: 2017-10-09T07:10:56.000Z
+date: 2017-10-09 07:10:56 +0000
 categories:
 - Style
 slug: suit-marks-and-spencer-tee-autograph
@@ -27,11 +26,12 @@ attachments:
 - https://78.media.tumblr.com/8d84f955c29fc70843d2797547ec2f17/tumblr_oxeq0r7p1O1rhrm24o4_1280.jpg
 
 ---
+This week i have gone for a more formal look with this navy suit from Marks and Spencer. However i have dressed it down with a plain white tee from David Gandys range for Autograph, and completed it with the Gold Padlock Pendant from Serge DeNimes. Glasses are bespoke from Tom Davies, and the bro suede desert boots are from Frank Wright. The suit is a nice single breasted slim fit, this contemporary cut allows you to work this dressed down suit look.
 
-Suit - Marks and Spencer
+SUIT - Marks and Spencer
 
-  Tee - Autograph
+TEE - Autograph
 
-  Jewellery - Serge DeNimes
+JEWELLERY - Serge DeNimes
 
-  Shoes - Frank Wright
+SHOES - Frank Wright
