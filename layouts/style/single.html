@@ -1,17 +1,28 @@
 {{ define "main" }}
-  <div class="ph4 pt2 mt5-ns mw8-5 center">
-    <article class="serif">
-      <section class="fw2 lh-copy post-content">
-        {{ .Content }}
-      </section>
+<div class="ph4 pt2 mt5-ns mw8-5 center">
+  <article class="serif">
+    <section class="fw2 lh-copy post-content">
+      {{ .Content }}
+    </section>
 
-      <section class="center mw7" >
-        <op-image-wall :images='[{{ range .Params.attachments }}"{{ . }}",{{ end}}]' style="margin: 0 -.5rem;"></op-image-wall>
-      </section>
-    </article>
-  </div>
+    <section class="center mw7">
+
+      {{ $n := (len .Params.attachments)}}
+      {{ range $index, $element := .Params.attachments }}
+      {{ $even := eq (mod $index 2) 0 }}
+      {{ if not $even }}<div class="flex">{{ end }}
+        <a class="pa2 db" href="{{ $element }}" target="_blank">
+          <img src="{{ $element }}" class="db w-100 h-auto" />
+        </a>
+        {{ if and ($even) (ne $index 0) }}</div>{{ end }}
+        {{ if eq (sub $n $index) 1 }}</div>{{ end }}
+
+      {{ end }}
+    </section>
+  </article>
+</div>
 {{ end }}
 
-{{ define "scripts" }}
-<script type="text/javascript">!function(d,s,id){var e, p = /^http:/.test(d.location) ? 'http' : 'https';if(!d.getElementById(id)) {e = d.createElement(s);e.id = id;e.src = p + '://' + 'widgets.rewardstyle.com' + '/js/shopthepost.js';d.body.appendChild(e);}if(typeof window.__stp === 'object') if(d.readyState === 'complete') {window.__stp.init();}}(document, 'script', 'shopthepost-script');</script>
-{{ end }}
+  {{ define "scripts" }}
+  <script type="text/javascript">!function(d,s,id){var e, p = /^http:/.test(d.location) ? 'http' : 'https';if(!d.getElementById(id)) {e = d.createElement(s);e.id = id;e.src = p + '://' + 'widgets.rewardstyle.com' + '/js/shopthepost.js';d.body.appendChild(e);}if(typeof window.__stp === 'object') if(d.readyState === 'complete') {window.__stp.init();}}(document, 'script', 'shopthepost-script');</script>
+  {{ end }}
