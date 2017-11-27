@@ -49,11 +49,11 @@
 {{ range $index, $element := first 2 (where .Data.Pages "Section" "in" (slice "style" "post")) }}
   <div class="cf ph2 flex-ns mb3">
       <div
-        class="w-33 h5 w-33-ns w-100 cover bg-center {{ if eq  (mod $index 2) 0 }}order-5-ns{{ end }}"
+        class="w-33 h5 w-33-ns w-100 cover bg-center {{ if eq (mod $index 2) 1 }}order-5-ns{{ end }}"
         style="background-image: url('{{ .Params.thumbnail }}')"
       >
     </div>
-      <div class="flex-1 xv-center {{ if eq  (mod $index 2) 0 }}pr3-ns pr4-l{{ else }}pl3-ns pl4-l{{ end }}">
+      <div class="flex-1 {{ if eq (mod $index 2) 1 }}pr3-ns pr4-l{{ else }}pl3-ns pl4-l{{ end }}">
         <a href="{{ .URL }}" class="link black">
           <h2 class="f3 mb2 mt0 fw4 tracked-tight dim">
             {{ .Title }}
