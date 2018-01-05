@@ -1,10 +1,10 @@
 +++
-attachments = ["/uploads/2018/01/05/_MGL5425.JPG", "/uploads/2018/01/05/_MGL5436.JPG", "/uploads/2018/01/05/_MGL5437.JPG"]
-categories = []
+attachments = ["/uploads/2018/01/05/_MGL5416.JPG", "/uploads/2018/01/05/_MGL5436.JPG", "/uploads/2018/01/05/_MGL5437.JPG"]
+categories = ["menswear", "streetwear", "streetstyle"]
 date = "2018-01-05T15:12:35+00:00"
 slug = ""
-tags = []
-thumbnail = "/uploads/2018/01/05/_MGL5416.JPG"
+tags = ["proudlock", "proudlockstyle", "menswear", "doubledenim", "streetstyle", "streetwear", "diesel", "gstarraw", "sergedenimes"]
+thumbnail = "/uploads/2018/01/05/_MGL5425.JPG"
 title = "DOUBLE | TIEDYE | DENIM"
 
 +++
