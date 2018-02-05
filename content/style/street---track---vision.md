@@ -2,7 +2,6 @@
 attachments = ["/uploads/2018/02/05/_mgl5463.JPG", "/uploads/2018/02/05/_mgl5489.JPG", "/uploads/2018/02/05/_mgl5474.JPG", "/uploads/2018/02/05/_mgl5484.JPG"]
 categories = []
 date = "2018-02-05T13:25:20+00:00"
-draft = true
 slug = ""
 tags = []
 thumbnail = "/uploads/2018/02/05/_mgl5468.JPG"
