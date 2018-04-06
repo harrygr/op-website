@@ -2,7 +2,6 @@
 attachments = ["/uploads/2018/04/04/_MGL9496-Edit 2.jpg", "/uploads/2018/04/04/_MGL9466.jpg", "/uploads/2018/04/04/_MGL9424.JPG", "/uploads/2018/04/04/_MGL9401-1.jpg"]
 categories = ["menstyle", "menfashion", "streetwear", "streetstyle"]
 date = "2018-04-04T14:51:13+00:00"
-draft = true
 slug = ""
 tags = ["proudlock", "proudlockstyle", "levis", "sergedenimes", "neuwdenim", "frankwright", "mensjewellery", "silverpremiumjewellery", "madeinchelsea"]
 thumbnail = "/uploads/2018/04/04/_MGL9401.jpg"
